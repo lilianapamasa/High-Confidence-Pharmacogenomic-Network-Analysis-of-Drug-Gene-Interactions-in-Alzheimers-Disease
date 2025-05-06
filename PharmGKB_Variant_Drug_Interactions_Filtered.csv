@@ -1,0 +1,343 @@
+Gene,Variant,Drug,category
+NR1I2,rs7643645,donepezil,antidementia
+NR1I2,rs1523130,donepezil,antidementia
+NR1I2,rs2472677,donepezil,antidementia
+NR1I2,rs1523130,memantine,antidementia
+PRKCE,rs6720975,donepezil,antidementia
+PRKCE,rs6720975,galantamine,antidementia
+PRKCE,rs6720975,rivastigmine,antidementia
+CYP3A4,rs4646437,galantamine,antidementia
+CYP3A4,rs35599367,galantamine,antidementia
+CYP3A4,rs4986910,donepezil,antidementia
+CYP3A4,rs67666821,donepezil,antidementia
+CYP3A4,rs35599367,donepezil,antidementia
+CYP3A4,rs2740574,donepezil,antidementia
+CYP3A4,rs4646437,donepezil,antidementia
+ANKS1B,rs7968606,amisulpride,antipsychotic
+NRXN1,rs10490162,antipsychotics,antipsychotic
+NRXN1,rs12467557,antipsychotics,antipsychotic
+NEFM,rs1379357,antipsychotics,antipsychotic
+NEFM,rs1457266,antipsychotics,antipsychotic
+CACNA2D3,rs4505744,antipsychotics,antipsychotic
+CACNA2D3,rs7427395,antipsychotics,antipsychotic
+RGS4,rs951436,antipsychotics,antipsychotic
+RGS4,rs951439,quetiapine,antipsychotic
+RGS4,rs951439,ziprasidone,antipsychotic
+RGS4,rs2842030,olanzapine,antipsychotic
+RGS4,rs2842030,perphenazine,antipsychotic
+RGS4,rs951439,olanzapine,antipsychotic
+RGS4,rs951439,perphenazine,antipsychotic
+CACNA1B,rs2229949,antipsychotics,antipsychotic
+HTR2A,rs7997012,olanzapine,antipsychotic
+HTR2A,rs6313,olanzapine,antipsychotic
+HTR2A,rs6314,olanzapine,antipsychotic
+HTR2A,rs6313,lithium,antipsychotic
+HTR2A,rs9567733,antipsychotics,antipsychotic
+HTR2A,rs6311,antipsychotics,antipsychotic
+HTR2A,rs6313,antipsychotics,antipsychotic
+HTR2A,rs7997012,antipsychotics,antipsychotic
+HTR2A,rs6314,clozapine,antipsychotic
+HTR2A,rs6314,antipsychotics,antipsychotic
+SNAP25,rs1051312,antipsychotics,antipsychotic
+SNAP25,rs8636,amisulpride,antipsychotic
+PDE4D,rs17742120,quetiapine,antipsychotic
+PDE4D,rs2164660,quetiapine,antipsychotic
+PDE4D,rs17382202,quetiapine,antipsychotic
+CYP2C18,rs1126545,clozapine,antipsychotic
+ELAVL2,rs73482673,clozapine,antipsychotic
+UCP2,rs660339,antipsychotics,antipsychotic
+UCP2,rs659366,antipsychotics,antipsychotic
+UCP2,rs649446,antipsychotics,antipsychotic
+UCP2,rs586773,antipsychotics,antipsychotic
+UCP2,rs591758,antipsychotics,antipsychotic
+UCP2,rs655717,antipsychotics,antipsychotic
+NTRK2,rs1778929,clozapine,antipsychotic
+NTRK2,rs1187327,lithium,antipsychotic
+NTRK2,rs1387923,lithium,antipsychotic
+NTRK2,rs2289656,lithium,antipsychotic
+NTRK2,rs1187326,lithium,antipsychotic
+NTRK2,rs1565445,lithium,antipsychotic
+NTRK2,rs10465180,clozapine,antipsychotic
+GSTP1,rs1695,clozapine,antipsychotic
+GSTP1,rs1695,olanzapine,antipsychotic
+DGKB,rs1525085,antipsychotics,antipsychotic
+LEPR,rs1137101,olanzapine,antipsychotic
+LEPR,rs1137101,clozapine,antipsychotic
+LEPR,rs1137101,antipsychotics,antipsychotic
+LEPR,rs1137101,quetiapine,antipsychotic
+PPARA,rs1800234,clozapine,antipsychotic
+FTO,rs1421085,antipsychotics,antipsychotic
+FTO,rs8050136,antipsychotics,antipsychotic
+FTO,rs9930506,antipsychotics,antipsychotic
+FTO,rs9939609,antipsychotics,antipsychotic
+IL1B,rs16944,antipsychotics,antipsychotic
+IL1B,rs1143634,antipsychotics,antipsychotic
+IL1B,rs4849127,antipsychotics,antipsychotic
+FAM178B,rs6728642,lithium,antipsychotic
+CDH13,rs2116971,perphenazine,antipsychotic
+PTPRN2,rs221253,olanzapine,antipsychotic
+GRIN2B,rs1072388,clozapine,antipsychotic
+GRIN2B,rs1806201,quetiapine,antipsychotic
+GRIN2B,rs890,lithium,antipsychotic
+SV2C,rs11960832,quetiapine,antipsychotic
+SV2C,rs10214163,quetiapine,antipsychotic
+SV2C,rs2134227,quetiapine,antipsychotic
+SV2C,rs1995381,olanzapine,antipsychotic
+SV2C,rs2270927,olanzapine,antipsychotic
+SV2C,rs6874435,olanzapine,antipsychotic
+SV2C,rs2112865,olanzapine,antipsychotic
+SV2C,rs4580760,olanzapine,antipsychotic
+SV2C,rs10214163,olanzapine,antipsychotic
+SV2C,rs12655684,ziprasidone,antipsychotic
+SV2C,rs11960832,olanzapine,antipsychotic
+SV2C,rs12522597,ziprasidone,antipsychotic
+SV2C,rs31244,quetiapine,antipsychotic
+PI4KA,rs165854,antipsychotics,antipsychotic
+MCPH1,rs17570753,perphenazine,antipsychotic
+IBA57,rs1059778,antipsychotics,antipsychotic
+PRKCE,rs2278773,perphenazine,antipsychotic
+CNR1,rs1049353,clozapine,antipsychotic
+CNR1,rs1049353,olanzapine,antipsychotic
+CNR1,rs806378,clozapine,antipsychotic
+CNR1,rs806378,olanzapine,antipsychotic
+CNR1,rs1049353,aripiprazole,antipsychotic
+CNR1,rs1049353,haloperidol,antipsychotic
+CNR1,rs1049353,quetiapine,antipsychotic
+CNR1,rs806374,antipsychotics,antipsychotic
+CCKBR,rs2929183,clozapine,antipsychotic
+CCKBR,rs2929183,olanzapine,antipsychotic
+CACNA1E,rs12060765,antipsychotics,antipsychotic
+GSK3B,rs3755557,lithium,antipsychotic
+GSK3B,rs334558,lithium,antipsychotic
+GSK3B,rs6438552,lithium,antipsychotic
+CACNG2,rs2284018,lithium,antipsychotic
+CACNG2,rs2284017,lithium,antipsychotic
+SCN8A,rs4512905,lithium,antipsychotic
+GABRB1,rs4627835,antipsychotics,antipsychotic
+GABRB1,rs16860087,antipsychotics,antipsychotic
+GIPR,rs10423928,olanzapine,antipsychotic
+CDH4,rs4925300,ziprasidone,antipsychotic
+HTR3A,rs1150226,clozapine,antipsychotic
+HTR3A,rs2276302,clozapine,antipsychotic
+HTR3A,rs1062613,clozapine,antipsychotic
+BDNF,rs6265,antipsychotics,antipsychotic
+BDNF,rs6265,lithium,antipsychotic
+BDNF,rs11030104,antipsychotics,antipsychotic
+BDNF,rs6265,olanzapine,antipsychotic
+CELF4,rs4799915,iloperidone,antipsychotic
+CACNB2,rs982003,antipsychotics,antipsychotic
+CACNB2,rs1277733,antipsychotics,antipsychotic
+CACNB2,rs4237348,antipsychotics,antipsychotic
+CACNB2,rs10741058,antipsychotics,antipsychotic
+CACNB2,rs12245847,antipsychotics,antipsychotic
+TDRD6,rs2270450,antipsychotics,antipsychotic
+CACNB4,rs3768652,antipsychotics,antipsychotic
+BDNF-AS,rs6265,antipsychotics,antipsychotic
+BDNF-AS,rs6265,lithium,antipsychotic
+BDNF-AS,rs10501087,antipsychotics,antipsychotic
+CYP2B6,Unknown Variant,quetiapine,antipsychotic
+CYP2B6,rs4803419,olanzapine,antipsychotic
+CYP2B6,rs2279345,olanzapine,antipsychotic
+DGKH,rs9315885,lithium,antipsychotic
+DGKH,rs1170191,lithium,antipsychotic
+DGKH,rs1012053,lithium,antipsychotic
+FAT1,rs2304865,aripiprazole,antipsychotic
+FAT1,rs2637777,aripiprazole,antipsychotic
+FAT1,rs2306987,aripiprazole,antipsychotic
+FAT1,rs2306990,aripiprazole,antipsychotic
+TRAC,rs377360,clozapine,antipsychotic
+PDLIM5,rs2433322,lithium,antipsychotic
+PDLIM5,rs2433320,lithium,antipsychotic
+ZNF804A,rs1344706,antipsychotics,antipsychotic
+ZNF804A,rs12693402,lithium,antipsychotic
+ZNF804A,rs62200793,lithium,antipsychotic
+CYP3A4,Unknown Variant,antipsychotics,antipsychotic
+CYP3A4,Unknown Variant,aripiprazole,antipsychotic
+CYP3A4,Unknown Variant,haloperidol,antipsychotic
+CYP3A4,Unknown Variant,pimozide,antipsychotic
+CYP3A4,rs2242480,haloperidol,antipsychotic
+CYP3A4,rs2740574,olanzapine,antipsychotic
+CYP3A4,Unknown Variant,brexpiprazole,antipsychotic
+CYP3A4,Unknown Variant,n-desmethylclozapine,antipsychotic
+CYP3A4,rs4986910,aripiprazole,antipsychotic
+CYP3A4,rs4986910,olanzapine,antipsychotic
+CYP3A4,rs67666821,aripiprazole,antipsychotic
+CYP3A4,rs67666821,olanzapine,antipsychotic
+CYP3A4,rs35599367,aripiprazole,antipsychotic
+CYP3A4,rs35599367,olanzapine,antipsychotic
+CYP3A4,Unknown Variant,quetiapine,antipsychotic
+CYP3A4,Unknown Variant,olanzapine,antipsychotic
+CYP3A4,Unknown Variant,clozapine,antipsychotic
+GAL,rs948854,benzodiazepine derivatives,anxiolytic
+SCN1A,rs2298771,clobazam,anxiolytic
+CYP2B6,Unknown Variant,diazepam,anxiolytic
+CYP3A4,rs35599367,alprazolam,anxiolytic
+CYP3A4,Unknown Variant,alprazolam,anxiolytic
+CYP3A4,rs35599367,diazepam,anxiolytic
+NRXN1,rs4971678,duloxetine,antidepressant
+MAPK1,rs6928,antidepressants,antidepressant
+MAPK1,rs13515,antidepressants,antidepressant
+MAPK1,rs8136867,antidepressants,antidepressant
+TPH2,rs11178998,venlafaxine,antidepressant
+TPH2,rs11178997,venlafaxine,antidepressant
+TPH2,rs4570625,citalopram,antidepressant
+TPH2,rs10879346,antidepressants,antidepressant
+TPH2,rs4570625,venlafaxine,antidepressant
+TPH2,rs1487278,mirtazapine,antidepressant
+TPH2,rs1487278,venlafaxine,antidepressant
+TPH2,rs1386494,citalopram,antidepressant
+GRIA3,rs4825476,citalopram,antidepressant
+GRIA3,rs502434,Selective serotonin reuptake inhibitors,antidepressant
+GRIA3,rs502434,venlafaxine,antidepressant
+GRIA3,rs3761554,Selective serotonin reuptake inhibitors,antidepressant
+GRIA3,rs3761554,venlafaxine,antidepressant
+GRIA3,rs3761555,Selective serotonin reuptake inhibitors,antidepressant
+GRIA3,rs3761555,venlafaxine,antidepressant
+PHACTR1,rs4615376,Selective serotonin reuptake inhibitors,antidepressant
+PLCB1,rs6108160,Selective serotonin reuptake inhibitors,antidepressant
+HTR2A,rs6311,citalopram,antidepressant
+HTR2A,rs9567746,venlafaxine,antidepressant
+HTR2A,rs2274639,venlafaxine,antidepressant
+HTR2A,rs6311,venlafaxine,antidepressant
+HTR2A,rs2770296,bupropion,antidepressant
+HTR2A,rs6313,sertraline,antidepressant
+HTR2A,rs6313,citalopram,antidepressant
+HTR2A,rs6311,antidepressants,antidepressant
+HTR2A,rs6313,antidepressants,antidepressant
+HTR2A,rs7997012,antidepressants,antidepressant
+HTR2A,rs6311,sertraline,antidepressant
+HTR2A,rs17289304,citalopram,antidepressant
+HTR2A,rs17289304,sertraline,antidepressant
+HTR2A,rs6311,escitalopram,antidepressant
+HTR2A,rs6311,fluvoxamine,antidepressant
+HTR2A,rs3803189,escitalopram,antidepressant
+HTR2A,rs3803189,fluvoxamine,antidepressant
+HTR2A,rs3803189,sertraline,antidepressant
+HTR2A,rs6305,citalopram,antidepressant
+HTR2A,rs6305,sertraline,antidepressant
+HTR2A,rs6313,escitalopram,antidepressant
+HTR2A,rs6313,venlafaxine,antidepressant
+HTR2A,rs6311,Selective serotonin reuptake inhibitors,antidepressant
+HTR2A,rs3742278,sertraline,antidepressant
+HTR2A,rs7997012,sertraline,antidepressant
+HTR2A,rs6311,milnacipran,antidepressant
+HTR2A,rs7997012,citalopram,antidepressant
+HTR2A,rs7997012,escitalopram,antidepressant
+HTR2A,rs7997012,duloxetine,antidepressant
+HTR2A,rs6313,clomipramine,antidepressant
+HTR2A,rs6313,desvenlafaxine,antidepressant
+HTR2A,rs6313,duloxetine,antidepressant
+HTR2A,rs6313,moclobemide,antidepressant
+HTR2A,rs6313,Selective serotonin reuptake inhibitors,antidepressant
+HTR2A,rs6313,fluvoxamine,antidepressant
+HTR2A,rs7997012,nortriptyline,antidepressant
+HTR2A,rs6314,antidepressants,antidepressant
+HTR2A,rs7997012,Selective serotonin reuptake inhibitors,antidepressant
+HTR2A,rs6313,mirtazapine,antidepressant
+HTR2A,rs17288723,antidepressants,antidepressant
+HTR2A,rs1928040,Selective serotonin reuptake inhibitors,antidepressant
+HTR2A,rs7997012,fluvoxamine,antidepressant
+HTR2A,rs9316233,escitalopram,antidepressant
+HTR2A,rs6313,nortriptyline,antidepressant
+HTR2A,rs7997012,venlafaxine,antidepressant
+HTR2A,rs6311,duloxetine,antidepressant
+STMN2,rs113889867,Selective serotonin reuptake inhibitors,antidepressant
+RORA,rs809736,citalopram,antidepressant
+CRH,rs4737771,antidepressants,antidepressant
+CYP2C18,rs11188059,sertraline,antidepressant
+CYP2C18,rs2860840,sertraline,antidepressant
+CYP2C18,rs11188059,escitalopram,antidepressant
+CYP2C18,rs2860840,escitalopram,antidepressant
+NTRK2,rs2289656,antidepressants,antidepressant
+NTRK2,rs2289657,antidepressants,antidepressant
+NTRK2,rs2289658,antidepressants,antidepressant
+NTRK2,rs1778933,antidepressants,antidepressant
+NTRK2,rs1187352,antidepressants,antidepressant
+NTRK2,rs10868235,antidepressants,antidepressant
+NTRK2,rs1867283,antidepressants,antidepressant
+NTRK2,rs11140800,antidepressants,antidepressant
+NTRK2,rs1147198,antidepressants,antidepressant
+NTRK2,rs1187286,antidepressants,antidepressant
+NTRK2,rs1387923,antidepressants,antidepressant
+NTRK2,rs1439050,antidepressants,antidepressant
+NTRK2,rs3824519,antidepressants,antidepressant
+CAP2,rs910039,Selective serotonin reuptake inhibitors,antidepressant
+ATP10A,rs12595802,duloxetine,antidepressant
+DGCR5,rs1210638,Selective serotonin reuptake inhibitors,antidepressant
+ERICH3,rs11580409,antidepressants,antidepressant
+ERICH3,rs11580409,citalopram,antidepressant
+ERICH3,rs11580409,escitalopram,antidepressant
+OSMR,rs74378198,Selective serotonin reuptake inhibitors,antidepressant
+GRIK2,rs2518224,citalopram,antidepressant
+GAL,rs948854,antidepressants,antidepressant
+GAL,rs948854,mirtazapine,antidepressant
+GAL,rs948854,Selective serotonin reuptake inhibitors,antidepressant
+CHL1,rs1516338,antidepressants,antidepressant
+TGFBR3,rs12082710,antidepressants,antidepressant
+PON2,rs2299267,antidepressants,antidepressant
+RFK,rs11144870,citalopram,antidepressant
+RFK,rs11144870,escitalopram,antidepressant
+ADCY9,rs2230739,antidepressants,antidepressant
+GSK3B,rs334558,citalopram,antidepressant
+SERPINE1,rs2227631,citalopram,antidepressant
+SERPINE1,rs1799889,citalopram,antidepressant
+INVS,rs10123866,duloxetine,antidepressant
+REEP5,rs153549,citalopram,antidepressant
+REEP5,rs153549,sertraline,antidepressant
+REEP5,rs153560,citalopram,antidepressant
+REEP5,rs153560,sertraline,antidepressant
+HTR3A,rs1062613,fluvoxamine,antidepressant
+BDNF,rs6265,citalopram,antidepressant
+BDNF,rs6265,sertraline,antidepressant
+BDNF,rs6265,mirtazapine,antidepressant
+BDNF,rs962369,antidepressants,antidepressant
+BDNF,rs6265,antidepressants,antidepressant
+BDNF,rs7103411,citalopram,antidepressant
+BDNF,rs6265,escitalopram,antidepressant
+BDNF,rs7103411,escitalopram,antidepressant
+BDNF,rs7124442,antidepressants,antidepressant
+BDNF,rs7103411,antidepressants,antidepressant
+BDNF,rs962369,escitalopram,antidepressant
+BDNF,rs962369,nortriptyline,antidepressant
+BDNF,rs61888800,antidepressants,antidepressant
+BDNF,rs61888800,desipramine,antidepressant
+BDNF,rs7124442,citalopram,antidepressant
+BDNF,rs6265,amitriptyline,antidepressant
+BDNF,rs6265,clomipramine,antidepressant
+BDNF,rs6265,duloxetine,antidepressant
+BDNF,rs6265,imipramine,antidepressant
+BDNF,rs6265,milnacipran,antidepressant
+BDNF,rs6265,venlafaxine,antidepressant
+BDNF,rs6265,fluvoxamine,antidepressant
+NBEA,rs9315310,antidepressants,antidepressant
+GRIA1,rs1994862,Selective serotonin reuptake inhibitors,antidepressant
+TSPAN5,rs11947402,citalopram,antidepressant
+TSPAN5,rs11947402,escitalopram,antidepressant
+MTRF1L,rs766127,antidepressants,antidepressant
+MTCL1,rs2377898,Selective serotonin reuptake inhibitors,antidepressant
+BDNF-AS,rs6265,citalopram,antidepressant
+BDNF-AS,rs6265,sertraline,antidepressant
+BDNF-AS,rs11030101,escitalopram,antidepressant
+BDNF-AS,rs10501087,antidepressants,antidepressant
+CYP2B6,Unknown Variant,bupropion,antidepressant
+CYP2B6,rs8109525,bupropion,antidepressant
+CYP2B6,rs2279343,bupropion,antidepressant
+CYP2B6,rs3211371,bupropion,antidepressant
+CYP2B6,Unknown Variant,sertraline,antidepressant
+CYP2B6,rs12721655,bupropion,antidepressant
+CYP2B6,Unknown Variant,hydroxybupropion,antidepressant
+CYP2B6,rs3745274,bupropion,antidepressant
+CYP2B6,rs3745274,hydroxybupropion,antidepressant
+CYP2B6,rs8192709,bupropion,antidepressant
+CYP2B6,Unknown Variant,mirtazapine,antidepressant
+CYP2B6,rs535039125,bupropion,antidepressant
+CYP2B6,rs201500445,bupropion,antidepressant
+CYP2B6,rs374099483,bupropion,antidepressant
+CYP2B6,rs200458614,bupropion,antidepressant
+CYP2B6,rs148009906,bupropion,antidepressant
+CYP2B6,rs764288403,bupropion,antidepressant
+CYP2B6,rs58871670,bupropion,antidepressant
+CYP2B6,rs200238771,bupropion,antidepressant
+CYP2B6,rs117872433,bupropion,antidepressant
+NEDD4L,rs520210,citalopram,antidepressant
+CYP3A4,rs2740574,citalopram,antidepressant

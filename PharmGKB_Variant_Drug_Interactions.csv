@@ -1,0 +1,5210 @@
+Gene,Variant,Drug
+KCNAB1,rs6770663,bevacizumab
+CAMK4,rs306104,gemcitabine
+GRK3,rs5761122,opioids
+CD44,rs1467558,acetaminophen
+MACROD2,rs76026520,hydrocodone
+MACROD2,rs76026520,oxycodone
+ANKS1B,rs17028658,antineoplastic agents
+ANKS1B,rs17028658,corticosteroids
+ANKS1B,rs7968606,amisulpride
+ANKS1B,rs2133896,ethanol
+ANKS1B,rs2133896,heroin
+ANKS1B,rs2133896,methamphetamine
+NRXN1,rs4971678,duloxetine
+NRXN1,rs10490162,antipsychotics
+NRXN1,rs12467557,antipsychotics
+NRXN1,rs6721498,nicotine
+NRXN1,rs2193225,nicotine
+NRXN1,rs2193225,nicotine
+GLRB,rs17035723,acamprosate
+THRB,rs892940,salbutamol
+BCL11A,rs4671393,hydroxyurea
+BCL11A,rs6545816,hydroxyurea
+BCL11A,rs766432,hydroxyurea
+BCL11A,rs6706648,hydroxyurea
+BCL11A,rs1427407,hydroxyurea
+BCL11A,rs766432,hydroxyurea
+JAK2,rs12343867,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+GABRA2,rs279858,sevoflurane
+GABRA2,rs279847,dexmedetomidine
+GABRA2,rs11503014,propofol
+GABRA2,rs11503014,cocaine
+MAPK1,rs6928,antidepressants
+MAPK1,rs13515,antidepressants
+MAPK1,rs8136867,antidepressants
+MAPK1,rs1803545,glyburide
+MAPK1,rs3729910,glyburide
+MAPK1,rs8136867,antidepressants
+GRIN2A,rs2229193,methylphenidate
+NEFM,rs1379357,antipsychotics
+NEFM,rs1457266,antipsychotics
+CACNA2D3,rs11130424,radiotherapy
+CACNA2D3,rs4505744,antipsychotics
+CACNA2D3,rs7427395,antipsychotics
+PRKCB,rs11649514,atenolol
+PRKCB,rs9922316,dexmedetomidine
+HINT1,rs2278060,nicotine
+HINT1,rs2551038,opioids
+HINT1,rs3852209,opioids
+HINT1,rs3852209,nicotine
+HINT1,rs4696,daclatasvir
+HINT1,rs4696,sofosbuvir
+HINT1,rs7728773,daclatasvir
+HINT1,rs7728773,sofosbuvir
+HINT1,rs3852209,nicotine
+HINT1,rs2278060,nicotine
+HINT1,rs3864283,opioids
+RGS4,rs2842030,risperidone
+RGS4,rs951436,antipsychotics
+RGS4,rs951439,quetiapine
+RGS4,rs951439,ziprasidone
+RGS4,rs10917670,risperidone
+RGS4,rs2842030,olanzapine
+RGS4,rs2842030,perphenazine
+RGS4,rs951439,olanzapine
+RGS4,rs951439,perphenazine
+RGS4,rs951439,risperidone
+RGS4,rs2661319,risperidone
+RGS4,rs951439,olanzapine
+CALM1,rs12885713,cyclosporine
+TPH2,rs1487275,methadone
+TPH2,rs7305115,methadone
+TPH2,rs1386493,methadone
+TPH2,rs11178998,venlafaxine
+TPH2,rs11178997,venlafaxine
+TPH2,rs4570625,citalopram
+TPH2,rs4290270,disulfiram
+TPH2,rs10879346,antidepressants
+TPH2,rs10506645,methadone
+TPH2,rs4760820,methadone
+TPH2,rs9325202,methadone
+TPH2,rs2171363,methadone
+TPH2,rs2129575,methadone
+TPH2,rs4570625,venlafaxine
+TPH2,rs1843809,methylphenidate
+TPH2,rs4570625,methylphenidate
+TPH2,rs4570625,fluoxetine
+TPH2,rs1487278,mirtazapine
+TPH2,rs1487278,venlafaxine
+TPH2,rs1386494,citalopram
+TPH2,rs1386494,fluoxetine
+TPH2,rs1386494,paroxetine
+TPH2,rs7305115,atazanavir
+TPH2,rs7305115,efavirenz
+TPH2,rs4570625,atazanavir
+TPH2,rs4570625,efavirenz
+TPH2,rs1386493,atazanavir
+TPH2,rs1386493,efavirenz
+HS6ST3,rs118042719,tamoxifen
+GRIA3,rs4825476,citalopram
+GRIA3,rs502434,Selective serotonin reuptake inhibitors
+GRIA3,rs502434,venlafaxine
+GRIA3,rs3761554,Selective serotonin reuptake inhibitors
+GRIA3,rs3761554,venlafaxine
+GRIA3,rs3761555,Selective serotonin reuptake inhibitors
+GRIA3,rs3761555,venlafaxine
+KCNJ6,rs6517442,opioids
+KCNJ6,rs2070995,morphine
+KCNJ6,rs2070995,oxycodone
+KCNJ6,rs6517442,morphine
+KCNJ6,rs6517442,remifentanil
+KCNJ6,rs6517442,remifentanil
+KCNJ6,rs2070995,opioids
+KCNJ6,rs2070995,methadone
+KCNJ6,rs6517442,morphine
+KCNJ6,rs2070995,opioids
+KCNJ6,rs2070995,methadone
+KCNJ6,rs2835859,fentanyl
+KCNJ6,rs2070995,opioids
+TBL1XR1,rs57449396,allopurinol
+CACNA1B,rs2739260,nicardipine
+CACNA1B,rs2739260,nimodipine
+CACNA1B,rs2739258,nicardipine
+CACNA1B,rs2739258,nimodipine
+CACNA1B,rs2229949,antipsychotics
+DOK5,rs117532069,cyclophosphamide
+DOK5,rs117532069,cytarabine
+DOK5,rs117532069,daunorubicin
+DOK5,rs117532069,dexamethasone
+DOK5,rs117532069,doxorubicin
+DOK5,rs117532069,methotrexate
+DOK5,rs117532069,pegaspargase
+DOK5,rs117532069,prednisone
+DOK5,rs117532069,thioguanine
+DOK5,rs117532069,vincristine
+EFR3A,rs4736529,aspirin
+EFR3A,rs4736529,clopidogrel
+PHACTR1,rs4615376,Selective serotonin reuptake inhibitors
+PHACTR1,rs9349379,Selective serotonin (5HT1) agonists
+NLGN1,rs16857540,fluorouracil
+SPRY2,rs117876855,capecitabine
+SPRY2,rs139544515,capecitabine
+COQ5,rs10849757,hmg coa reductase inhibitors
+PLCB1,rs2745761,irinotecan
+PLCB1,rs6108160,Selective serotonin reuptake inhibitors
+HTR2A,rs7997012,olanzapine
+HTR2A,rs6313,risperidone
+HTR2A,rs6313,olanzapine
+HTR2A,rs6313,olanzapine
+HTR2A,rs6314,olanzapine
+HTR2A,rs7997012,olanzapine
+HTR2A,rs6311,citalopram
+HTR2A,rs9567746,venlafaxine
+HTR2A,rs2274639,venlafaxine
+HTR2A,rs6311,venlafaxine
+HTR2A,rs2770296,bupropion
+HTR2A,rs6314,olanzapine
+HTR2A,rs6313,sertraline
+HTR2A,rs6313,citalopram
+HTR2A,rs6311,antidepressants
+HTR2A,rs6311,antidepressants
+HTR2A,rs6313,antidepressants
+HTR2A,rs7997012,antidepressants
+HTR2A,rs659734,atorvastatin
+HTR2A,rs659734,pravastatin
+HTR2A,rs659734,simvastatin
+HTR2A,rs6313,paroxetine
+HTR2A,rs6312,atorvastatin
+HTR2A,rs6312,pravastatin
+HTR2A,rs6312,simvastatin
+HTR2A,rs6314,paroxetine
+HTR2A,rs6311,citalopram
+HTR2A,rs6311,fluoxetine
+HTR2A,rs6311,paroxetine
+HTR2A,rs6311,sertraline
+HTR2A,rs17289304,citalopram
+HTR2A,rs17289304,fluoxetine
+HTR2A,rs17289304,paroxetine
+HTR2A,rs17289304,sertraline
+HTR2A,rs6311,escitalopram
+HTR2A,rs6311,fluoxetine
+HTR2A,rs6311,fluvoxamine
+HTR2A,rs6311,sertraline
+HTR2A,rs6313,citalopram
+HTR2A,rs6313,fluoxetine
+HTR2A,rs6313,paroxetine
+HTR2A,rs6313,sertraline
+HTR2A,rs3803189,escitalopram
+HTR2A,rs3803189,fluoxetine
+HTR2A,rs3803189,fluvoxamine
+HTR2A,rs3803189,sertraline
+HTR2A,rs6311,citalopram
+HTR2A,rs6311,paroxetine
+HTR2A,rs6311,sertraline
+HTR2A,rs6305,citalopram
+HTR2A,rs6305,paroxetine
+HTR2A,rs6305,sertraline
+HTR2A,rs6311,fluvoxamine
+HTR2A,rs6311,paroxetine
+HTR2A,rs6311,escitalopram
+HTR2A,rs6311,fluoxetine
+HTR2A,rs6311,paroxetine
+HTR2A,rs6311,sertraline
+HTR2A,rs6311,venlafaxine
+HTR2A,rs6313,escitalopram
+HTR2A,rs6313,fluoxetine
+HTR2A,rs6313,paroxetine
+HTR2A,rs6313,sertraline
+HTR2A,rs6313,venlafaxine
+HTR2A,rs6311,Selective serotonin reuptake inhibitors
+HTR2A,rs6311,citalopram
+HTR2A,rs6311,escitalopram
+HTR2A,rs6313,escitalopram
+HTR2A,rs6311,citalopram
+HTR2A,rs6313,citalopram
+HTR2A,rs6313,citalopram
+HTR2A,rs6313,fluoxetine
+HTR2A,rs6311,fluoxetine
+HTR2A,rs6314,fluoxetine
+HTR2A,rs6305,fluoxetine
+HTR2A,rs6311,fluoxetine
+HTR2A,rs6313,fluoxetine
+HTR2A,rs6313,fluoxetine
+HTR2A,rs6313,sertraline
+HTR2A,rs6313,sertraline
+HTR2A,rs3742278,sertraline
+HTR2A,rs6313,sertraline
+HTR2A,rs7997012,sertraline
+HTR2A,rs6313,sertraline
+HTR2A,rs7997012,sertraline
+HTR2A,rs6311,milnacipran
+HTR2A,rs6311,venlafaxine
+HTR2A,rs6313,venlafaxine
+HTR2A,rs6311,paroxetine
+HTR2A,rs6311,venlafaxine
+HTR2A,rs6313,paroxetine
+HTR2A,rs6313,citalopram
+HTR2A,rs6311,escitalopram
+HTR2A,rs6311,escitalopram
+HTR2A,rs6311,escitalopram
+HTR2A,rs6311,fluoxetine
+HTR2A,rs6311,fluvoxamine
+HTR2A,rs6311,sertraline
+HTR2A,rs6311,escitalopram
+HTR2A,rs6311,fluoxetine
+HTR2A,rs6311,fluvoxamine
+HTR2A,rs6311,sertraline
+HTR2A,rs6311,citalopram
+HTR2A,rs6311,escitalopram
+HTR2A,rs6311,fluoxetine
+HTR2A,rs6311,paroxetine
+HTR2A,rs6311,sertraline
+HTR2A,rs6311,escitalopram
+HTR2A,rs6311,fluoxetine
+HTR2A,rs6311,paroxetine
+HTR2A,rs6311,sertraline
+HTR2A,rs6311,venlafaxine
+HTR2A,rs6313,sertraline
+HTR2A,rs6313,sertraline
+HTR2A,rs6311,fluvoxamine
+HTR2A,rs6311,fluvoxamine
+HTR2A,rs6311,fluvoxamine
+HTR2A,rs6311,paroxetine
+HTR2A,rs7997012,citalopram
+HTR2A,rs7997012,escitalopram
+HTR2A,rs7997012,fluoxetine
+HTR2A,rs7997012,paroxetine
+HTR2A,rs7997012,sertraline
+HTR2A,rs6311,milnacipran
+HTR2A,rs7997012,citalopram
+HTR2A,rs7997012,escitalopram
+HTR2A,rs7997012,fluoxetine
+HTR2A,rs7997012,paroxetine
+HTR2A,rs7997012,sertraline
+HTR2A,rs7997012,sertraline
+HTR2A,rs7997012,escitalopram
+HTR2A,rs7997012,escitalopram
+HTR2A,rs7997012,fluoxetine
+HTR2A,rs7997012,duloxetine
+HTR2A,rs6313,lithium
+HTR2A,rs6311,escitalopram
+HTR2A,rs6311,Selective serotonin reuptake inhibitors
+HTR2A,rs9567733,antipsychotics
+HTR2A,rs6311,risperidone
+HTR2A,rs6313,risperidone
+HTR2A,rs6313,clomipramine
+HTR2A,rs6313,desvenlafaxine
+HTR2A,rs6313,duloxetine
+HTR2A,rs6313,moclobemide
+HTR2A,rs6313,Selective serotonin reuptake inhibitors
+HTR2A,rs6313,venlafaxine
+HTR2A,rs6312,opioids
+HTR2A,rs6311,opioids
+HTR2A,rs6313,risperidone
+HTR2A,rs6313,paroxetine
+HTR2A,rs7997012,antidepressants
+HTR2A,rs6313,antidepressants
+HTR2A,rs6313,antidepressants
+HTR2A,rs6311,antidepressants
+HTR2A,rs6311,risperidone
+HTR2A,rs6313,antidepressants
+HTR2A,rs7997012,antidepressants
+HTR2A,rs6311,antidepressants
+HTR2A,rs6313,olanzapine
+HTR2A,rs6313,risperidone
+HTR2A,rs6313,olanzapine
+HTR2A,rs7997012,citalopram
+HTR2A,rs7997012,fluoxetine
+HTR2A,rs7997012,paroxetine
+HTR2A,rs6313,citalopram
+HTR2A,rs6313,fluoxetine
+HTR2A,rs6313,paroxetine
+HTR2A,rs6313,fluvoxamine
+HTR2A,rs6313,paroxetine
+HTR2A,rs6313,fluvoxamine
+HTR2A,rs6313,paroxetine
+HTR2A,rs6313,fluvoxamine
+HTR2A,rs6313,paroxetine
+HTR2A,rs6311,antidepressants
+HTR2A,rs7997012,antidepressants
+HTR2A,rs6311,risperidone
+HTR2A,rs7997012,morphine
+HTR2A,rs7997012,nortriptyline
+HTR2A,rs6313,citalopram
+HTR2A,rs6313,sertraline
+HTR2A,rs6311,citalopram
+HTR2A,rs6311,sertraline
+HTR2A,rs6314,antidepressants
+HTR2A,rs6313,escitalopram
+HTR2A,rs6311,escitalopram
+HTR2A,rs7997012,escitalopram
+HTR2A,rs6313,fluoxetine
+HTR2A,rs6313,risperidone
+HTR2A,rs6311,ustekinumab
+HTR2A,rs6313,olanzapine
+HTR2A,rs7997012,escitalopram
+HTR2A,rs6311,fluvoxamine
+HTR2A,rs6313,olanzapine
+HTR2A,rs6311,buprenorphine
+HTR2A,rs6311,methadone
+HTR2A,rs6311,Selective serotonin reuptake inhibitors
+HTR2A,rs7997012,Selective serotonin reuptake inhibitors
+HTR2A,rs6311,nicotine
+HTR2A,rs6313,mirtazapine
+HTR2A,rs6313,paroxetine
+HTR2A,rs6311,nicotine
+HTR2A,rs6305,Analgesics
+HTR2A,rs6305,"Antiinflammatory agents, non-steroids"
+HTR2A,rs6305,Ergot alkaloids
+HTR2A,rs6305,opioids
+HTR2A,rs6305,sumatriptan
+HTR2A,rs6313,citalopram
+HTR2A,rs6313,citalopram
+HTR2A,rs17288723,antidepressants
+HTR2A,rs7997012,antidepressants
+HTR2A,rs6311,antipsychotics
+HTR2A,rs7997012,citalopram
+HTR2A,rs7997012,antidepressants
+HTR2A,rs1928040,Selective serotonin reuptake inhibitors
+HTR2A,rs7997012,citalopram
+HTR2A,rs7997012,fluvoxamine
+HTR2A,rs7997012,paroxetine
+HTR2A,rs7997012,sertraline
+HTR2A,rs6314,paroxetine
+HTR2A,rs6313,paroxetine
+HTR2A,rs7997012,citalopram
+HTR2A,rs9316233,escitalopram
+HTR2A,rs6311,citalopram
+HTR2A,rs6313,morphine
+HTR2A,rs6313,nortriptyline
+HTR2A,rs6311,citalopram
+HTR2A,rs6311,fluoxetine
+HTR2A,rs6311,paroxetine
+HTR2A,rs6313,antipsychotics
+HTR2A,rs6313,efavirenz
+HTR2A,rs6311,fluvoxamine
+HTR2A,rs6311,paroxetine
+HTR2A,rs6311,opioids
+HTR2A,rs6311,antipsychotics
+HTR2A,rs7997012,antipsychotics
+HTR2A,rs6311,escitalopram
+HTR2A,rs6314,clozapine
+HTR2A,rs6311,citalopram
+HTR2A,rs6311,sertraline
+HTR2A,rs6313,antidepressants
+HTR2A,rs6313,propofol
+HTR2A,rs6314,paroxetine
+HTR2A,rs6311,fluvoxamine
+HTR2A,rs6311,Selective serotonin reuptake inhibitors
+HTR2A,rs7997012,venlafaxine
+HTR2A,rs9316233,escitalopram
+HTR2A,rs6311,Selective serotonin reuptake inhibitors
+HTR2A,rs6311,risperidone
+HTR2A,rs6313,duloxetine
+HTR2A,rs6311,duloxetine
+HTR2A,rs7997012,duloxetine
+HTR2A,rs6314,antipsychotics
+HTR2A,rs7997012,antipsychotics
+STMN2,rs113889867,Selective serotonin reuptake inhibitors
+SYT1,rs2251214,cocaine
+SYT1,rs2251214,cocaine
+KCNMB1,rs2301149,verapamil
+KCNMB1,rs11739136,dexmedetomidine
+KCNMB1,rs11739136,verapamil
+KCNMB1,rs703505,tocilizumab
+DPP6,rs2533200,ethanol
+RORA,rs4774388,interferon beta-1a
+RORA,rs809736,citalopram
+WWOX,rs2550731,gemcitabine
+WWOX,rs11644322,gemcitabine
+WWOX,rs9927200,sorafenib
+WWOX,rs4502225,antineoplastic agents
+WWOX,rs13338697,cisplatin
+WWOX,rs13338697,fluorouracil
+WWOX,rs13338697,mitoxantrone
+WWOX,rs13338697,cisplatin
+WWOX,rs13338697,fluorouracil
+LARP1B,rs4834232,cisplatin
+SNAP25,rs3746544,methylphenidate
+SNAP25,rs3746544,methylphenidate
+SNAP25,rs1051312,antipsychotics
+SNAP25,rs1051312,methylphenidate
+SNAP25,rs1051312,methylphenidate
+SNAP25,rs3746544,methylphenidate
+SNAP25,rs3746544,methylphenidate
+SNAP25,rs363020,methylphenidate
+SNAP25,rs8636,amisulpride
+SNAP25,rs3746544,methylphenidate
+ASNS,rs3832526,l-asparagine
+ASNS,rs3832526,prednisone
+ASNS,rs3832526,vincristine
+ASNS,rs1049674,l-asparagine
+ASNS,rs1049674,prednisone
+ASNS,rs1049674,vincristine
+NEUROD1,rs1801262,repaglinide
+NEUROD1,rs1801262,repaglinide
+ALDH5A1,rs2760118,methadone
+ALDH5A1,rs72552282,antiepileptics
+ALDH5A1,rs72552282,levetiracetam
+ALDH5A1,rs72552282,phenytoin
+ALDH5A1,rs72552282,valproic acid
+CERS6,rs13393173,adalimumab
+CERS6,rs13393173,certolizumab pegol
+CERS6,rs13393173,etanercept
+CERS6,rs13393173,infliximab
+CERS6,rs13393173,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+CERS6,rs13393173,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+CERS6,rs13022792,cisplatin
+APOC1,rs4420638,hmg coa reductase inhibitors
+APOC1,rs7412,warfarin
+APOC1,rs429358,warfarin
+APOC1,rs429358,"Antivirals for treatment of HIV infections, combinations"
+APOC1,rs429358,ritonavir
+APOC1,rs429358,acitretin
+APOC1,rs7412,acitretin
+APOC1,rs429358,warfarin
+APOC1,rs7412,tenofovir
+APOC1,rs7412,warfarin
+DROSHA,rs2287584,asparaginase
+DROSHA,rs2287584,cyclophosphamide
+DROSHA,rs2287584,cytarabine
+DROSHA,rs2287584,daunorubicin
+DROSHA,rs2287584,mercaptopurine
+DROSHA,rs2287584,methotrexate
+DROSHA,rs2287584,prednisone
+DROSHA,rs2287584,vincristine
+DROSHA,rs4867329,asparaginase
+DROSHA,rs4867329,cyclophosphamide
+DROSHA,rs4867329,cytarabine
+DROSHA,rs4867329,daunorubicin
+DROSHA,rs4867329,mercaptopurine
+DROSHA,rs4867329,methotrexate
+DROSHA,rs4867329,prednisone
+DROSHA,rs4867329,vincristine
+DROSHA,rs3805500,asparaginase
+DROSHA,rs3805500,cyclophosphamide
+DROSHA,rs3805500,cytarabine
+DROSHA,rs3805500,daunorubicin
+DROSHA,rs3805500,mercaptopurine
+DROSHA,rs3805500,methotrexate
+DROSHA,rs3805500,prednisone
+DROSHA,rs3805500,vincristine
+DROSHA,rs639174,cyclophosphamide
+DROSHA,rs639174,cytarabine
+DROSHA,rs639174,daunorubicin
+DROSHA,rs639174,mercaptopurine
+DROSHA,rs639174,methotrexate
+DROSHA,rs639174,prednisone
+DROSHA,rs639174,vincristine
+PDE4D,rs17742120,quetiapine
+PDE4D,rs2164660,quetiapine
+PDE4D,rs17382202,quetiapine
+PDE4D,rs702553,diuretics
+PDE4D,rs295943,apremilast
+PDE4D,rs10556657,tildrakizumab
+PDE4D,rs12658429,vincristine
+SPATS2L,rs295114,salbutamol
+SPATS2L,rs295137,salbutamol
+SPATS2L,rs295137,salbutamol
+SPATS2L,rs295137,salbutamol
+RBFOX1,rs6500843,antineoplastic agents
+SH2D5,rs10916852,gemcitabine
+TUBB2A,rs9501929,cyclophosphamide
+TUBB2A,rs9501929,epirubicin
+TUBB2A,rs9501929,paclitaxel
+TSPYL1,rs3828743,abiraterone
+TSPYL1,rs3828743,prednisolone
+TSPYL1,rs3828743,cyclosporine
+TSPYL1,rs3828743,abiraterone
+TSPYL1,rs3828743,prednisolone
+GABRB2,rs2229944,carbamazepine
+GABRB2,rs2229944,phenobarbital
+GABRB2,rs2229944,phenytoin
+GABRB2,rs2229944,valproic acid
+PLCE1,rs932764,hydrochlorothiazide
+CRH,rs4737771,antidepressants
+OCRL,rs113165732,tenofovir
+OCRL,rs757639,tenofovir
+MAP2K4,rs2159140,ethanol
+CYP2C18,rs2901783,warfarin
+CYP2C18,rs41291550,warfarin
+CYP2C18,rs1042192,clopidogrel
+CYP2C18,rs1998591,acenocoumarol
+CYP2C18,rs11188059,sertraline
+CYP2C18,rs2860840,sertraline
+CYP2C18,rs1126545,clozapine
+CYP2C18,rs11188059,escitalopram
+CYP2C18,rs2860840,escitalopram
+CYP2C18,rs2901783,warfarin
+CYP2C18,rs2860840,voriconazole
+CYP2C18,rs11188059,voriconazole
+CYP2C18,rs11188059,lansoprazole
+CYP2C18,rs11188059,pantoprazole
+CYP2C18,rs2860840,lansoprazole
+CYP2C18,rs2860840,pantoprazole
+ELAVL2,rs73482673,clozapine
+TBXA2R,rs1131882,aspirin
+TBXA2R,rs4523,aspirin
+TBXA2R,rs5758,aspirin
+TBXA2R,rs1131882,aspirin
+TBXA2R,rs4523,aspirin
+IGFBP7,rs11934877,Bisphosphonates
+GALNT14,rs9679162,cisplatin
+GALNT14,rs9679162,fluorouracil
+GALNT14,rs9679162,mitoxantrone
+GALNT14,rs9679162,cisplatin
+GALNT14,rs9679162,fluorouracil
+GALNT14,rs9679162,mitoxantrone
+GALNT14,rs9679162,sorafenib
+GALNT14,rs9679162,sorafenib
+GALNT14,rs9679162,cisplatin
+GALNT14,rs9679162,fluorouracil
+GALNT14,rs9679162,doxorubicin
+GALNT14,rs9679162,cisplatin
+GALNT14,rs9679162,fluorouracil
+GALNT14,rs9679162,mitoxantrone
+GALNT14,rs12613732,cisplatin
+GALNT14,rs12613732,fluorouracil
+GALNT14,rs12613732,mitoxantrone
+GALNT14,rs6752303,cisplatin
+GALNT14,rs6752303,fluorouracil
+GALNT14,rs6752303,mitoxantrone
+GALNT14,rs10209881,cisplatin
+GALNT14,rs10209881,fluorouracil
+GALNT14,rs10209881,mitoxantrone
+GALNT14,rs12999804,cisplatin
+GALNT14,rs12999804,fluorouracil
+GALNT14,rs12999804,mitoxantrone
+GALNT14,rs5009910,cisplatin
+GALNT14,rs5009910,fluorouracil
+GALNT14,rs5009910,mitoxantrone
+GALNT14,rs7608731,cisplatin
+GALNT14,rs7608731,fluorouracil
+GALNT14,rs7608731,mitoxantrone
+PARD3B,rs17626122,fluorouracil
+PARD3B,rs17626122,oxaliplatin
+CAMK2N1,rs12023000,oxaliplatin
+WWTR1,rs3811715,cetuximab
+UCP2,rs659366,clopidogrel
+UCP2,rs660339,antipsychotics
+UCP2,rs659366,antipsychotics
+UCP2,rs649446,antipsychotics
+UCP2,rs586773,antipsychotics
+UCP2,rs591758,antipsychotics
+UCP2,rs655717,antipsychotics
+NTRK2,rs4358872,methadone
+NTRK2,rs2378676,methadone
+NTRK2,rs1778929,clozapine
+NTRK2,rs2289656,antidepressants
+NTRK2,rs2289657,antidepressants
+NTRK2,rs2289658,antidepressants
+NTRK2,rs1778933,antidepressants
+NTRK2,rs1187352,antidepressants
+NTRK2,rs10868235,antidepressants
+NTRK2,rs1867283,antidepressants
+NTRK2,rs11140800,antidepressants
+NTRK2,rs1147198,antidepressants
+NTRK2,rs1187286,antidepressants
+NTRK2,rs1387923,antidepressants
+NTRK2,rs2289658,methadone
+NTRK2,rs2120266,methadone
+NTRK2,rs4877900,methadone
+NTRK2,rs1187327,lithium
+NTRK2,rs1387923,lithium
+NTRK2,rs2289656,lithium
+NTRK2,rs1187326,lithium
+NTRK2,rs1565445,lithium
+NTRK2,rs1565445,valproic acid
+NTRK2,rs1387923,lithium
+NTRK2,rs10465180,clozapine
+NTRK2,rs1439050,antidepressants
+NTRK2,rs3824519,antidepressants
+NTRK2,rs1948308,methadone
+NTRK2,rs1439050,antidepressants
+ZNF568,rs10405238,opioids
+CAP2,rs910039,Selective serotonin reuptake inhibitors
+ATP10A,rs12913988,clopidogrel
+ATP10A,rs12595802,duloxetine
+GSTP1,rs1695,aspirin
+GSTP1,rs1695,cyclophosphamide
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,methotrexate
+GSTP1,rs1695,cyclophosphamide
+GSTP1,rs1695,doxorubicin
+GSTP1,rs1695,epirubicin
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,bevacizumab
+GSTP1,rs1695,capecitabine
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,docetaxel
+GSTP1,rs1695,epirubicin
+GSTP1,rs1695,oxaliplatin
+GSTP1,rs1695,trastuzumab
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,radiotherapy
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,epirubicin
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,leucovorin
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,leucovorin
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,epirubicin
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1138272,cisplatin
+GSTP1,rs1138272,cyclophosphamide
+GSTP1,rs1695,isoniazid
+GSTP1,rs1695,mercaptopurine
+GSTP1,rs1695,methotrexate
+GSTP1,rs1695,methotrexate
+GSTP1,rs1138272,cisplatin
+GSTP1,rs1138272,cyclophosphamide
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,cyclophosphamide
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,cyclophosphamide
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,doxorubicin
+GSTP1,rs1695,methotrexate
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,doxorubicin
+GSTP1,rs1695,methotrexate
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,doxorubicin
+GSTP1,rs1695,methotrexate
+GSTP1,rs1695,doxorubicin
+GSTP1,rs1695,doxorubicin
+GSTP1,rs1695,clozapine
+GSTP1,rs7952081,fluorouracil
+GSTP1,rs7952081,oxaliplatin
+GSTP1,rs1695,methotrexate
+GSTP1,rs1695,temozolomide
+GSTP1,rs1695,carboplatin
+GSTP1,rs1695,paclitaxel
+GSTP1,rs1695,lenalidomide
+GSTP1,rs1695,asparaginase
+GSTP1,rs1695,cyclophosphamide
+GSTP1,rs1695,cytarabine
+GSTP1,rs1695,doxorubicin
+GSTP1,rs1695,mercaptopurine
+GSTP1,rs1695,prednisone
+GSTP1,rs1695,vincristine
+GSTP1,rs1138272,thiotepa
+GSTP1,rs1695,nilotinib
+GSTP1,rs4147581,isoniazid
+GSTP1,rs4147581,rifampin
+GSTP1,rs1695,capecitabine
+GSTP1,rs1695,epirubicin
+GSTP1,rs1695,platinum
+GSTP1,rs1138272,antineoplastic agents
+GSTP1,rs1138272,corticosteroids
+GSTP1,rs1695,dexamethasone
+GSTP1,rs1695,diphenhydramine
+GSTP1,rs1695,paclitaxel
+GSTP1,rs1695,ranitidine
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,cyclophosphamide
+GSTP1,rs1695,isoniazid
+GSTP1,rs1695,rifampin
+GSTP1,rs1695,dimethyl fumarate
+GSTP1,rs1695,anthracyclines and related substances
+GSTP1,rs1695,oxaliplatin
+GSTP1,rs1695,imatinib
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,irinotecan
+GSTP1,rs1695,oxaliplatin
+GSTP1,rs1138272,cisplatin
+GSTP1,rs1695,Platinum compounds
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,oxaliplatin
+GSTP1,rs1695,cyclophosphamide
+GSTP1,rs1695,doxorubicin
+GSTP1,rs1695,cyclophosphamide
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,oxaliplatin
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,leucovorin
+GSTP1,rs1695,oxaliplatin
+GSTP1,rs1695,cyclophosphamide
+GSTP1,rs1695,bleomycin
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,etoposide
+GSTP1,rs1695,bleomycin
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,etoposide
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,cyclophosphamide
+GSTP1,rs1695,bleomycin
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,etoposide
+GSTP1,rs1138272,oxaliplatin
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,leucovorin
+GSTP1,rs1695,oxaliplatin
+GSTP1,rs1695,ethambutol
+GSTP1,rs1695,isoniazid
+GSTP1,rs1695,pyrazinamide
+GSTP1,rs1695,rifampin
+GSTP1,rs1695,streptomycin
+GSTP1,rs1695,olanzapine
+GSTP1,rs1695,doxorubicin
+GSTP1,rs1695,bevacizumab
+GSTP1,rs1695,capecitabine
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,docetaxel
+GSTP1,rs1695,epirubicin
+GSTP1,rs1695,oxaliplatin
+GSTP1,rs1695,trastuzumab
+GSTP1,rs1695,Platinum compounds
+GSTP1,rs1695,taxanes
+GSTP1,rs1695,Platinum compounds
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,cyclophosphamide
+GSTP1,rs1695,epirubicin
+GSTP1,rs1138272,fluorouracil
+GSTP1,rs1138272,leucovorin
+GSTP1,rs1138272,oxaliplatin
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,Platinum compounds
+GSTP1,rs1138272,Platinum compounds
+GSTP1,rs1695,Platinum compounds
+GSTP1,rs1695,Platinum compounds
+GSTP1,rs1695,oxaliplatin
+GSTP1,rs1695,oxaliplatin
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,cyclophosphamide
+GSTP1,rs1695,epirubicin
+GSTP1,rs1695,cyclophosphamide
+GSTP1,rs1695,epirubicin
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,oxaliplatin
+GSTP1,rs1695,docetaxel
+GSTP1,rs1695,doxorubicin
+GSTP1,rs1695,gemcitabine
+GSTP1,rs1695,olanzapine
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,leucovorin
+GSTP1,rs1695,levamisole
+GSTP1,rs1695,radiotherapy
+GSTP1,rs1695,epirubicin
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,oxaliplatin
+GSTP1,rs1695,oxaliplatin
+GSTP1,rs1695,cyclophosphamide
+GSTP1,rs1695,epirubicin
+GSTP1,rs1695,"Antivirals for treatment of HIV infections, combinations"
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,irinotecan
+GSTP1,rs1695,oxaliplatin
+GSTP1,rs1695,cyclophosphamide
+GSTP1,rs1695,doxorubicin
+GSTP1,rs1695,fluorouracil
+GSTP1,rs1695,carboplatin
+GSTP1,rs1695,cisplatin
+GSTP1,rs1695,gemcitabine
+GSTP1,rs1695,olanzapine
+GSTP1,rs1695,cyclophosphamide
+GSTP1,rs1695,doxorubicin
+ETV6,rs2724635,"Ace Inhibitors, Plain"
+TENT4A,rs274713,gemcitabine
+TENT4A,rs274717,gemcitabine
+DGKB,rs1525085,antipsychotics
+LATS2,rs558614,cetuximab
+MYT1L,rs79663562,allopurinol
+IGF1,rs7136446,tamoxifen
+IGF1,rs2946834,tamoxifen
+IGF1,rs6214,tamoxifen
+DGCR5,rs1210638,Selective serotonin reuptake inhibitors
+SULT1C4,rs1402467,docetaxel
+SULT1C4,rs1402467,thalidomide
+PIK3R1,rs10515074,everolimus
+PIK3R1,rs10515074,everolimus
+PIK3R1,rs3730089,egfr inhibitors
+ESR2,rs944050,gemcitabine
+ESR2,rs1256049,leflunomide
+ESR2,rs4986938,leflunomide
+ESR2,rs10140457,letrozole
+ESR2,rs12435857,anastrozole
+ESR2,rs12435857,letrozole
+ESR2,rs1256031,anastrozole
+ESR2,rs1256031,letrozole
+ESR2,rs1256064,anastrozole
+ESR2,rs1256064,letrozole
+ESR2,rs4986938,anastrozole
+ESR2,rs4986938,letrozole
+ESR2,rs8017441,anastrozole
+ESR2,rs8017441,letrozole
+ESR2,rs1256061,anastrozole
+ESR2,rs1256061,letrozole
+ESR2,rs1256120,anastrozole
+ESR2,rs1256120,letrozole
+ESR2,rs10148269,anastrozole
+ESR2,rs10148269,letrozole
+ESR2,rs1952586,anastrozole
+ESR2,rs1952586,letrozole
+ESR2,rs3020445,anastrozole
+ESR2,rs3020445,letrozole
+ESR2,rs944459,anastrozole
+ESR2,rs944459,letrozole
+ESR2,rs1152580,anastrozole
+ESR2,rs1152580,letrozole
+ESR2,rs1256049,alendronate
+ESR2,rs17179740,anastrozole
+ESR2,rs17179740,letrozole
+ESR2,rs4986938,tamoxifen
+MOB3B,rs7046653,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+MOB3B,rs2814707,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+MOB3B,rs868856,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+NELL1,rs12279250,hydrochlorothiazide
+PRKAG2,rs13224758,rivaroxaban
+PRKAG2,rs12703159,rivaroxaban
+PRKAG2,rs10224002,hydrochlorothiazide
+PRKAG2,rs4725434,metformin
+WIF1,rs10878232,Platinum compounds
+GNAS,rs7121,cisplatin
+GNAS,rs7121,fluorouracil
+GNAS,rs7121,cisplatin
+GNAS,rs7121,fluorouracil
+GNAS,rs62205366,dobutamine
+GNAS,rs62205366,dobutamine
+ACOT7,rs11121611,corticosteroids
+MDM2,rs2279744,Platinum compounds
+MDM2,rs1690924,Platinum compounds
+MDM2,rs1470383,Platinum compounds
+MDM2,rs1690924,Platinum compounds
+MDM2,rs2279744,Platinum compounds
+IGF2,rs4244809,Platinum compounds
+KRAS,rs112445441,cetuximab
+KRAS,rs61764370,cetuximab
+KRAS,rs61764370,panitumumab
+KRAS,rs121913529,cetuximab
+KRAS,rs112445441,cetuximab
+KRAS,rs112445441,fluorouracil
+KRAS,rs112445441,irinotecan
+KRAS,rs112445441,oxaliplatin
+KRAS,rs61764370,cetuximab
+KRAS,rs61764370,panitumumab
+KRAS,rs61764370,cetuximab
+KRAS,rs61764370,panitumumab
+KRAS,rs61764370,capecitabine
+KRAS,rs61764370,cetuximab
+KRAS,rs61764370,oxaliplatin
+KRAS,rs61764370,cetuximab
+KRAS,rs61764370,panitumumab
+KRAS,rs61764370,cetuximab
+KRAS,rs61764370,fluorouracil
+KRAS,rs61764370,irinotecan
+KRAS,rs112445441,cetuximab
+KRAS,rs112445441,irinotecan
+KRAS,rs112445441,cetuximab
+KRAS,rs112445441,cetuximab
+KRAS,rs112445441,cetuximab
+KRAS,rs112445441,panitumumab
+KRAS,rs112445441,cetuximab
+KRAS,rs112445441,cetuximab
+KRAS,rs112445441,panitumumab
+CSK,rs1378942,Beta Blocking Agents
+CSK,rs1378942,diltiazem
+CSK,rs1378942,"Thiazides, plain"
+CSK,rs1378942,hydrochlorothiazide
+RABEP1,rs1000940,glucose
+PPP3CA,rs3730251,tacrolimus
+PPP3CA,rs3730251,tacrolimus
+OPCML,rs751655,methylphenidate
+ELP5,rs4562,methylphenidate
+LEPR,rs1137101,olanzapine
+LEPR,rs1137101,clozapine
+LEPR,rs1137101,antipsychotics
+LEPR,rs1137101,antipsychotics
+LEPR,rs1805094,atorvastatin
+LEPR,rs1137101,clozapine
+LEPR,rs1137101,olanzapine
+LEPR,rs1137101,quetiapine
+LEPR,rs1137101,risperidone
+LEPR,rs1137101,valproic acid
+LEPR,rs1137101,simvastatin
+LEPR,rs1137101,simvastatin
+LEPR,rs1045895,apremilast
+LEPR,rs1137101,valproic acid
+LEPR,rs1137101,valproic acid
+IL6ST,rs2228043,purine analogues
+GABBR2,rs2779562,opioids
+GABBR2,rs2304389,opioids
+SLC16A5,rs4788863,cisplatin
+SLC16A5,rs4788863,cisplatin
+SRPRB,rs17376019,ethanol
+SRPRB,rs17376019,acetaldehyde
+NOC3L,rs12572897,clopidogrel
+PPARA,rs4253778,atenolol
+PPARA,rs4253778,Beta Blocking Agents
+PPARA,rs4253778,carvedilol
+PPARA,rs4253778,metoprolol
+PPARA,rs4823613,tacrolimus
+PPARA,rs4253728,tacrolimus
+PPARA,rs4253728,tacrolimus
+PPARA,rs4823613,simvastatin
+PPARA,rs4253728,sirolimus
+PPARA,rs4253728,2-hydroxyatorvastatin
+PPARA,rs149711321,metformin
+PPARA,rs4253728,tacrolimus
+PPARA,rs4253728,cyclosporine
+PPARA,rs4823613,cyclosporine
+PPARA,rs4823613,lovastatin acid
+PPARA,rs4823613,lovastatin
+PPARA,rs4253728,tacrolimus
+PPARA,rs4253728,simvastatin
+PPARA,rs4253728,tacrolimus
+PPARA,rs4823613,atorvastatin
+PPARA,rs4253728,atorvastatin
+PPARA,rs4823613,hmg coa reductase inhibitors
+PPARA,rs4253728,hmg coa reductase inhibitors
+PPARA,rs4823613,simvastatin
+PPARA,rs4253728,tacrolimus
+PPARA,rs1800206,fenofibrate
+PPARA,rs4253778,fenofibrate
+PPARA,rs1800206,fenofibrate
+PPARA,rs1800234,clozapine
+PPARA,rs4253728,risperidone
+PPARA,rs4253728,simvastatin
+PPARA,rs4823613,clopidogrel
+PPARA,rs4253728,clopidogrel
+PPARA,rs4253728,sirolimus
+PPARA,rs9626730,fenofibrate
+PPARA,rs135543,fenofibrate
+PPARA,rs135550,fenofibrate
+PPARA,rs4253728,sirolimus
+PPARA,rs4823613,tacrolimus
+PPARA,rs4253730,tacrolimus
+PPARA,rs4253728,tacrolimus
+PPARA,rs4253728,phenprocoumon
+PPARA,rs9626736,fluorouracil
+PPARA,rs9626736,irinotecan
+PPARA,rs9626736,leucovorin
+PPARA,rs1800234,chiglitazar
+PPARA,rs4253728,alectinib
+SLCO3A1,rs4294800,darunavir
+SLCO3A1,rs1517618,efavirenz
+SLCO3A1,rs1517618,lamivudine
+SLCO3A1,rs1517618,nevirapine
+SLCO3A1,rs1517618,zidovudine
+SLCO3A1,rs8027174,darunavir
+HUS1,rs2037483,mycophenolate mofetil
+HUS1,rs1056663,mycophenolate mofetil
+HTR4,rs4264931,opioids
+HTR4,rs2068190,opioids
+HTR4,rs1971431,opioids
+HTR4,rs1862342,opioids
+ERICH3,rs696692,serotonin
+ERICH3,rs11580409,antidepressants
+ERICH3,rs11580409,antidepressants
+ERICH3,rs11580409,antidepressants
+ERICH3,rs11580409,citalopram
+ERICH3,rs11580409,escitalopram
+CALCA,rs3781719,botulinum toxin type a
+CALCA,rs145837941,fentanyl
+CALCA,rs145837941,fentanyl
+CALCA,rs145837941,fentanyl
+CALCA,rs145837941,fentanyl
+POLR3G,rs2562519,nevirapine
+GABRB3,rs4906902,opioids
+FTO,rs12595985,atenolol
+FTO,rs9940629,atenolol
+FTO,rs9939609,"interferon alfa-2a, recombinant"
+FTO,rs9939609,"interferon alfa-2b, recombinant"
+FTO,rs9939609,ribavirin
+FTO,rs9937709,ethanol
+FTO,rs16952570,azathioprine
+FTO,rs16952570,mercaptopurine
+FTO,rs16952570,azathioprine
+FTO,rs16952570,mercaptopurine
+FTO,rs16952570,mercaptopurine
+FTO,rs79206939,azathioprine
+FTO,rs79206939,mercaptopurine
+FTO,rs16952570,azathioprine
+FTO,rs16952570,mercaptopurine
+FTO,rs4784333,hydrochlorothiazide
+FTO,rs17817449,ethanol
+FTO,rs6499640,risperidone
+FTO,rs1421085,risperidone
+FTO,rs1121980,risperidone
+FTO,rs1421085,antipsychotics
+FTO,rs8050136,antipsychotics
+FTO,rs9930506,antipsychotics
+FTO,rs9939609,antipsychotics
+FTO,rs11075995,PD-1/PDL-1 (Programmed cell death protein 1/death ligand 1) inhibitors
+FTO,rs12596638,PD-1/PDL-1 (Programmed cell death protein 1/death ligand 1) inhibitors
+FTO,rs1125338,PD-1/PDL-1 (Programmed cell death protein 1/death ligand 1) inhibitors
+NR1I2,rs2472677,rifampin
+NR1I2,rs1523127,carboplatin
+NR1I2,rs1523127,paclitaxel
+NR1I2,rs2472677,rosuvastatin
+NR1I2,rs6785049,tacrolimus
+NR1I2,rs2276707,tacrolimus
+NR1I2,rs12721616,rosuvastatin
+NR1I2,rs2472677,atazanavir
+NR1I2,rs1523130,atazanavir
+NR1I2,rs2472677,tacrolimus
+NR1I2,rs7643645,risperidone
+NR1I2,rs1523130,ritonavir
+NR1I2,rs6785049,ritonavir
+NR1I2,rs2276707,tacrolimus
+NR1I2,rs7643645,carbamazepine
+NR1I2,rs2461817,carbamazepine
+NR1I2,rs4688040,carbamazepine
+NR1I2,rs3814055,flucloxacillin
+NR1I2,rs1523127,efavirenz
+NR1I2,rs1523127,nevirapine
+NR1I2,rs1464602,midazolam
+NR1I2,rs1464603,midazolam
+NR1I2,rs12721613,midazolam
+NR1I2,rs2472677,dolutegravir
+NR1I2,rs10934498,irinotecan
+NR1I2,rs2276707,sunitinib
+NR1I2,rs3814055,sunitinib
+NR1I2,rs7643645,risperidone
+NR1I2,rs7643645,risperidone
+NR1I2,rs2276707,sunitinib
+NR1I2,rs2276707,sunitinib
+NR1I2,rs16830505,fluorouracil
+NR1I2,rs16830505,irinotecan
+NR1I2,rs16830505,leucovorin
+NR1I2,rs7643645,fluorouracil
+NR1I2,rs7643645,irinotecan
+NR1I2,rs7643645,leucovorin
+NR1I2,rs1523130,carboplatin
+NR1I2,rs1523130,paclitaxel
+NR1I2,rs1523130,atazanavir
+NR1I2,rs2472677,atazanavir
+NR1I2,rs6785049,sunitinib
+NR1I2,rs3814055,tacrolimus
+NR1I2,rs3814055,tacrolimus
+NR1I2,rs3814055,tacrolimus
+NR1I2,rs6785049,tacrolimus
+NR1I2,rs2276707,tacrolimus
+NR1I2,rs3814055,temsirolimus
+NR1I2,rs3842689,corticosteroids
+NR1I2,rs2461817,etonogestrel
+NR1I2,rs2472682,warfarin
+NR1I2,rs2472677,atazanavir
+NR1I2,rs2472677,atazanavir
+NR1I2,rs2472677,ritonavir
+NR1I2,rs1523130,nevirapine
+NR1I2,rs3842689,nevirapine
+NR1I2,rs3732359,docetaxel
+NR1I2,rs3732360,docetaxel
+NR1I2,rs3814058,docetaxel
+NR1I2,rs2461817,lamotrigine
+NR1I2,rs3814055,lamotrigine
+NR1I2,rs2472677,atazanavir
+NR1I2,rs3814057,adalimumab
+NR1I2,rs3814055,tacrolimus
+NR1I2,rs6785049,tacrolimus
+NR1I2,rs3814057,tacrolimus
+NR1I2,rs3732356,efavirenz
+NR1I2,rs12721616,efavirenz
+NR1I2,rs1464602,efavirenz
+NR1I2,rs13059232,cyclophosphamide
+NR1I2,rs3842689,tacrolimus
+NR1I2,rs7643645,donepezil
+NR1I2,rs1523130,donepezil
+NR1I2,rs2472677,donepezil
+NR1I2,rs7643645,risperidone
+NR1I2,rs2276707,risperidone
+NR1I2,rs2276706,repaglinide
+NR1I2,rs2276706,repaglinide
+NR1I2,rs3814058,repaglinide
+NR1I2,rs7643038,methotrexate
+NR1I2,rs3814055,methotrexate
+NR1I2,rs2461817,voriconazole
+NR1I2,rs7643645,voriconazole
+NR1I2,rs3814057,voriconazole
+NR1I2,rs6785049,methotrexate
+NR1I2,rs6785049,voriconazole
+NR1I2,rs3814055,temsirolimus
+NR1I2,rs2472677,atazanavir
+NR1I2,rs2472677,ritonavir
+NR1I2,rs2276707,sunitinib
+NR1I2,rs1523127,atazanavir
+NR1I2,rs1523127,ritonavir
+NR1I2,rs3814058,atazanavir
+NR1I2,rs3814058,ritonavir
+NR1I2,rs1523130,atazanavir
+NR1I2,rs1523130,ritonavir
+NR1I2,rs3732359,atazanavir
+NR1I2,rs3732359,ritonavir
+NR1I2,rs3732360,atazanavir
+NR1I2,rs3732360,ritonavir
+NR1I2,rs3814057,atazanavir
+NR1I2,rs3814057,ritonavir
+NR1I2,rs3814058,carbamazepine
+NR1I2,rs2276707,carbamazepine
+NR1I2,rs1523130,memantine
+NR1I2,rs1054190,efavirenz
+NR1I2,rs1054191,efavirenz
+NR1I2,rs6785049,efavirenz
+NR1I2,rs2472677,efavirenz
+NR1I2,rs6785049,temsirolimus
+NR1I2,rs3814058,methotrexate
+NR1I2,rs6785049,methotrexate
+NR1I2,rs2472677,sorafenib
+NR1I2,rs3814055,sorafenib
+NR1I2,rs10934498,sorafenib
+NR1I2,rs3814055,cyclosporine
+NR1I2,rs3814055,rifampin
+NR1I2,rs3732360,efavirenz
+NR1I2,rs3814057,efavirenz
+NR1I2,rs3814055,carbamazepine
+NR1I2,rs3814055,pazopanib
+NR1I2,rs2276707,cyclosporine
+NR1I2,rs2472677,nevirapine
+NR1I2,rs3814058,repaglinide
+NR1I2,rs2472677,risperidone
+NR1I2,rs2472677,temsirolimus
+NR1I2,rs6785049,sirolimus
+NR1I2,rs6785049,temsirolimus
+NR1I2,rs3814055,tacrolimus
+NR1I2,rs2472677,efavirenz
+NR1I2,rs6785049,efavirenz
+NR1I2,rs3732359,voriconazole
+NR1I2,rs2472677,atazanavir
+NR1I2,rs2472677,efavirenz
+NR1I2,rs2472677,ethambutol
+NR1I2,rs2472677,isoniazid
+NR1I2,rs2472677,rifampin
+NR1I2,rs2472677,isoniazid
+NR1I2,rs2472677,efavirenz
+NR1I2,rs2472677,ethambutol
+NR1I2,rs2472677,isoniazid
+NR1I2,rs2472677,rifampin
+NR1I2,rs6785049,afatinib
+NR1I2,rs6785049,afatinib
+NR1I2,rs3732357,rifampin
+NR1I2,rs3732357,ethambutol
+NR1I2,rs3732357,isoniazid / pyrazinamide / rifampin
+NR1I2,rs1523130,risperidone
+NR1I2,rs2276707,tacrolimus
+NR1I2,rs2276707,cyclosporine
+NR1I2,rs13059232,cyclophosphamide
+NR1I2,rs3814055,tacrolimus
+NR1I2,rs2276707,tacrolimus
+NR1I2,rs3814057,dexmedetomidine
+NR1I2,rs2472677,dolutegravir
+NR1I2,rs2461817,midazolam
+CYP7A1,rs3808607,atorvastatin
+CYP7A1,rs3808607,atorvastatin
+CYP7A1,rs3808607,atorvastatin
+CYP7A1,rs3808607,atorvastatin
+CTNNA2,rs11126740,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+HPGD,rs7349744,aspirin
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,azathioprine
+TYMS,rs45445694,FOLFOX
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,platinum
+TYMS,rs45445694,fluorouracil
+TYMS,rs2853542,methotrexate
+TYMS,rs11280056,fluorouracil
+TYMS,rs11280056,leucovorin
+TYMS,rs11280056,fluorouracil
+TYMS,rs11280056,leucovorin
+TYMS,rs45445694,fluorouracil
+TYMS,rs11280056,capecitabine
+TYMS,rs11280056,paclitaxel
+TYMS,rs11280056,capecitabine
+TYMS,rs11280056,fluorouracil
+TYMS,rs11280056,bevacizumab
+TYMS,rs11280056,capecitabine
+TYMS,rs11280056,cisplatin
+TYMS,rs11280056,docetaxel
+TYMS,rs11280056,epirubicin
+TYMS,rs11280056,oxaliplatin
+TYMS,rs11280056,trastuzumab
+TYMS,rs11280056,fluorouracil
+TYMS,rs11280056,methotrexate
+TYMS,rs11280056,methotrexate
+TYMS,rs11280056,methotrexate
+TYMS,rs11280056,carboplatin
+TYMS,rs11280056,gemcitabine
+TYMS,rs11280056,capecitabine
+TYMS,rs11280056,fluorouracil
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,mercaptopurine
+TYMS,rs45445694,methotrexate
+TYMS,rs3786362,risperidone
+TYMS,rs45445694,cisplatin
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,FOLFOX
+TYMS,rs45445694,XELOX
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,FOLFOX
+TYMS,rs45445694,XELOX
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,asparaginase
+TYMS,rs45445694,cytarabine
+TYMS,rs45445694,daunorubicin
+TYMS,rs45445694,etoposide
+TYMS,rs45445694,mercaptopurine
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,prednisone
+TYMS,rs45445694,vincristine
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,fluorouracil
+TYMS,rs11280056,methotrexate
+TYMS,rs11280056,methotrexate
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,methotrexate
+TYMS,rs11280056,antineoplastic agents
+TYMS,rs2853539,antineoplastic agents
+TYMS,rs45445694,fluorouracil
+TYMS,rs2853542,capecitabine
+TYMS,rs2853542,fluorouracil
+TYMS,rs45445694,fluorouracil
+TYMS,rs11280056,methotrexate
+TYMS,rs11280056,methotrexate
+TYMS,rs2847153,fluorouracil
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,leucovorin
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,fluorouracil
+TYMS,rs2853539,methotrexate
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,cisplatin
+TYMS,rs45445694,cyclophosphamide
+TYMS,rs45445694,dactinomycin
+TYMS,rs45445694,doxorubicin
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,vincristine
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,methotrexate
+TYMS,rs2847153,methotrexate
+TYMS,rs2244500,methotrexate
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,fluorouracil
+TYMS,rs11280056,methotrexate
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,folic acid
+TYMS,rs45445694,hydroxychloroquine
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,sulfasalazine
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,mercaptopurine
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,fluorouracil
+TYMS,rs11280056,folic acid
+TYMS,rs11280056,hydroxychloroquine
+TYMS,rs11280056,methotrexate
+TYMS,rs11280056,sulfasalazine
+TYMS,rs11280056,capecitabine
+TYMS,rs11280056,fluorouracil
+TYMS,rs11280056,bevacizumab
+TYMS,rs11280056,capecitabine
+TYMS,rs11280056,cisplatin
+TYMS,rs11280056,docetaxel
+TYMS,rs11280056,epirubicin
+TYMS,rs11280056,oxaliplatin
+TYMS,rs11280056,trastuzumab
+TYMS,rs11280056,fluorouracil
+TYMS,rs11280056,leucovorin
+TYMS,rs11280056,oxaliplatin
+TYMS,rs11280056,fluorouracil
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,gemcitabine
+TYMS,rs45445694,gemcitabine
+TYMS,rs45445694,cyclophosphamide
+TYMS,rs45445694,doxorubicin
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,raltitrexed
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,leucovorin
+TYMS,rs45445694,oxaliplatin
+TYMS,rs11280056,azacitidine
+TYMS,rs183205964,capecitabine
+TYMS,rs183205964,fluorouracil
+TYMS,rs183205964,tegafur
+TYMS,rs45445694,irinotecan
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,FOLFIRI
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,FOLFOX
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,methotrexate
+TYMS,rs699517,capecitabine
+TYMS,rs11280056,FOLFOX
+TYMS,rs11280056,methotrexate
+TYMS,rs45445694,FOLFOX
+TYMS,rs45445694,bevacizumab
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,cisplatin
+TYMS,rs45445694,docetaxel
+TYMS,rs45445694,epirubicin
+TYMS,rs45445694,oxaliplatin
+TYMS,rs45445694,trastuzumab
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,paclitaxel
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,paclitaxel
+TYMS,rs699517,capecitabine
+TYMS,rs45445694,cisplatin
+TYMS,rs45445694,epirubicin
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,leucovorin
+TYMS,rs45445694,oxaliplatin
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,cyclophosphamide
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,tegafur
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,irinotecan
+TYMS,rs45445694,raltitrexed
+TYMS,rs45445694,gemcitabine
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,leucovorin
+TYMS,rs45445694,tegafur
+TYMS,rs45445694,carboplatin
+TYMS,rs45445694,pemetrexed
+TYMS,rs45445694,carboplatin
+TYMS,rs45445694,cisplatin
+TYMS,rs45445694,docetaxel
+TYMS,rs45445694,gemcitabine
+TYMS,rs45445694,paclitaxel
+TYMS,rs45445694,vinorelbine
+TYMS,rs699517,methotrexate
+TYMS,rs45445694,methotrexate
+TYMS,rs2853741,capecitabine
+TYMS,rs11280056,methotrexate
+TYMS,rs11280056,pemetrexed
+TYMS,rs11280056,methotrexate
+TYMS,rs45445694,gemcitabine
+TYMS,rs45445694,bevacizumab
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,cisplatin
+TYMS,rs45445694,docetaxel
+TYMS,rs45445694,epirubicin
+TYMS,rs45445694,oxaliplatin
+TYMS,rs45445694,trastuzumab
+TYMS,rs11280056,cisplatin
+TYMS,rs11280056,docetaxel
+TYMS,rs11280056,fluorouracil
+TYMS,rs11280056,XELOX
+TYMS,rs11280056,FOLFIRI
+TYMS,rs11280056,FOLFOX
+TYMS,rs11280056,XELOX
+TYMS,rs45445694,methotrexate
+TYMS,rs45445694,cisplatin
+TYMS,rs45445694,epirubicin
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,cisplatin
+TYMS,rs45445694,epirubicin
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,leucovorin
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,leucovorin
+TYMS,rs11280056,capecitabine
+TYMS,rs45445694,capecitabine
+TYMS,rs45445694,fluorouracil
+TYMS,rs45445694,leucovorin
+TYMS,rs45445694,oxaliplatin
+TYMS,rs45445694,methotrexate
+TYMS,rs11280056,fluorouracil
+TYMS,rs11280056,fluorouracil
+TYMS,rs11280056,irinotecan
+TYMS,rs11280056,leucovorin
+CTNNB1,rs4533622,thalidomide
+CTNNB1,rs4135385,cyclophosphamide
+CTNNB1,rs4135385,dexamethasone
+CTNNB1,rs4135385,thalidomide
+CTNNB1,rs4135385,lenalidomide
+CTNNB1,rs4533622,lenalidomide
+IL1B,rs16944,sufentanil
+IL1B,rs1143634,pantoprazole
+IL1B,rs1143634,infliximab
+IL1B,rs1143627,aspirin
+IL1B,rs16944,tacrolimus
+IL1B,rs4848306,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+IL1B,rs16944,Bisphosphonates
+IL1B,rs16944,lansoprazole
+IL1B,rs16944,omeprazole
+IL1B,rs16944,rabeprazole
+IL1B,rs16944,lansoprazole
+IL1B,rs16944,omeprazole
+IL1B,rs16944,rabeprazole
+IL1B,rs16944,lansoprazole
+IL1B,rs16944,omeprazole
+IL1B,rs16944,rabeprazole
+IL1B,rs16944,omeprazole
+IL1B,rs16944,rabeprazole
+IL1B,rs1143634,omeprazole
+IL1B,rs1143634,rabeprazole
+IL1B,rs1143623,metformin
+IL1B,rs1143623,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+IL1B,rs1143623,ustekinumab
+IL1B,rs1143627,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+IL1B,rs1143627,ustekinumab
+IL1B,rs1143634,infliximab
+IL1B,rs16944,antipsychotics
+IL1B,rs1143634,antipsychotics
+IL1B,rs4849127,antipsychotics
+IL1B,rs12621220,Platinum compounds
+IL1B,rs1143623,Platinum compounds
+IL1B,rs16944,Platinum compounds
+IL1B,rs16944,pravastatin
+IL1B,rs16944,pravastatin
+IL1B,rs16944,pravastatin
+IL1B,rs1143634,opioids
+IL1B,rs1143634,morphine
+IL1B,rs1143634,morphine
+IL1B,rs1143634,aspirin
+IL1B,rs1143634,diclofenac
+IL1B,rs1143634,ibuprofen
+IL1B,rs1143634,indomethacin
+IL1B,rs1143634,ketorolac
+IL1B,rs1143634,naproxen
+IL1B,rs16944,aspirin
+IL1B,rs16944,diclofenac
+IL1B,rs16944,ibuprofen
+IL1B,rs16944,indomethacin
+IL1B,rs16944,ketorolac
+IL1B,rs16944,naproxen
+IL1B,rs16944,almotriptan
+IL1B,rs16944,eletriptan
+IL1B,rs16944,frovatriptan
+IL1B,rs16944,rizatriptan
+IL1B,rs16944,sumatriptan
+IL1B,rs16944,zolmitriptan
+IL1B,rs1143634,almotriptan
+IL1B,rs1143634,eletriptan
+IL1B,rs1143634,frovatriptan
+IL1B,rs1143634,rizatriptan
+IL1B,rs1143634,sumatriptan
+IL1B,rs1143634,zolmitriptan
+CLEC2D,rs1560011,tocilizumab
+SERPINA1,rs28929474,elexacaftor / tezacaftor / ivacaftor
+FAM178B,rs6728642,lithium
+DLGAP1,rs8092654,anastrozole
+DLGAP1,rs8092654,exemestane
+DLGAP1,rs281018,pravastatin
+OSMR,rs74378198,Selective serotonin reuptake inhibitors
+OSMR,rs1239344,radiotherapy
+GRIN3A,rs10121600,nicotine
+GRIN3A,rs11788456,nicotine
+GRIN3A,rs17189632,nicotine
+GRIN3A,rs3983721,methadone
+GRIN3A,rs1983812,methadone
+GRIN3A,rs7030238,methadone
+GRIN3A,rs10512285,methadone
+GRIN3A,rs942142,methadone
+TUT7,rs17461620,peginterferon alfa-2b
+TUT7,rs17461620,ribavirin
+PTGIR,rs1126510,aspirin
+GRM7,rs3792452,methylphenidate
+GRM7,rs2069062,risperidone
+GRM7,rs3792452,methylphenidate
+MLLT3,rs10964552,cisplatin
+MLLT3,rs6475448,montelukast
+GRIK2,rs2518224,citalopram
+SOCS3,rs4969170,peginterferon alfa-2a
+SOCS3,rs4969170,peginterferon alfa-2b
+SOCS3,rs4969170,ribavirin
+TRIB1,rs4351379,VEGF/VEGFR (Vascular Endothelial Growth Factor) inhibitors
+GAL,rs948854,antidepressants
+GAL,rs948854,benzodiazepine derivatives
+GAL,rs948854,mirtazapine
+GAL,rs948854,Selective serotonin reuptake inhibitors
+GAL,rs948854,opioids
+GAL,rs694066,heroin
+RBFOX3,rs56044629,"Ace Inhibitors, Plain"
+RBFOX3,rs62063838,"Ace Inhibitors, Plain"
+RBFOX3,rs2061538,"Ace Inhibitors, Plain"
+RBFOX3,rs56209714,"Ace Inhibitors, Plain"
+PRKCA,rs16960228,diuretics
+PRKCA,rs16960228,hydrochlorothiazide
+PRKCA,rs16960228,"Thiazides, plain"
+PRKCA,rs4791040,diuretics
+PRKCA,rs4791040,hydrochlorothiazide
+PRKCA,rs4791040,"Thiazides, plain"
+PRKCA,rs9909004,"Ace Inhibitors, Plain"
+PRKCA,rs9909004,Angiotensin II Antagonists
+PRKCA,rs9909004,Beta Blocking Agents
+PRKCA,rs9303504,"Ace Inhibitors, Plain"
+PRKCA,rs9303504,Angiotensin II Antagonists
+PRKCA,rs9303504,Beta Blocking Agents
+PRKCA,rs9381299,bevacizumab
+PTPRM,rs6506569,methotrexate
+PTPRM,rs6506569,methotrexate
+LIG3,rs1052536,cisplatin
+LIG3,rs1052536,cyclophosphamide
+LIG3,rs1052536,cisplatin
+LIG3,rs1052536,cyclophosphamide
+LIG3,rs1052536,carboplatin
+LIG3,rs1052536,paclitaxel
+CDH13,rs17682789,sorafenib
+CDH13,rs11646213,cisplatin
+CDH13,rs3784943,amphetamine
+CDH13,rs2116971,perphenazine
+CDH13,rs11859453,aspirin
+CDH13,rs11859453,clopidogrel
+ATG5,rs510432,adalimumab
+ATG5,rs9373839,adalimumab
+ATG5,rs9373839,tildrakizumab
+PTPRN2,rs221253,olanzapine
+CHL1,rs1516338,antidepressants
+EPHA5,rs7349683,paclitaxel
+EPHA5,rs7349683,paclitaxel
+EPHA5,rs7349683,paclitaxel
+EPHA5,rs7349683,paclitaxel
+EPHA5,rs7349683,paclitaxel
+SOD3,rs1799895,epirubicin
+SOD3,rs1799895,fluorouracil
+SOD3,rs1799895,oxaliplatin
+PPA2,rs2636697,risperidone
+PPA2,rs2636719,risperidone
+ATP2B1,rs17381194,hmg coa reductase inhibitors
+ATP2B1,rs12817819,Antihypertensives
+ATP2B1,rs1401982,Antihypertensives
+TRAF1,rs3761847,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+TRAF1,rs1081848,rituximab
+TRAF1,rs3761847,adalimumab
+TRAF1,rs3761847,etanercept
+TRAF1,rs3761847,infliximab
+TRAF1,rs3761847,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+TGFBR3,rs12082710,antidepressants
+GRIN2B,rs1806201,risperidone
+GRIN2B,rs1072388,clozapine
+GRIN2B,rs1806201,sevoflurane
+GRIN2B,rs2284411,methylphenidate
+GRIN2B,rs1806201,quetiapine
+GRIN2B,rs1806201,quetiapine
+GRIN2B,rs890,lithium
+GRIN2B,rs2160733,acamprosate
+GRIN2B,rs2160734,acamprosate
+GRIN2B,rs2058878,acamprosate
+GRIN2B,rs1019385,valproic acid
+GRIN2B,rs1019385,valproic acid
+GRIN2B,rs1806191,ketamine
+GRIN2B,rs1019385,ketamine
+PAH,rs138809906,carbocisteine
+PAH,rs138809906,l-phenylalanine
+PAH,rs5030843,l-phenylalanine
+PAH,rs76394784,carbocisteine
+PAH,rs75193786,carbocisteine
+PAH,rs75193786,l-phenylalanine
+PAH,rs5030849,l-phenylalanine
+PAH,rs76394784,l-phenylalanine
+PAH,rs62516101,carbocisteine
+PAH,rs62516101,l-phenylalanine
+PAH,rs5030858,l-phenylalanine
+PAH,rs5030858,carbocisteine
+PAH,rs5030860,carbocisteine
+PAH,rs5030843,carbocisteine
+PAH,rs5030849,carbocisteine
+PAH,rs2245360,atenolol
+PAH,rs5030860,l-phenylalanine
+ITGA9,rs11709385,pravastatin
+SV2C,rs11960832,quetiapine
+SV2C,rs10214163,quetiapine
+SV2C,rs2134227,quetiapine
+SV2C,rs1995381,olanzapine
+SV2C,rs2270927,olanzapine
+SV2C,rs6874435,olanzapine
+SV2C,rs2112865,olanzapine
+SV2C,rs4580760,olanzapine
+SV2C,rs10214163,olanzapine
+SV2C,rs12655684,ziprasidone
+SV2C,rs6882321,risperidone
+SV2C,rs7732173,risperidone
+SV2C,rs10514062,risperidone
+SV2C,rs2358531,risperidone
+SV2C,rs1995380,risperidone
+SV2C,rs11960832,olanzapine
+SV2C,rs12522597,ziprasidone
+SV2C,rs31244,quetiapine
+SEPTIN3,rs739296,codeine
+SEPTIN3,rs739296,hydrocodone
+SEPTIN3,rs739296,oxycodone
+SEPTIN3,rs739296,tramadol
+SEPTIN3,rs56234624,metoprolol
+SEPTIN3,rs1062753,dextromethorphan
+PI4KA,rs165854,antipsychotics
+SIK3,rs139961185,"Antivirals for treatment of HIV infections, combinations"
+SIK3,rs533556,hmg coa reductase inhibitors
+SLC28A1,rs11853372,gemcitabine
+SLC28A1,rs12148896,gemcitabine
+SLC28A1,rs3825876,gemcitabine
+SLC28A1,rs2242046,gemcitabine
+SLC28A1,rs2290272,capecitabine
+SLC28A1,rs17215836,gemcitabine
+SLC28A1,rs2290272,gemcitabine
+SLC28A1,rs2242047,gemcitabine
+SLC28A1,rs2242046,gemcitabine
+SLC28A1,rs11853372,ara-CTP
+SLC28A1,rs2242048,gemcitabine
+SLC28A1,rs8187758,gemcitabine
+SLC28A1,rs2290272,gemcitabine
+SLC28A1,rs17215836,gemcitabine
+SLC28A1,rs8187758,gemcitabine
+SLC28A1,rs2242048,gemcitabine
+SLC28A1,rs2242046,gemcitabine
+SLC28A1,rs8187758,stavudine
+SLC28A1,rs2305364,anthracyclines and related substances
+SLC28A1,rs2290271,anthracyclines and related substances
+SLC28A1,rs2290271,daunorubicin
+SLC28A1,rs2290271,doxorubicin
+SLC28A1,rs2305364,daunorubicin
+SLC28A1,rs2305364,doxorubicin
+SLC28A1,rs2242047,gemcitabine
+SLC28A1,rs8187758,gemcitabine
+SLC28A1,rs2242047,gemcitabine
+SLC28A1,rs2242048,gemcitabine
+PAX4,rs6467136,rosiglitazone
+PAX4,rs6467136,repaglinide
+PAX4,rs10229583,repaglinide
+PAX4,rs10229583,rosiglitazone
+PAX4,rs6467136,rosiglitazone
+PAX4,rs114202595,repaglinide
+MCPH1,rs2916733,cyclophosphamide
+MCPH1,rs2916733,epirubicin
+MCPH1,rs17570753,perphenazine
+KIF6,rs20455,simvastatin
+KIF6,rs20455,pravastatin
+KIF6,rs20455,pravastatin
+KIF6,rs20455,pravastatin
+KIF6,rs20455,simvastatin
+KIF6,rs20455,atorvastatin
+KIF6,rs20455,atorvastatin
+KIF6,rs20455,rosuvastatin
+KIF6,rs20455,simvastatin
+KIF6,rs20455,rosuvastatin
+KIF6,rs9471077,atorvastatin
+KIF6,rs9471077,pravastatin
+KIF6,rs9462535,atorvastatin
+KIF6,rs9462535,pravastatin
+KIF6,rs9462535,atorvastatin
+KIF6,rs9462535,pravastatin
+KIF6,rs20455,pravastatin
+KIF6,rs20455,atorvastatin
+KIF6,rs9471077,atorvastatin
+KIF6,rs9471077,pravastatin
+KIF6,rs9462535,hmg coa reductase inhibitors
+KIF6,rs9471077,hmg coa reductase inhibitors
+KIF6,rs20455,hmg coa reductase inhibitors
+KIF6,rs20455,atorvastatin
+KIF6,rs20455,pravastatin
+KIF6,rs20455,tenofovir
+KIF6,rs20455,atorvastatin
+KIF6,rs20455,rosuvastatin
+KIF6,rs20455,simvastatin
+KIF6,rs20455,atorvastatin
+KIF6,rs20455,simvastatin
+DAPK1,rs11141915,gemcitabine
+DAPK1,rs11141915,gemcitabine
+DAPK1,rs11141915,paclitaxel
+IBA57,rs1059778,antipsychotics
+NLRP3,rs4612666,etanercept
+NLRP3,rs4612666,infliximab
+NLRP3,rs10754558,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+PRKCE,rs11125039,sorafenib
+PRKCE,rs6720975,donepezil
+PRKCE,rs6720975,galantamine
+PRKCE,rs6720975,rivastigmine
+PRKCE,rs2278773,perphenazine
+PRKCE,rs11125035,radiotherapy
+PRKCE,rs940052,radiotherapy
+NAMPT,rs1319501,nitric oxide
+NAMPT,rs3801266,Antihypertensives
+NAMPT,rs1319501,Antihypertensives
+CADM2,rs62250713,ethanol
+ASPH,rs4379440,warfarin
+SH3BP2,rs6920220,adalimumab
+SH3BP2,rs6920220,etanercept
+SH3BP2,rs6920220,infliximab
+SH3BP2,rs6920220,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+SH3BP2,rs10499194,adalimumab
+SH3BP2,rs10499194,etanercept
+SH3BP2,rs10499194,infliximab
+SH3BP2,rs10499194,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+PCGF3,rs1044147,enalapril
+SLC4A8,rs12296477,ethanol
+IKBKG,rs1050828,artesunate
+IKBKG,rs1050828,primaquine
+IKBKG,rs1050828,pyrimethamine
+IKBKG,rs1050828,sulfadoxine
+IKBKG,rs1050828,artesunate
+IKBKG,rs1050828,primaquine
+IKBKG,rs1050828,pyrimethamine
+IKBKG,rs1050828,sulfadoxine
+ERAP2,rs2248374,secukinumab
+GATM,rs9806699,rosuvastatin
+GATM,rs9806699,hmg coa reductase inhibitors
+GATM,rs9806699,rosuvastatin
+GATM,rs9806699,simvastatin
+GATM,rs9806699,simvastatin
+GATM,rs9806699,hmg coa reductase inhibitors
+GATM,rs9806699,atorvastatin
+GATM,rs9806699,fluvastatin
+GATM,rs9806699,hmg coa reductase inhibitors
+GATM,rs9806699,pitavastatin
+GATM,rs9806699,pravastatin
+GATM,rs9806699,rosuvastatin
+GATM,rs9806699,simvastatin
+GATM,rs9806699,rosuvastatin
+GATM,rs9806699,hmg coa reductase inhibitors
+GATM,rs9806699,hmg coa reductase inhibitors
+CYP51A1,rs7793861,glyburide
+FZD3,rs7001034,paclitaxel
+STRBP,rs9032,methylphenidate
+SERPINA3,rs17091162,antineoplastic agents
+PON2,rs2299267,antidepressants
+TF,rs1799852,adalimumab
+RFK,rs11144870,citalopram
+RFK,rs11144870,escitalopram
+IL21R,rs3093390,peginterferon alfa-2b
+IL21R,rs3093390,ribavirin
+GALNT2,rs2144297,atenolol
+GALNT2,rs2144300,atenolol
+SLIT1,rs11189015,hydrochlorothiazide
+SLIT1,rs2784917,etoposide
+CNR1,rs806368,methadone
+CNR1,rs1049353,clozapine
+CNR1,rs1049353,olanzapine
+CNR1,rs2023239,opioids
+CNR1,rs6928499,opioids
+CNR1,rs12720071,opioids
+CNR1,rs806368,opioids
+CNR1,rs806368,cocaine
+CNR1,rs6454674,cocaine
+CNR1,rs806368,cocaine
+CNR1,rs806378,clozapine
+CNR1,rs806378,olanzapine
+CNR1,rs1049353,aripiprazole
+CNR1,rs1049353,clozapine
+CNR1,rs1049353,haloperidol
+CNR1,rs1049353,olanzapine
+CNR1,rs1049353,quetiapine
+CNR1,rs1049353,risperidone
+CNR1,rs806380,methadone
+CNR1,rs806378,risperidone
+CNR1,rs806368,risperidone
+CNR1,rs806377,risperidone
+CNR1,rs6928499,nicotine
+CNR1,rs806374,antipsychotics
+CNR1,rs806374,antipsychotics
+CNR1,rs6928499,nicotine
+CNR1,rs1049353,opioids
+CNR1,rs6454674,cocaine
+CNR1,rs1049353,risperidone
+CNR1,rs1049353,liraglutide
+SLC12A3,rs1529927,bumetanide
+SLC12A3,rs1529927,furosemide
+SLC12A3,rs1529927,torasemide
+SLC12A3,rs1529927,bumetanide
+SLC12A3,rs1529927,furosemide
+SLC12A3,rs1529927,torasemide
+SLC12A3,rs13306673,"Thiazides, plain"
+CCKBR,rs2929183,clozapine
+CCKBR,rs2929183,olanzapine
+ADCY9,rs1967309,dalcetrapib
+ADCY9,rs2230739,antidepressants
+ADCY9,rs144315541,salbutamol
+ADCY9,rs1967309,dalcetrapib
+ERAP1,rs27524,adalimumab
+ERAP1,rs27524,ustekinumab
+ERAP1,rs27524,etanercept
+CACNA1E,rs12060765,antipsychotics
+CACNA1E,rs3845446,fentanyl
+CACNA1E,rs3845446,fentanyl
+MSH5,rs3115672,carboplatin
+MSH5,rs3115672,gemcitabine
+GSK3B,rs3755557,lithium
+GSK3B,rs334558,lithium
+GSK3B,rs334558,citalopram
+GSK3B,rs334558,fluoxetine
+GSK3B,rs6438552,lithium
+GSK3B,rs6438552,lithium
+GSK3B,rs6438552,lithium
+GSK3B,rs334558,lithium
+GSK3B,rs3732361,methotrexate
+GSK3B,rs334558,lithium
+GSK3B,rs3732361,methotrexate
+THSD7A,rs7807369,clopidogrel
+KIT,rs121913512,imatinib
+FOXC1,rs2338,oxaliplatin
+OGG1,rs1052133,cisplatin
+OGG1,rs1052133,fluorouracil
+OGG1,rs1052133,radiotherapy
+OGG1,rs1052133,fluorouracil
+OGG1,rs1052133,Platinum compounds
+OGG1,rs1052133,radiotherapy
+OGG1,rs293795,fluorouracil
+OGG1,rs293795,Platinum compounds
+OGG1,rs293795,radiotherapy
+EPM2AIP1,rs1800734,dacarbazine
+EPM2AIP1,rs1800734,procarbazine
+EPM2AIP1,rs1800734,dacarbazine
+EPM2AIP1,rs1800734,procarbazine
+CYP2A7,rs73032311,mercaptopurine
+CACNG2,rs2284018,lithium
+CACNG2,rs2284017,lithium
+CACNG2,rs2284017,lithium
+KCNIP4,rs7675300,"Ace Inhibitors, Plain"
+KCNIP4,rs145489027,"Ace Inhibitors, Plain"
+KCNIP4,rs1495509,"Ace Inhibitors, Plain"
+KCNIP4,rs7675300,"Ace Inhibitors, Plain"
+KCNIP4,rs6838116,"Ace Inhibitors, Plain"
+KCNIP4,rs7661530,"Ace Inhibitors, Plain"
+KCNIP4,rs145489027,"Ace Inhibitors, Plain"
+KCNIP4,rs16870989,"Ace Inhibitors, Plain"
+KCNIP4,rs1495509,"Ace Inhibitors, Plain"
+KCNIP4,rs7661530,"Ace Inhibitors, Plain"
+KCNIP4,rs16870989,"Ace Inhibitors, Plain"
+NT5C3A,rs6946062,gemcitabine
+NT5C3A,rs3750117,cytarabine
+NT5C3A,rs3750117,idarubicin
+NT5C3A,rs3750117,gemcitabine
+SCN8A,rs4512905,lithium
+CDKAL1,rs7756992,glimepiride
+CDKAL1,rs7756992,glipizide
+CDKAL1,rs7756992,glyburide
+CDKAL1,rs7756992,"sulfonamides, urea derivatives"
+CDKAL1,rs7756992,Dipeptidyl peptidase 4 (DPP-4) inhibitors
+CDKAL1,rs6908425,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+CDKAL1,rs7754840,Dipeptidyl peptidase 4 (DPP-4) inhibitors
+GABRB1,rs4627835,antipsychotics
+GABRB1,rs16860087,antipsychotics
+MEG3,rs10132552,Platinum compounds
+MEG3,rs10132552,radiotherapy
+MEG3,rs10132552,Platinum compounds
+MEG3,rs10132552,radiotherapy
+MEG3,rs116907618,Platinum compounds
+SCN1A,rs3812718,phenytoin
+SCN1A,rs2298771,carbamazepine
+SCN1A,rs2298771,phenytoin
+SCN1A,rs2298771,valproic acid
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs3812718,oxcarbazepine
+SCN1A,rs3812718,fluorouracil
+SCN1A,rs3812718,valproic acid
+SCN1A,rs2298771,valproic acid
+SCN1A,rs10167228,valproic acid
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs2298771,carbamazepine
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs10188577,antiepileptics
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs3812718,valproic acid
+SCN1A,rs2298771,carbamazepine
+SCN1A,rs2298771,valproic acid
+SCN1A,rs2298771,carbamazepine
+SCN1A,rs2298771,valproic acid
+SCN1A,rs3812718,phenytoin
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs2298771,carbamazepine
+SCN1A,rs2298771,clobazam
+SCN1A,rs2298771,ethosuximide
+SCN1A,rs2298771,lamotrigine
+SCN1A,rs2298771,levetiracetam
+SCN1A,rs2298771,oxcarbazepine
+SCN1A,rs2298771,valproic acid
+SCN1A,rs2298771,carbamazepine
+SCN1A,rs2298771,oxcarbazepine
+SCN1A,rs3812718,phenytoin
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs2298771,carbamazepine
+SCN1A,rs2298771,carbamazepine
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs2298771,carbamazepine
+SCN1A,rs2298771,carbamazepine
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs3812718,valproic acid
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs3812718,oxcarbazepine
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs3812718,oxcarbazepine
+SCN1A,rs3812718,lamotrigine
+SCN1A,rs3812718,fluorouracil
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs3812718,oxcarbazepine
+SCN1A,rs3812718,carbamazepine
+SCN1A,rs2298771,antiepileptics
+SCN1A,rs2298771,valproic acid
+SCN1A,rs121917953,antiepileptics
+SCN1A,rs121918623,antiepileptics
+ITGA1,rs830884,oxaliplatin
+GMPS,rs61750368,azathioprine
+MYD88,rs6853,tacrolimus
+MYD88,rs6853,fentanyl
+LIMD1,rs62242178,cefaclor
+LIMD1,rs62242177,cefaclor
+PPP3R1,rs1868402,cyclosporine
+SLC22A17,rs4982753,daunorubicin
+SLC22A17,rs4982753,doxorubicin
+SLC22A17,rs4982753,anthracyclines and related substances
+SERPINE1,rs1799762,methylprednisolone
+SERPINE1,rs6092,antineoplastic agents
+SERPINE1,rs6092,corticosteroids
+SERPINE1,rs2227631,citalopram
+SERPINE1,rs2227631,fluoxetine
+SERPINE1,rs6092,dexamethasone
+SERPINE1,rs1799889,citalopram
+SERPINE1,rs1799889,fluoxetine
+IFNGR1,rs2234711,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+IFNGR1,rs2234711,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+ADAMTS1,rs428785,pravastatin
+ADAMTS1,rs402007,hmg coa reductase inhibitors
+SLCO2B1,rs12422149,chloroquine
+SLCO2B1,rs12422149,primaquine
+SLCO2B1,rs12422149,montelukast
+SLCO2B1,rs2712807,montelukast
+SLCO2B1,rs35199625,montelukast
+SLCO2B1,rs2306168,montelukast
+SLCO2B1,rs12422149,tamoxifen
+SLCO2B1,rs2306168,atenolol
+SLCO2B1,rs3781727,voriconazole
+SLCO2B1,rs12422149,rosuvastatin
+SLCO2B1,rs2306168,rosuvastatin
+SLCO2B1,rs2306168,rosuvastatin
+SLCO2B1,rs142693902,rosuvastatin
+SLCO2B1,rs35199625,rosuvastatin
+SLCO2B1,rs12422149,atorvastatin
+SLCO2B1,rs12422149,montelukast
+SLCO2B1,rs2306168,glyburide
+SLCO2B1,rs2306168,rosuvastatin
+SLCO2B1,rs2306168,sulfasalazine
+SLCO2B1,rs2306168,montelukast
+SLCO2B1,rs12422149,simvastatin
+SLCO2B1,rs2306168,fexofenadine
+SLCO2B1,rs1077858,abiraterone
+SLCO2B1,rs12422149,4-hydroxyatorvastatin
+SLCO2B1,rs12422149,4-hydroxyatorvastatin lactone
+STN1,rs4387287,atenolol
+CNNM2,rs58700372,mercaptopurine
+INVS,rs10123866,duloxetine
+ACTG1,rs1135989,vincristine
+ALDH1A2,rs12903202,Bisphosphonates
+ALDH1A2,rs261316,atenolol
+ALDH1A2,rs261316,hydrochlorothiazide
+AKR1C3,rs1937840,docetaxel
+AKR1C3,rs1937840,doxorubicin
+AKR1C3,rs1937840,doxorubicin
+AKR1C3,rs1937840,antineoplastic agents
+AKR1C3,rs28943579,doxorubicin
+AKR1C3,rs12529,abiraterone
+AKR1C3,rs62621365,doxorubicin
+AKR1C3,rs34186955,doxorubicin
+AKR1C3,rs62621365,exemestane
+AKR1C3,rs4987102,daunorubicin
+AKR1C3,rs35575889,daunorubicin
+AKR1C3,rs35575889,doxorubicin
+AKR1C3,rs12529,Antiandrogens
+AKR1C3,rs34186955,daunorubicin
+AKR1C3,rs34186955,doxorubicin
+CDKN2B,rs1063192,apremilast
+UNC13A,rs12608932,creatine
+UNC13A,rs12608932,valproic acid
+SLC22A5,rs2631372,imatinib
+SLC22A5,rs2631367,imatinib
+SLC22A5,rs2631370,sunitinib
+SLC22A5,rs2631372,sunitinib
+SLC22A5,rs2631372,imatinib
+SLC22A5,rs2631367,sunitinib
+SLC22A5,rs2631367,imatinib
+SLC22A5,rs2631370,imatinib
+SLC22A5,rs2631372,imatinib
+SLC22A5,rs2631367,imatinib
+SLC22A5,rs2631370,imatinib
+SLC22A5,rs274558,imatinib
+NECAB1,rs74569896,aspirin
+NECAB1,rs74569896,clopidogrel
+ZNF697,rs10494227,interferon beta-1a
+ZNF697,rs10494227,interferon beta-1b
+ARRB2,rs2036657,nicotine
+ARRB2,rs3786047,nicotine
+ARRB2,rs3786047,methadone
+ARRB2,rs1045280,methadone
+ARRB2,rs2036657,methadone
+ARRB2,rs4790693,opioids
+ARRB2,rs1045280,nicotine
+ARRB2,rs1045280,opioids
+ARRB2,rs2271167,opioids
+ARRB2,rs3786047,opioids
+ARRB2,rs2036657,opioids
+ARRB2,rs1045280,buprenorphine
+ARRB2,rs1045280,fentanyl
+ARRB2,rs1045280,tramadol
+ARRB2,rs1045280,methadone
+ARRB2,rs34230287,methadone
+ARRB2,rs3786047,methadone
+ARRB2,rs2036657,methadone
+ARRB2,rs1045280,nicotine
+ARRB2,rs2036657,methamphetamine
+ARRB2,rs3786047,nicotine
+ARRB2,rs4790694,methamphetamine
+ARRB2,rs1045280,methamphetamine
+ARRB2,rs4790694,nicotine
+ARRB2,rs4790694,nicotine
+ARRB2,rs2271167,cocaine
+ARRB2,rs1045280,cocaine
+ARRB2,rs2036657,cocaine
+ARRB2,rs2271167,opioids
+ARRB2,rs2036657,opioids
+ARRB2,rs4522461,cocaine
+ARRB2,rs3786047,cocaine
+ARRB2,rs4522461,opioids
+ARRB2,rs1045280,opioids
+ARRB2,rs3786047,opioids
+ARRB2,rs7208257,opioids
+ARRB2,rs2036657,nicotine
+CNTNAP2,rs13223171,diuretics
+CNTNAP2,rs13223171,hydrochlorothiazide
+CNTNAP2,rs13223171,"Thiazides, plain"
+CNTNAP2,rs11763492,diuretics
+CNTNAP2,rs11763492,hydrochlorothiazide
+CNTNAP2,rs11763492,"Thiazides, plain"
+SOX10,rs139887,carboplatin
+SOX10,rs139887,docetaxel
+SOX10,rs139887,paclitaxel
+SOX10,rs139887,carboplatin
+SOX10,rs139887,docetaxel
+SOX10,rs139887,paclitaxel
+SLC7A8,rs7141505,busulfan
+GNL3,rs112242273,cyclophosphamide
+GNL3,rs112242273,epirubicin
+GNL3,rs112242273,fluorouracil
+XDH,rs2295475,azathioprine
+XDH,rs1884725,azathioprine
+XDH,rs45442092,thioxanthine
+XDH,rs2295474,thioxanthine
+XDH,rs2281547,mercaptopurine
+XDH,rs2281547,mercaptopurine
+XDH,rs4407290,azathioprine
+XDH,rs1594160,didanosine
+XDH,rs1429376,didanosine
+XDH,rs494852,mercaptopurine
+XDH,rs494852,thioguanine
+XDH,rs1884725,allopurinol
+XDH,rs1884725,febuxostat
+XDH,rs2236168,daunorubicin
+XDH,rs2236168,doxorubicin
+XDH,rs4407290,daunorubicin
+XDH,rs4407290,doxorubicin
+GIPR,rs10423928,olanzapine
+GIPR,rs10423928,olanzapine
+GIPR,rs10423928,sitagliptin
+GIPR,rs10423928,vildagliptin
+PLCD3,rs12946454,Beta Blocking Agents
+PLCD3,rs12946454,"Thiazides, plain"
+PLCD3,rs12946454,diltiazem
+SCAP,rs12487736,atorvastatin
+SCAP,rs12487736,rosuvastatin
+SCAP,rs12487736,fluvastatin
+SCAP,rs12487736,rosuvastatin
+SCAP,rs12487736,atorvastatin
+SCAP,rs12487736,simvastatin
+CFLAR,rs1594,allopurinol
+CDH4,rs4925300,ziprasidone
+CDH4,rs4925193,gemcitabine
+IFNG,rs2069716,fluorouracil
+IFNG,rs2069716,irinotecan
+IFNG,rs2069716,leucovorin
+IFNG,rs2430561,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+IFNG,rs2430561,glatiramer acetate
+IFNG,rs2069705,Tumor necrosis factor alpha (TNF-alpha) inhibitors
+CYP4X1,rs17102977,anthracyclines and related substances
+CYP4X1,rs17102977,cyclophosphamide
+CYP4X1,rs17102977,fluorouracil
+CYP4X1,rs17102977,taxanes
+CAMKK2,rs1653586,pemetrexed
+POMT2,rs1046428,dichloroacetic acid
+POMT2,rs7972,dichloroacetic acid
+POMT2,rs7975,dichloroacetic acid
+POMT2,rs1046428,dichloroacetic acid
+POMT2,rs7972,dichloroacetic acid
+POMT2,rs7975,dichloroacetic acid
+REEP5,rs153549,citalopram
+REEP5,rs153549,fluoxetine
+REEP5,rs153549,paroxetine
+REEP5,rs153549,sertraline
+REEP5,rs153560,citalopram
+REEP5,rs153560,fluoxetine
+REEP5,rs153560,paroxetine
+REEP5,rs153560,sertraline
+HTR3A,rs1062613,granisetron
+HTR3A,rs1150226,atorvastatin
+HTR3A,rs1150226,pravastatin
+HTR3A,rs1150226,simvastatin
+HTR3A,rs1985242,methotrexate
+HTR3A,rs1176713,methotrexate
+HTR3A,rs1062613,methotrexate
+HTR3A,rs1176719,opioids
+HTR3A,rs1062613,paroxetine
+HTR3A,rs1176722,paroxetine
+HTR3A,rs1176713,paroxetine
+HTR3A,rs1062613,opioids
+HTR3A,rs2276302,opioids
+HTR3A,rs1150226,clozapine
+HTR3A,rs2276302,clozapine
+HTR3A,rs1062613,clozapine
+HTR3A,rs1062613,clozapine
+HTR3A,rs2276302,clozapine
+HTR3A,rs1062613,fluvoxamine
+HTR3A,rs1062613,paroxetine
+HTR3A,rs1176713,risperidone
+HTR3A,rs1176713,opioids
+HTR3A,rs1150226,Antiemetics And Antinauseants
+SLC22A3,rs2076828,metformin
+SLC22A3,rs8187725,catecholamines
+SLC22A3,rs8187725,metformin
+SLC22A3,rs3127602,metformin
+A2M,rs669,Enzymes
+ADAMTS10,rs7255721,levonorgestrel
+CAMK1D,rs10752271,losartan
+CAMK1D,rs10752271,hydrochlorothiazide
+CAMK1D,rs10737062,losartan
+CAMK1D,rs10737062,hydrochlorothiazide
+FDPS,rs2297480,zoledronate
+FDPS,rs11264359,atorvastatin
+FDPS,rs2297480,atorvastatin
+FDPS,rs2297480,Bisphosphonates
+FDPS,rs17367421,atorvastatin
+FDPS,rs11264359,Bisphosphonates
+FDPS,rs2297480,Bisphosphonates
+DOCK4,rs61399156,anastrozole
+DOCK4,rs61399156,exemestane
+BDNF,rs1491850,methadone
+BDNF,rs6265,antipsychotics
+BDNF,rs6265,citalopram
+BDNF,rs6265,sertraline
+BDNF,rs6265,mirtazapine
+BDNF,rs6265,methamphetamine
+BDNF,rs962369,antidepressants
+BDNF,rs6265,paroxetine
+BDNF,rs6265,antipsychotics
+BDNF,rs6265,paroxetine
+BDNF,rs6265,antidepressants
+BDNF,rs6265,citalopram
+BDNF,rs6265,antipsychotics
+BDNF,rs6265,methadone
+BDNF,rs6265,methylphenidate
+BDNF,rs6265,methamphetamine
+BDNF,rs6265,lithium
+BDNF,rs6265,risperidone
+BDNF,rs6265,fentanyl
+BDNF,rs6265,risperidone
+BDNF,rs6265,paroxetine
+BDNF,rs6265,heroin
+BDNF,rs6265,risperidone
+BDNF,rs7103411,citalopram
+BDNF,rs10835210,methadone
+BDNF,rs7934165,methadone
+BDNF,rs11030104,antipsychotics
+BDNF,rs6265,escitalopram
+BDNF,rs7103411,escitalopram
+BDNF,rs6265,heroin
+BDNF,rs6265,lithium
+BDNF,rs7124442,antidepressants
+BDNF,rs6265,antidepressants
+BDNF,rs7103411,antidepressants
+BDNF,rs6265,escitalopram
+BDNF,rs6265,paroxetine
+BDNF,rs6265,sertraline
+BDNF,rs10835210,heroin
+BDNF,rs16917234,heroin
+BDNF,rs1967554,methadone
+BDNF,rs7127507,methadone
+BDNF,rs11030119,methadone
+BDNF,rs11030118,methadone
+BDNF,rs2030324,methadone
+BDNF,rs988748,methadone
+BDNF,rs962369,escitalopram
+BDNF,rs962369,nortriptyline
+BDNF,rs6265,ethanol
+BDNF,rs6265,heroin
+BDNF,rs6265,methamphetamine
+BDNF,rs6265,nicotine
+BDNF,rs6265,methamphetamine
+BDNF,rs6265,methamphetamine
+BDNF,rs6265,antipsychotics
+BDNF,rs6265,metformin
+BDNF,rs10835210,heroin
+BDNF,rs16917234,heroin
+BDNF,rs6265,heroin
+BDNF,rs10835210,heroin
+BDNF,rs6265,heroin
+BDNF,rs16917234,heroin
+BDNF,rs6265,Analgesics
+BDNF,rs6265,"Antiinflammatory agents, non-steroids"
+BDNF,rs6265,Ergot alkaloids
+BDNF,rs6265,opioids
+BDNF,rs6265,sumatriptan
+BDNF,rs6265,antidepressants
+BDNF,rs6265,fluoxetine
+BDNF,rs6265,methamphetamine
+BDNF,rs6265,olanzapine
+BDNF,rs6265,modafinil
+BDNF,rs61888800,antidepressants
+BDNF,rs61888800,desipramine
+BDNF,rs61888800,fluoxetine
+BDNF,rs6265,opioids
+BDNF,rs7124442,citalopram
+BDNF,rs6265,morphine
+BDNF,rs962369,escitalopram
+BDNF,rs6265,fluoxetine
+BDNF,rs6265,citalopram
+BDNF,rs6265,escitalopram
+BDNF,rs6265,fluoxetine
+BDNF,rs6265,sertraline
+BDNF,rs6265,escitalopram
+BDNF,rs6265,fluoxetine
+BDNF,rs6265,paroxetine
+BDNF,rs6265,sertraline
+BDNF,rs6265,amitriptyline
+BDNF,rs6265,clomipramine
+BDNF,rs6265,duloxetine
+BDNF,rs6265,imipramine
+BDNF,rs6265,milnacipran
+BDNF,rs6265,venlafaxine
+BDNF,rs6265,citalopram
+BDNF,rs6265,escitalopram
+BDNF,rs6265,fluoxetine
+BDNF,rs6265,fluvoxamine
+BDNF,rs6265,paroxetine
+BDNF,rs6265,sertraline
+BDNF,rs6265,antidepressants
+CLMN,rs8014194,atorvastatin
+CLMN,rs8014194,pravastatin
+CLMN,rs8014194,simvastatin
+CELF4,rs4799915,iloperidone
+HMGCR,rs12654264,hmg coa reductase inhibitors
+HMGCR,rs17244841,pravastatin
+HMGCR,rs3846662,atorvastatin
+HMGCR,rs17671591,atorvastatin
+HMGCR,rs12654264,hmg coa reductase inhibitors
+HMGCR,rs12654264,hmg coa reductase inhibitors
+HMGCR,rs17238540,atorvastatin
+HMGCR,rs17238540,cerivastatin
+HMGCR,rs17238540,fluvastatin
+HMGCR,rs17238540,pravastatin
+HMGCR,rs17238540,rosuvastatin
+HMGCR,rs17238540,simvastatin
+HMGCR,rs17244841,fluvastatin
+HMGCR,rs17238540,pravastatin
+HMGCR,rs17671591,atorvastatin
+HMGCR,rs3846662,hmg coa reductase inhibitors
+HMGCR,rs17238540,pravastatin
+HMGCR,rs17244841,simvastatin
+HMGCR,rs17238540,simvastatin
+HMGCR,rs10474433,atorvastatin
+HMGCR,rs17238540,fluvastatin
+HMGCR,rs17238540,pravastatin
+HMGCR,rs3846662,hmg coa reductase inhibitors
+HMGCR,rs3846662,hmg coa reductase inhibitors
+HMGCR,rs17244841,pravastatin
+HMGCR,rs17238540,pravastatin
+PROS1,rs8178607,warfarin
+ABCC8,rs757110,gliclazide
+ABCC8,rs757110,glimepiride
+ABCC8,rs757110,glipizide
+ABCC8,rs757110,gliquidone
+ABCC8,rs757110,glyburide
+ABCC8,rs5219,glimepiride
+ABCC8,rs5219,glipizide
+ABCC8,rs5219,glyburide
+ABCC8,rs757110,glimepiride
+ABCC8,rs757110,glipizide
+ABCC8,rs757110,glyburide
+ABCC8,rs1799859,glimepiride
+ABCC8,rs1799859,glipizide
+ABCC8,rs1799859,glyburide
+ABCC8,rs1799854,glimepiride
+ABCC8,rs1799854,glipizide
+ABCC8,rs1799854,glyburide
+ABCC8,rs757110,"sulfonamides, urea derivatives"
+ABCC8,rs757110,gliclazide
+ABCC8,rs757110,glimepiride
+ABCC8,rs757110,glipizide
+ABCC8,rs757110,gliquidone
+ABCC8,rs757110,glyburide
+ABCC8,rs2237991,tacrolimus
+ABCC8,rs2074315,Drugs For Treatment Of Tuberculosis
+ABCC8,rs757110,Drugs For Treatment Of Tuberculosis
+ABCC8,rs1799857,Drugs For Treatment Of Tuberculosis
+ABCC8,rs757110,gliclazide
+ABCC8,rs757110,glyburide
+ABCC8,rs757110,glimepiride
+ABCC8,rs757110,glyburide
+ABCC8,rs757110,glimepiride
+ABCC8,rs757110,glyburide
+ABCC8,rs757110,"sulfonamides, urea derivatives"
+ABCC8,rs757110,gliclazide
+ABCC8,rs757110,glimepiride
+ABCC8,rs757110,glipizide
+ABCC8,rs757110,gliquidone
+ABCC8,rs757110,glyburide
+ABCC8,rs757110,"sulfonamides, urea derivatives"
+ABCC8,rs5219,metformin
+ABCC8,rs5219,"sulfonamides, urea derivatives"
+CLDN11,rs62293499,anastrozole
+FBXO21,rs149212925,cyclophosphamide
+FBXO21,rs149212925,doxorubicin
+CACNB2,rs560765906,dexmedetomidine
+CACNB2,rs982003,antipsychotics
+CACNB2,rs1277733,antipsychotics
+CACNB2,rs4237348,antipsychotics
+CACNB2,rs10741058,antipsychotics
+CACNB2,rs12245847,antipsychotics
+CACNB2,rs2357928,verapamil
+CACNB2,rs2357928,verapamil
+CACNB2,rs11014166,verapamil
+CACNB2,rs11014166,verapamil
+CACNB2,rs2357928,verapamil
+CACNB2,rs10764319,dexmedetomidine
+SYN3,rs9621532,ranibizumab
+ADORA3,rs1544223,methotrexate
+ADORA3,rs2298191,methotrexate
+ADORA3,rs2298191,methotrexate
+ADORA3,rs3393,methotrexate
+ADORA3,rs1544223,methotrexate
+ADORA3,rs3393,methotrexate
+ADORA3,rs3394,methotrexate
+ADORA3,rs2298191,methotrexate
+ADORA3,rs1544223,methotrexate
+ADORA3,rs35511654,methotrexate
+ADORA3,rs3393,methotrexate
+MAPT,rs919463,vincristine
+MAPT,rs1467967,vincristine
+MAPT,rs2435207,vincristine
+MAPT,rs1800547,corticosteroids
+MAPT,rs1052587,corticosteroids
+MAPT,rs9468,corticosteroids
+MAPT,rs7521,vincristine
+MAPT,rs242557,vincristine
+MAPT,rs1800547,vincristine
+MAPT,rs8079215,vincristine
+MAPT,rs11867549,vincristine
+MAPT,rs3785883,vincristine
+MAPT,rs1001945,vincristine
+DIO2,rs225014,levothyroxine
+DIO2,rs12885300,levothyroxine
+NBEA,rs9315310,antidepressants
+NBEA,rs57081354,metformin
+CSRNP3,rs7588295,Bisphosphonates
+KAT2B,rs9829896,amphetamine
+KAT2B,rs9829896,cannabinoids
+KAT2B,rs9829896,cocaine
+KAT2B,rs9829896,opioids
+KAT2B,rs9829896,amphetamine
+KAT2B,rs9829896,cannabinoids
+KAT2B,rs9829896,cocaine
+KAT2B,rs9829896,opioids
+TRDN,rs4897302,corticosteroids
+F5,rs6025,antithrombotic agents
+F5,rs6025,asparaginase
+F5,rs368967198,"Ace Inhibitors, Plain"
+F5,rs368967198,Angiotensin II Antagonists
+F5,rs6018,"Ace Inhibitors, Plain"
+F5,rs6018,Angiotensin II Antagonists
+F5,rs140530655,"Ace Inhibitors, Plain"
+F5,rs140530655,Angiotensin II Antagonists
+F5,rs6019,"Ace Inhibitors, Plain"
+F5,rs6019,Angiotensin II Antagonists
+F5,rs9332695,"Ace Inhibitors, Plain"
+F5,rs9332695,Angiotensin II Antagonists
+F5,rs4524,"Ace Inhibitors, Plain"
+F5,rs4524,Angiotensin II Antagonists
+F5,rs6020,"Ace Inhibitors, Plain"
+F5,rs6020,Angiotensin II Antagonists
+F5,rs149389480,"Ace Inhibitors, Plain"
+F5,rs149389480,Angiotensin II Antagonists
+F5,rs200157005,"Ace Inhibitors, Plain"
+F5,rs200157005,Angiotensin II Antagonists
+F5,rs143509841,"Ace Inhibitors, Plain"
+F5,rs143509841,Angiotensin II Antagonists
+F5,rs6018,warfarin
+F5,rs7542281,warfarin
+F5,rs6025,hormonal contraceptives for systemic use
+F5,rs6025,hormonal contraceptives for systemic use
+F5,rs6025,hormonal contraceptives for systemic use
+F5,rs6025,hormonal contraceptives for systemic use
+F5,rs6025,hormonal contraceptives for systemic use
+F5,rs6025,hormonal contraceptives for systemic use
+F5,rs6025,hormonal contraceptives for systemic use
+F5,rs6025,hormonal contraceptives for systemic use
+F5,rs6025,"Ace Inhibitors, Plain"
+F5,rs6025,Angiotensin II Antagonists
+F5,rs6025,hormonal contraceptives for systemic use
+GRIA1,rs1994862,Selective serotonin reuptake inhibitors
+GRIA1,rs4958381,asparaginase
+GRIA1,rs4958351,l-asparagine
+GRIA1,rs2195450,almotriptan
+GRIA1,rs2195450,eletriptan
+GRIA1,rs2195450,frovatriptan
+GRIA1,rs2195450,rizatriptan
+GRIA1,rs2195450,sumatriptan
+GRIA1,rs2195450,zolmitriptan
+GRIA1,rs548294,almotriptan
+GRIA1,rs548294,eletriptan
+GRIA1,rs548294,frovatriptan
+GRIA1,rs548294,rizatriptan
+GRIA1,rs548294,sumatriptan
+GRIA1,rs548294,zolmitriptan
+TDRD6,rs2270450,antipsychotics
+SMDT1,rs1807493,dextromethorphan
+GABRG2,rs211037,carbamazepine
+GABRG2,rs211037,phenytoin
+GABRG2,rs211037,valproic acid
+GABRG2,rs211037,carbamazepine
+GABRG2,rs211037,phenobarbital
+GABRG2,rs211037,phenytoin
+GABRG2,rs211037,valproic acid
+GABRG2,rs77370934,"Ace Inhibitors, Plain"
+TSPAN5,rs11947402,citalopram
+TSPAN5,rs11947402,escitalopram
+TSPAN5,rs11947402,serotonin
+ATF5,rs8667,methotrexate
+ATF5,rs8667,asparaginase
+ATF5,rs8667,cyclophosphamide
+ATF5,rs8667,cytarabine
+ATF5,rs8667,daunorubicin
+ATF5,rs8667,hydrocortisone
+ATF5,rs8667,methotrexate
+ATF5,rs8667,prednisone
+ATF5,rs8667,vincristine
+METTL8,rs79802223,vincristine
+HRH3,rs3787429,risperidone
+HRH3,rs3787429,risperidone
+HRH3,rs3787430,risperidone
+CACNB4,rs3768652,antipsychotics
+FCER2,rs28364072,budesonide
+FCER2,rs28364072,corticosteroids
+FCER2,rs28364072,corticosteroids
+FAS,rs2234767,Platinum compounds
+CSNK1E,rs6001093,heroin
+CSNK1E,rs1534891,heroin
+CSNK1E,rs135757,heroin
+CSNK1E,rs135745,methamphetamine
+CSNK1E,rs1534891,heroin
+SLC7A5,rs4240803,gabapentin
+SLC7A5,rs4240803,pregabalin
+SLC7A5,rs4240803,gabapentin
+SLC7A5,rs4240803,pregabalin
+SLC7A5,rs4240803,pregabalin
+SLC7A5,rs4240803,gabapentin
+SLC7A5,rs4240803,melphalan
+ANGPT1,rs2445365,bevacizumab
+MTRF1L,rs766127,antidepressants
+SUCLA2,rs746071566,azathioprine
+SUCLA2,rs746071566,mercaptopurine
+MTCL1,rs2377898,Selective serotonin reuptake inhibitors
+SLC47A2,rs12943590,metformin
+SLC47A2,rs12943590,metformin
+SLC47A2,rs12943590,metformin
+SLC47A2,rs34834489,metformin
+SLC47A2,rs34834489,metformin
+SLC47A2,rs34834489,metformin
+SLC47A2,rs12943590,metformin
+SLC47A2,rs12943590,metformin
+SLC47A2,rs12943590,metformin
+SLC47A2,rs12943590,metformin
+SLC47A2,rs12943590,metformin
+SLC47A2,rs12943590,metformin
+SLC47A2,rs12943590,metformin
+SLC47A2,rs12943590,metformin
+SLC47A2,rs12943590,metformin
+SLC47A2,rs34399035,metformin
+SLC47A2,rs34399035,metformin
+SLC47A2,rs4621031,metformin
+SCN2A,rs17183814,carbamazepine
+SCN2A,rs17183814,phenytoin
+SCN2A,rs17183814,valproic acid
+SCN2A,rs2304016,antiepileptics
+SCN2A,rs17183814,carbamazepine
+SCN2A,rs2304016,carbamazepine
+SCN2A,rs2304016,lamotrigine
+SCN2A,rs2304016,oxcarbazepine
+SCN2A,rs2304016,phenytoin
+SCN2A,rs2304016,topiramate
+SCN2A,rs17183814,carbamazepine
+SCN2A,rs17183814,phenobarbital
+SCN2A,rs17183814,phenytoin
+SCN2A,rs17183814,valproic acid
+SCN2A,rs17183814,carbamazepine
+SCN2A,rs17183814,valproic acid
+SCN2A,rs17183814,carbamazepine
+SCN2A,rs17183814,valproic acid
+SCN2A,rs2304016,carbamazepine
+SCN2A,rs2304016,oxcarbazepine
+SCN2A,rs17183814,carbamazepine
+SCN2A,rs17183814,oxcarbazepine
+SCN2A,rs17183814,valproic acid
+BDNF-AS,rs11030096,opioids
+BDNF-AS,rs6265,citalopram
+BDNF-AS,rs6265,sertraline
+BDNF-AS,rs6265,antipsychotics
+BDNF-AS,rs11030101,escitalopram
+BDNF-AS,rs6265,lithium
+BDNF-AS,rs10501087,antipsychotics
+BDNF-AS,rs6265,lithium
+BDNF-AS,rs1967554,methadone
+BDNF-AS,rs7127507,methadone
+BDNF-AS,rs11030118,methadone
+BDNF-AS,rs10501087,antidepressants
+MRPL47,rs10513762,vincristine
+SMAD3,rs12913535,atezolizumab
+SMAD3,rs12913535,avelumab
+SMAD3,rs12913535,durvalumab
+SMAD3,rs12913535,ipilimumab
+SMAD3,rs12913535,nivolumab
+SMAD3,rs12913535,pembrolizumab
+FLT1,rs7995976,anthracyclines and related substances
+FLT1,rs7995976,bevacizumab
+FLT1,rs7995976,cyclophosphamide
+FLT1,rs7995976,docetaxel
+FLT1,rs7995976,epirubicin
+FLT1,rs7995976,taxanes
+FLT1,rs9582036,sunitinib
+FLT1,rs9554320,sunitinib
+FLT1,rs9582036,sunitinib
+FLT1,rs7993418,sunitinib
+FLT1,rs9554320,sunitinib
+FLT1,rs9582036,sunitinib
+FLT1,rs7993418,cisplatin
+FLT1,rs7993418,fluorouracil
+FLT1,rs7993418,oxaliplatin
+FLT1,rs664393,cisplatin
+FLT1,rs664393,fluorouracil
+FLT1,rs664393,oxaliplatin
+FLT1,rs7993418,imatinib
+FLT1,rs7993418,imatinib
+FLT1,rs12877323,bevacizumab
+FLT1,rs12877323,ranibizumab
+FLT1,rs664393,sorafenib
+FLT1,rs7993418,sunitinib
+CNIH3,rs10799590,opioids
+RAVER2,rs72675408,methotrexate
+RAVER2,rs72675408,methotrexate
+SLC2A1,rs3738514,platinum
+SLC2A1,rs4658,platinum
+ANK3,rs143414470,capecitabine
+GAPVD1,rs2291858,interferon beta-1a
+GAPVD1,rs2291858,interferon beta-1b
+GAPVD1,rs10760397,interferon beta-1a
+GAPVD1,rs10760397,interferon beta-1b
+GAPVD1,rs10819043,interferon beta-1a
+GAPVD1,rs10819043,interferon beta-1b
+EPHX1,rs1051740,warfarin
+EPHX1,rs2260863,warfarin
+EPHX1,rs1051740,cisplatin
+EPHX1,rs1051740,cyclophosphamide
+EPHX1,rs1051740,cisplatin
+EPHX1,rs1051740,cyclophosphamide
+EPHX1,rs2260863,warfarin
+EPHX1,rs1051741,warfarin
+EPHX1,rs2234922,carbamazepine
+EPHX1,rs1051740,carbamazepine
+EPHX1,rs1051740,carbamazepine
+EPHX1,rs2260863,warfarin
+EPHX1,rs1051740,phenprocoumon
+EPHX1,rs1051740,phenytoin
+EPHX1,rs2234922,phenytoin
+EPHX1,rs1051740,phenprocoumon
+EPHX1,rs2234922,docetaxel
+EPHX1,rs1131873,warfarin
+EPHX1,rs2234922,carbamazepine
+EPHX1,rs1051740,carbamazepine
+EPHX1,rs1051740,carbamazepine
+EPHX1,rs2260863,warfarin
+EPHX1,rs1131873,warfarin
+EPHX1,rs4653436,warfarin
+EPHX1,rs1051740,warfarin
+EPHX1,rs1051740,phenprocoumon
+EPHX1,rs1877724,warfarin
+EPHX1,rs1131873,warfarin
+EPHX1,rs2234922,carbamazepine
+EPHX1,rs1051740,carbamazepine
+EPHX1,rs1051740,carbamazepine
+EPHX1,rs2234922,carbamazepine
+EPHX1,rs1051740,carbamazepine
+EPHX1,rs2234922,carbamazepine
+EPHX1,rs1051740,carbamazepine
+EPHX1,rs1051740,carbamazepine
+EPHX1,rs2234922,carbamazepine
+EPHX1,rs1877724,warfarin
+EPHX1,Unknown Variant,acetylcysteine
+EPHX1,rs2234922,carbamazepine
+EPHX1,rs1131873,fluindione
+EPHX1,rs4653436,warfarin
+EPHX1,rs2234922,warfarin
+EPHX1,rs2234922,carbamazepine
+EPHX1,rs4653436,warfarin
+EPHX1,rs1051740,carbamazepine
+EPHX1,rs3738046,carbamazepine
+EPHX1,rs1051740,warfarin
+EPHX1,rs1051740,carbamazepine
+FABP1,rs2241883,fenofibrate
+FABP1,rs2241883,fenofibrate
+FABP1,rs2241883,fenofibrate
+BRAF,rs113488022,dabrafenib
+BRAF,rs113488022,selumetinib
+BRAF,rs113488022,dabrafenib
+BRAF,rs113488022,FOLFIRI
+BRAF,rs113488022,FOLFOX
+BRAF,rs113488022,XELOX
+EGFR,rs712829,erlotinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,erlotinib
+EGFR,rs121434568,erlotinib
+EGFR,rs121434568,erlotinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,erlotinib
+EGFR,rs121434568,erlotinib
+EGFR,rs121434568,erlotinib
+EGFR,rs121434568,erlotinib
+EGFR,rs17172437,egfr inhibitors
+EGFR,rs121434568,erlotinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,erlotinib
+EGFR,rs121434568,erlotinib
+EGFR,rs2293348,egfr inhibitors
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,carboplatin
+EGFR,rs121434568,erlotinib
+EGFR,rs121434568,paclitaxel
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs2330951,sorafenib
+EGFR,rs917881,sorafenib
+EGFR,rs917881,sorafenib
+EGFR,rs712829,geldanamycin
+EGFR,rs712829,Alkylating Agents
+EGFR,rs2227983,egfr inhibitors
+EGFR,rs121434568,gefitinib
+EGFR,rs121434569,erlotinib
+EGFR,rs121434569,gefitinib
+EGFR,rs121434569,erlotinib
+EGFR,rs712829,egfr inhibitors
+EGFR,rs2072454,imatinib
+EGFR,rs11568315,cetuximab
+EGFR,rs11568315,irinotecan
+EGFR,rs2293348,egfr inhibitors
+EGFR,rs2293348,egfr inhibitors
+EGFR,rs73420732,egfr inhibitors
+EGFR,rs121434569,erlotinib
+EGFR,rs121434569,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,erlotinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,erlotinib
+EGFR,rs121434568,erlotinib
+EGFR,rs2227983,cetuximab
+EGFR,rs11568315,cetuximab
+EGFR,rs11568315,irinotecan
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,erlotinib
+EGFR,rs121434568,gefitinib
+EGFR,rs712829,cetuximab
+EGFR,rs712829,panitumumab
+EGFR,rs2227983,cetuximab
+EGFR,rs2227983,panitumumab
+EGFR,rs712829,cetuximab
+EGFR,rs712829,panitumumab
+EGFR,rs2227983,cetuximab
+EGFR,rs2227983,panitumumab
+EGFR,rs121434568,erlotinib
+EGFR,rs121434568,gefitinib
+EGFR,rs11568315,gefitinib
+EGFR,rs121434569,erlotinib
+EGFR,rs121434569,gefitinib
+EGFR,rs121434569,gefitinib
+EGFR,rs121434569,erlotinib
+EGFR,rs121434569,gefitinib
+EGFR,rs121434569,gefitinib
+EGFR,rs712829,erlotinib
+EGFR,rs121434569,erlotinib
+EGFR,rs121434569,gefitinib
+EGFR,rs121434568,erlotinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434569,erlotinib
+EGFR,rs121434569,gefitinib
+EGFR,rs121434569,erlotinib
+EGFR,rs121434569,gefitinib
+EGFR,rs121434569,gefitinib
+EGFR,rs2293347,gefitinib
+EGFR,rs11568315,gefitinib
+EGFR,rs11568315,gefitinib
+EGFR,rs2293347,gefitinib
+EGFR,rs121434569,erlotinib
+EGFR,rs121434569,gefitinib
+EGFR,rs121434569,gefitinib
+EGFR,rs11568315,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs11568315,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434569,erlotinib
+EGFR,rs121434569,gefitinib
+EGFR,rs121434569,erlotinib
+EGFR,rs121434569,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434569,gefitinib
+EGFR,rs2227983,cetuximab
+EGFR,rs712829,cetuximab
+EGFR,rs712829,panitumumab
+EGFR,rs712829,topoisomerase I inhibitors
+EGFR,rs121434568,gefitinib
+EGFR,rs712829,gefitinib
+EGFR,rs2293347,fluorouracil
+EGFR,rs2227983,egfr inhibitors
+EGFR,rs121434568,afatinib
+EGFR,rs121434568,erlotinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434569,osimertinib
+EGFR,rs712829,gefitinib
+EGFR,rs11506105,peginterferon alfa-2a
+EGFR,rs11506105,peginterferon alfa-2b
+EGFR,rs11506105,ribavirin
+EGFR,rs712830,cetuximab
+EGFR,rs712830,irinotecan
+EGFR,rs712830,leucovorin
+EGFR,rs712830,tegafur
+EGFR,rs121434568,erlotinib
+EGFR,rs121434568,gefitinib
+EGFR,rs121434569,gefitinib
+EGFR,rs10258429,imatinib
+CUX2,rs7958375,rifampin
+SULF2,rs2076549,vincristine
+CD80,rs34394661,clopidogrel
+ERBB3,rs2229046,carboplatin
+ERBB3,rs2229046,docetaxel
+ERBB3,rs2229046,trastuzumab
+ERBB3,rs773123,carboplatin
+ERBB3,rs773123,docetaxel
+ERBB3,rs773123,trastuzumab
+RPL13,rs12960,docetaxel
+RPL13,rs12960,thalidomide
+ITGB3,rs5918,aspirin
+ITGB3,rs5918,clopidogrel
+ITGB3,rs3785873,clopidogrel
+ITGB3,rs58847127,clopidogrel
+ITGB3,rs5918,aspirin
+ITGB3,rs5918,aspirin
+ITGB3,rs5918,clopidogrel
+ITGB3,rs5918,aspirin
+ITGB3,rs5918,clopidogrel
+ITGB3,rs5918,clopidogrel
+ITGB3,rs5918,clopidogrel
+ITGB3,rs5918,clopidogrel
+ITGB3,rs2317676,clopidogrel
+ITGB3,rs11871251,clopidogrel
+ITGB3,rs5918,aspirin
+ITGB3,rs5918,aspirin
+ITGB3,rs5918,aspirin
+ITGB3,rs5918,aspirin
+ITGB3,rs5918,clopidogrel
+ITGB3,rs5918,aspirin
+ITGB3,rs5918,aspirin
+ITGB3,rs5918,aspirin
+ITGB3,rs5918,aspirin
+ITGB3,rs5918,abciximab
+ITGB3,rs5918,aspirin
+ITGB3,rs5918,aspirin
+FGFR2,rs2981582,sunitinib
+FGFR2,rs2981582,pazopanib
+NUMA1,rs10898815,Calcium channel blockers
+NUMA1,rs10898815,Dihydropyridine derivatives
+PDZRN3,rs11128347,irinotecan
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,(S)-methadone
+CYP2B6,Unknown Variant,busulfan
+CYP2B6,rs2279343,efavirenz
+CYP2B6,rs2279343,efavirenz
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs16974799,methadone
+CYP2B6,rs28399499,efavirenz
+CYP2B6,Unknown Variant,tramadol
+CYP2B6,rs3745274,nevirapine
+CYP2B6,Unknown Variant,diazepam
+CYP2B6,rs28399499,nevirapine
+CYP2B6,rs28399499,nevirapine
+CYP2B6,rs36118214,efavirenz
+CYP2B6,rs8109525,bupropion
+CYP2B6,rs4802101,cyclophosphamide
+CYP2B6,Unknown Variant,cyclophosphamide
+CYP2B6,Unknown Variant,clopidogrel
+CYP2B6,Unknown Variant,clopidogrel
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,rs3745274,cyclophosphamide
+CYP2B6,rs3211371,cyclophosphamide
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs2279343,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs4803419,levonorgestrel
+CYP2B6,Unknown Variant,clopidogrel
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,rs2279343,bupropion
+CYP2B6,rs2279343,varenicline
+CYP2B6,rs3211371,bupropion
+CYP2B6,rs2279343,nevirapine
+CYP2B6,rs2279343,bupropion
+CYP2B6,rs3211371,methadone
+CYP2B6,rs28399499,nevirapine
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,medroxyprogesterone
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs2279343,efavirenz
+CYP2B6,rs2279343,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs3211371,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,opioids
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,Unknown Variant,lumefantrine
+CYP2B6,Unknown Variant,artemether
+CYP2B6,rs2279345,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,cyclophosphamide
+CYP2B6,Unknown Variant,cyclophosphamide
+CYP2B6,Unknown Variant,cyclophosphamide
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,non-nucleoside reverse transcriptase inhibitors
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs28399499,non-nucleoside reverse transcriptase inhibitors
+CYP2B6,rs34097093,efavirenz
+CYP2B6,rs34097093,non-nucleoside reverse transcriptase inhibitors
+CYP2B6,rs1042389,efavirenz
+CYP2B6,rs1042389,non-nucleoside reverse transcriptase inhibitors
+CYP2B6,rs8192709,efavirenz
+CYP2B6,rs8192709,non-nucleoside reverse transcriptase inhibitors
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs2279343,cyclophosphamide
+CYP2B6,rs28399499,efavirenz
+CYP2B6,Unknown Variant,quetiapine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,nevirapine
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,methadone
+CYP2B6,Unknown Variant,sertraline
+CYP2B6,Unknown Variant,sertraline
+CYP2B6,Unknown Variant,sertraline
+CYP2B6,rs2279343,(S)-methadone
+CYP2B6,rs2279343,methadone
+CYP2B6,rs4803419,methadone
+CYP2B6,rs10500282,methadone
+CYP2B6,rs11882424,methadone
+CYP2B6,Unknown Variant,methadone
+CYP2B6,rs12721655,bupropion
+CYP2B6,rs12721655,efavirenz
+CYP2B6,Unknown Variant,hydroxybupropion
+CYP2B6,rs3745274,tramadol
+CYP2B6,rs3745274,methadone
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs2279343,methadone
+CYP2B6,rs3745274,methadone
+CYP2B6,Unknown Variant,tamoxifen
+CYP2B6,rs3745274,methadone
+CYP2B6,rs3745274,methadone
+CYP2B6,rs3745274,methadone
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs2279343,methadone
+CYP2B6,rs3745274,cyclophosphamide
+CYP2B6,rs2279343,cyclophosphamide
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs2279345,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs2279343,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs8192719,efavirenz
+CYP2B6,rs8192709,cyclophosphamide
+CYP2B6,rs2279342,AR-C124910XX
+CYP2B6,rs2279342,ticagrelor
+CYP2B6,rs35930845,AR-C124910XX
+CYP2B6,rs35930845,ticagrelor
+CYP2B6,rs3745276,AR-C124910XX
+CYP2B6,rs3745276,ticagrelor
+CYP2B6,rs434606,AR-C124910XX
+CYP2B6,rs434606,ticagrelor
+CYP2B6,rs56156262,AR-C124910XX
+CYP2B6,rs56156262,ticagrelor
+CYP2B6,Unknown Variant,(S)-methadone
+CYP2B6,Unknown Variant,R-EDDP
+CYP2B6,Unknown Variant,S-EDDP
+CYP2B6,Unknown Variant,R-EDDP
+CYP2B6,Unknown Variant,S-EDDP
+CYP2B6,Unknown Variant,tamoxifen
+CYP2B6,Unknown Variant,tamoxifen
+CYP2B6,Unknown Variant,tamoxifen
+CYP2B6,rs4803419,tramadol
+CYP2B6,Unknown Variant,cyclophosphamide
+CYP2B6,Unknown Variant,cyclophosphamide
+CYP2B6,rs3745274,nevirapine
+CYP2B6,Unknown Variant,tamoxifen
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,bupropion
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,"Antivirals for treatment of HIV infections, combinations"
+CYP2B6,rs3745274,Drugs For Treatment Of Tuberculosis
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,cyclophosphamide
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs4803419,cyclophosphamide
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs3211371,efavirenz
+CYP2B6,rs3211371,nevirapine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,imatinib
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,(R)-methadone
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,lamivudine
+CYP2B6,rs3745274,zidovudine
+CYP2B6,rs3745274,methadone
+CYP2B6,Unknown Variant,methadone
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,imatinib
+CYP2B6,rs3745274,nevirapine
+CYP2B6,Unknown Variant,clopidogrel
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs3745274,mitotane
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,nevirapine
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,rs3745274,bupropion
+CYP2B6,rs3745274,opioids
+CYP2B6,rs2279343,bupropion
+CYP2B6,rs8192709,efavirenz
+CYP2B6,rs2279343,cyclophosphamide
+CYP2B6,rs2279343,efavirenz
+CYP2B6,Unknown Variant,cyclophosphamide
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs8192709,cyclophosphamide
+CYP2B6,rs8192709,doxorubicin
+CYP2B6,rs3745274,cyclophosphamide
+CYP2B6,rs3745274,doxorubicin
+CYP2B6,rs3211371,cyclophosphamide
+CYP2B6,rs3211371,doxorubicin
+CYP2B6,rs8192709,cyclophosphamide
+CYP2B6,rs8192709,doxorubicin
+CYP2B6,rs12721655,cyclophosphamide
+CYP2B6,rs12721655,doxorubicin
+CYP2B6,rs3745274,imatinib
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,clopidogrel
+CYP2B6,rs3745274,levonorgestrel
+CYP2B6,Unknown Variant,(R)-methadone
+CYP2B6,rs8100458,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs3745274,propofol
+CYP2B6,rs3745274,tacrolimus
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,lamivudine
+CYP2B6,rs3745274,stavudine
+CYP2B6,rs35303484,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,rs3745274,methadone
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs8109525,varenicline
+CYP2B6,rs3760657,methadone
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,lamivudine
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs3745274,zidovudine
+CYP2B6,rs2279345,efavirenz
+CYP2B6,rs2279345,efavirenz
+CYP2B6,rs3745274,bupropion
+CYP2B6,rs3745274,hydroxybupropion
+CYP2B6,rs3745274,tacrolimus
+CYP2B6,rs28399499,efavirenz
+CYP2B6,Unknown Variant,sertraline
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs28399499,nevirapine
+CYP2B6,rs2279345,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,rs3745274,methadone
+CYP2B6,rs2279343,methadone
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs4803419,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3211371,efavirenz
+CYP2B6,rs2279343,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs707265,efavirenz
+CYP2B6,rs3181842,efavirenz
+CYP2B6,rs7246465,efavirenz
+CYP2B6,rs1042389,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3211371,bupropion
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs4803419,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,clopidogrel
+CYP2B6,Unknown Variant,clopidogrel
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,(S)-methadone
+CYP2B6,Unknown Variant,methadone
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs28399499,lamivudine
+CYP2B6,rs28399499,zidovudine
+CYP2B6,rs4803419,efavirenz
+CYP2B6,rs4803419,lamivudine
+CYP2B6,rs4803419,zidovudine
+CYP2B6,rs4803419,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,Unknown Variant,methadone
+CYP2B6,Unknown Variant,methadone
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3826711,opioids
+CYP2B6,Unknown Variant,methadone
+CYP2B6,rs2235036,opioids
+CYP2B6,Unknown Variant,methadone
+CYP2B6,Unknown Variant,(S)-methadone
+CYP2B6,rs2279343,bupropion
+CYP2B6,rs8192709,bupropion
+CYP2B6,rs3745274,bupropion
+CYP2B6,rs3745274,"3,4-methylenedioxymethamphetamine"
+CYP2B6,Unknown Variant,nicotine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3211371,efavirenz
+CYP2B6,rs12721655,cyclophosphamide
+CYP2B6,rs12721655,doxorubicin
+CYP2B6,rs8192709,cyclophosphamide
+CYP2B6,rs8192709,doxorubicin
+CYP2B6,rs3211371,cyclophosphamide
+CYP2B6,rs3211371,doxorubicin
+CYP2B6,rs4802101,cyclophosphamide
+CYP2B6,rs4802101,doxorubicin
+CYP2B6,rs2279343,cyclophosphamide
+CYP2B6,rs3745274,cyclophosphamide
+CYP2B6,rs3745274,doxorubicin
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,lumefantrine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs28399499,lumefantrine
+CYP2B6,rs3745274,lumefantrine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs4803419,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs2279343,propofol
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs4803419,efavirenz
+CYP2B6,rs2279343,efavirenz
+CYP2B6,rs2279343,nevirapine
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,(S)-methadone
+CYP2B6,rs35303484,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs3745274,cyclophosphamide
+CYP2B6,rs7254579,cyclophosphamide
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs4803419,cyclophosphamide
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs4802101,cyclophosphamide
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,lopinavir
+CYP2B6,rs3745274,ritonavir
+CYP2B6,Unknown Variant,chlorambucil
+CYP2B6,Unknown Variant,cyclophosphamide
+CYP2B6,Unknown Variant,fludarabine
+CYP2B6,rs2279343,methadone
+CYP2B6,rs2279343,nevirapine
+CYP2B6,rs3745274,methadone
+CYP2B6,rs12721646,nevirapine
+CYP2B6,rs58425034,nevirapine
+CYP2B6,rs28399499,nevirapine
+CYP2B6,rs2279343,efavirenz
+CYP2B6,Unknown Variant,methadone
+CYP2B6,Unknown Variant,methadone
+CYP2B6,Unknown Variant,methadone
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3211371,nevirapine
+CYP2B6,Unknown Variant,ketamine
+CYP2B6,rs28399499,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs3745274,methadone
+CYP2B6,rs3745274,nevirapine
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,cyclophosphamide
+CYP2B6,rs4803419,olanzapine
+CYP2B6,rs2279345,olanzapine
+CYP2B6,Unknown Variant,buprenorphine
+CYP2B6,Unknown Variant,methadone
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,rs28399499,nevirapine
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs12721655,nevirapine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,cotinine
+CYP2B6,Unknown Variant,nicotine
+CYP2B6,Unknown Variant,methadone
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,nevirapine
+CYP2B6,Unknown Variant,methadone
+CYP2B6,Unknown Variant,methadone
+CYP2B6,rs2279343,efavirenz
+CYP2B6,rs2279345,efavirenz
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs2279343,methadone
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs3745274,ketamine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs2279343,ketamine
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs8192709,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs2279343,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3211371,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs2279343,efavirenz
+CYP2B6,Unknown Variant,cyclophosphamide
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs1042389,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs4803419,efavirenz
+CYP2B6,rs2279343,efavirenz
+CYP2B6,rs35303484,efavirenz
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,hydroxybupropion
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,rs3211371,methadone
+CYP2B6,rs8192709,S-EDDP
+CYP2B6,rs2279344,methadone
+CYP2B6,rs8192709,methadone
+CYP2B6,rs2279344,S-EDDP
+CYP2B6,rs3745274,methadone
+CYP2B6,rs3745274,S-EDDP
+CYP2B6,rs3211371,S-EDDP
+CYP2B6,rs4803419,S-EDDP
+CYP2B6,rs8192719,S-EDDP
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,clopidogrel
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs28399499,nevirapine
+CYP2B6,rs28399499,nevirapine
+CYP2B6,rs28399499,nevirapine
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,lamivudine
+CYP2B6,Unknown Variant,stavudine
+CYP2B6,Unknown Variant,zidovudine
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs4803419,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,chlorambucil
+CYP2B6,Unknown Variant,fludarabine
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs707265,efavirenz
+CYP2B6,Unknown Variant,cyclophosphamide
+CYP2B6,Unknown Variant,fludarabine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,ethambutol
+CYP2B6,Unknown Variant,isoniazid
+CYP2B6,Unknown Variant,pyrazinamide
+CYP2B6,Unknown Variant,rifampin
+CYP2B6,rs3745274,methadone
+CYP2B6,Unknown Variant,nicotine
+CYP2B6,rs2279343,methadone
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3211371,cyclophosphamide
+CYP2B6,rs3211371,cyclophosphamide
+CYP2B6,rs3211371,cyclophosphamide
+CYP2B6,rs3211371,dactinomycin
+CYP2B6,rs3211371,vincristine
+CYP2B6,rs8192719,efavirenz
+CYP2B6,rs2279343,efavirenz
+CYP2B6,rs2279345,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,cyclophosphamide
+CYP2B6,rs3745274,dactinomycin
+CYP2B6,rs3745274,vincristine
+CYP2B6,rs3745274,cyclophosphamide
+CYP2B6,rs3745274,dactinomycin
+CYP2B6,rs3745274,vincristine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3211371,cyclophosphamide
+CYP2B6,rs3211371,dactinomycin
+CYP2B6,rs3211371,vincristine
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs2279343,cyclophosphamide
+CYP2B6,rs2279343,dactinomycin
+CYP2B6,rs2279343,vincristine
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs2279343,nevirapine
+CYP2B6,rs3211371,nevirapine
+CYP2B6,rs3786547,nevirapine
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs2054675,nevirapine
+CYP2B6,rs28399499,nevirapine
+CYP2B6,rs2279343,cyclophosphamide
+CYP2B6,rs2279343,dactinomycin
+CYP2B6,rs2279343,vincristine
+CYP2B6,Unknown Variant,nicotine
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,propofol
+CYP2B6,Unknown Variant,propofol
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,nevirapine
+CYP2B6,Unknown Variant,propofol
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3211371,bupropion
+CYP2B6,Unknown Variant,nevirapine
+CYP2B6,rs35303484,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs35979566,nevirapine
+CYP2B6,rs45482602,methadone
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,propofol
+CYP2B6,Unknown Variant,propofol
+CYP2B6,rs28399499,nevirapine
+CYP2B6,Unknown Variant,mirtazapine
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,clopidogrel
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,Unknown Variant,sibutramine
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,Unknown Variant,fludarabine
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs8192719,methadone
+CYP2B6,rs8192709,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,prasugrel
+CYP2B6,rs70950385,efavirenz
+CYP2B6,Unknown Variant,antineoplastic agents
+CYP2B6,Unknown Variant,tamoxifen
+CYP2B6,rs2279343,cyclophosphamide
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs28399499,nevirapine
+CYP2B6,rs28399499,lumefantrine
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs2279343,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs4803419,methadone
+CYP2B6,Unknown Variant,nicotine
+CYP2B6,Unknown Variant,nicotine
+CYP2B6,rs3745274,methadone
+CYP2B6,rs3211371,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,mitotane
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,tramadol
+CYP2B6,Unknown Variant,methadone
+CYP2B6,rs3745274,ibuprofen
+CYP2B6,rs3745274,bupropion
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,rs2279343,cyclophosphamide
+CYP2B6,rs3745274,tramadol
+CYP2B6,rs28399499,tenofovir
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,hydroxybupropion
+CYP2B6,Unknown Variant,cyclophosphamide
+CYP2B6,Unknown Variant,sertraline
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,tenofovir
+CYP2B6,rs3745274,cyclophosphamide
+CYP2B6,rs374099483,efavirenz
+CYP2B6,rs117872433,efavirenz
+CYP2B6,rs148009906,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs200458614,efavirenz
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,rs535039125,bupropion
+CYP2B6,rs535039125,efavirenz
+CYP2B6,rs201500445,bupropion
+CYP2B6,rs374099483,bupropion
+CYP2B6,rs200458614,bupropion
+CYP2B6,rs148009906,bupropion
+CYP2B6,rs764288403,bupropion
+CYP2B6,rs58871670,bupropion
+CYP2B6,rs200238771,bupropion
+CYP2B6,rs117872433,bupropion
+CYP2B6,rs200238771,efavirenz
+CYP2B6,rs764288403,efavirenz
+CYP2B6,rs201500445,efavirenz
+CYP2B6,Unknown Variant,bupropion
+CYP2B6,rs58871670,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs3745274,cyclophosphamide
+CYP2B6,rs3745274,cyclophosphamide
+CYP2B6,rs3745274,cyclophosphamide
+CYP2B6,rs3745274,cyclophosphamide
+CYP2B6,rs3745274,cyclophosphamide
+CYP2B6,Unknown Variant,dihydroartemisinin
+CYP2B6,Unknown Variant,desbutyl lumefantrine
+CYP2B6,Unknown Variant,lumefantrine
+CYP2B6,Unknown Variant,levonorgestrel
+CYP2B6,Unknown Variant,levonorgestrel
+CYP2B6,rs2279343,efavirenz
+CYP2B6,rs2279343,lamivudine
+CYP2B6,rs2279343,tenofovir
+CYP2B6,rs2279343,nicotine
+CYP2B6,rs28399499,efavirenz
+CYP2B6,rs3745274,imatinib
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,mirtazapine
+CYP2B6,rs1038376,methadone
+CYP2B6,rs58425034,nevirapine
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs28399499,efavirenz
+CYP2B6,Unknown Variant,methadone
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,methadone
+CYP2B6,rs3745274,efavirenz
+CYP2B6,Unknown Variant,propofol
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs1969376664,efavirenz
+CYP2B6,rs142421637,efavirenz
+CYP2B6,rs553968231,efavirenz
+CYP2B6,rs772413158,efavirenz
+CYP2B6,rs1969255598,efavirenz
+CYP2B6,rs3745274,nevirapine
+CYP2B6,rs1969136524,efavirenz
+CYP2B6,rs750671397,efavirenz
+CYP2B6,rs1248477767,efavirenz
+CYP2B6,rs752695347,efavirenz
+CYP2B6,rs1968919352,efavirenz
+CYP2B6,rs141666881,efavirenz
+CYP2B6,rs373442191,efavirenz
+CYP2B6,rs773494867,efavirenz
+CYP2B6,rs1282926098,efavirenz
+CYP2B6,rs553968231,propofol
+CYP2B6,rs373442191,propofol
+CYP2B6,rs1969376664,propofol
+CYP2B6,rs1282926098,propofol
+CYP2B6,rs752695347,propofol
+CYP2B6,rs138264188,propofol
+CYP2B6,rs1969136524,propofol
+CYP2B6,rs142421637,propofol
+CYP2B6,rs773494867,propofol
+CYP2B6,rs3745274,efavirenz
+CYP2B6,rs4803419,efavirenz
+CYP2B6,rs35303484,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,Unknown Variant,nevirapine
+CYP2B6,Unknown Variant,efavirenz
+CYP2B6,rs28399499,nevirapine
+CYP2B6,rs12721646,nevirapine
+CYP2B6,Unknown Variant,methadone
+CYP2B6,Unknown Variant,R-EDDP
+CYP2B6,Unknown Variant,S-EDDP
+DGKH,rs9315885,lithium
+DGKH,rs1170191,lithium
+DGKH,rs1012053,lithium
+GSTZ1,rs1046428,dichloroacetic acid
+GSTZ1,rs7972,dichloroacetic acid
+GSTZ1,rs7975,dichloroacetic acid
+GSTZ1,rs1046428,dichloroacetic acid
+GSTZ1,rs7972,dichloroacetic acid
+GSTZ1,rs7975,dichloroacetic acid
+BRINP3,rs950569,uric acid
+FAT1,rs2304865,aripiprazole
+FAT1,rs2637777,aripiprazole
+FAT1,rs2306987,aripiprazole
+FAT1,rs2306990,aripiprazole
+FAT1,rs116134453,capecitabine
+COQ3,rs11548336,hmg coa reductase inhibitors
+NEDD4L,rs4149601,hydrochlorothiazide
+NEDD4L,rs292449,atenolol
+NEDD4L,rs1008899,hydrochlorothiazide
+NEDD4L,rs1008899,atenolol
+NEDD4L,rs75982813,hydrochlorothiazide
+NEDD4L,rs4149601,atenolol
+NEDD4L,rs4149601,hydrochlorothiazide
+NEDD4L,rs4149601,diltiazem
+NEDD4L,rs520210,citalopram
+NEDD4L,rs4149601,"Beta blocking agents, selective"
+NEDD4L,rs4149601,diuretics
+NEDD4L,rs4149601,hydrochlorothiazide
+NEDD4L,rs4149601,Aldosterone antagonists
+NEDD4L,rs4149601,amiloride
+NEDD4L,rs4149601,"Beta blocking agents, selective"
+NEDD4L,rs4149601,diuretics
+NEDD4L,rs4149601,diltiazem
+NEDD4L,rs292449,hydrochlorothiazide
+NEDD4L,rs292449,hydrochlorothiazide
+NEDD4L,rs1008899,hydrochlorothiazide
+NEDD4L,rs75982813,atenolol
+NEDD4L,rs4149601,hydrochlorothiazide
+NEDD4L,rs4149601,Antihypertensives
+AGAP1,rs1869295,risperidone
+C8orf34,rs1517114,irinotecan
+FBXW12,rs17080138,losartan
+FBXW12,rs17080138,losartan E-3174
+HCN1,rs79983226,tramadol
+ALDH1L1,rs2886059,methylphenidate
+PDGFRB,rs2302273,bevacizumab
+PDGFRB,rs2302273,fluorouracil
+PDGFRB,rs2302273,irinotecan
+PDGFRB,rs2302273,leucovorin
+PDGFRB,rs797044887,imatinib
+PDGFRB,rs201866603,imatinib
+APCDD1,rs564991,Dihydropyridine derivatives
+CELSR2,rs646776,hmg coa reductase inhibitors
+EBF1,rs4551053,hydrochlorothiazide
+DDHD1,rs17126068,warfarin
+UBASH3B,rs10736526,gemcitabine
+ADAM33,rs3918396,corticosteroids
+ADAM33,rs3918396,selective beta-2-adrenoreceptor agonists
+ADAM33,rs2853209,corticosteroids
+ADAM33,rs2853209,selective beta-2-adrenoreceptor agonists
+ADAM33,rs2787094,ustekinumab
+TRPM6,rs2274924,Proton pump inhibitors
+TRPM6,rs3750425,Proton pump inhibitors
+ALOX12,rs11078659,celecoxib
+ACP1,rs11553746,corticosteroids
+TNIK,rs7627954,risperidone
+TNIK,rs2088885,risperidone
+PPARD,rs2076169,fluorouracil
+PPARD,rs2076169,irinotecan
+PPARD,rs2076169,leucovorin
+PPARD,rs2076169,fluorouracil
+PPARD,rs2076169,irinotecan
+PPARD,rs2076169,leucovorin
+PPARD,rs2016520,docetaxel
+PPARD,rs2016520,thalidomide
+PPARD,rs3734254,docetaxel
+PPARD,rs3734254,thalidomide
+PPARD,rs7769719,docetaxel
+PPARD,rs7769719,thalidomide
+PPARD,rs6922548,docetaxel
+PPARD,rs6922548,thalidomide
+PPARD,rs1883322,docetaxel
+PPARD,rs1883322,thalidomide
+PPARD,rs2038067,cisplatin
+PPARD,rs2016520,capecitabine
+PPARD,rs2016520,fluorouracil
+LRP1,rs1800139,warfarin
+LRP1,rs1800154,warfarin
+LRP1,rs11172113,Selective serotonin (5HT1) agonists
+LRP1,rs11172113,botulinum toxin type a
+LRP1,rs7204252,platinum
+LRP1,rs4788186,platinum
+LRP1,rs1057451,platinum
+LRP1,rs4788184,platinum
+ARF1,rs11541557,afatinib
+ARF1,rs11541557,erlotinib
+ARF1,rs11541557,gefitinib
+TNFSF11,rs7984870,anastrozole
+TNFSF11,rs7984870,letrozole
+TNFSF11,rs9594782,anastrozole
+TNFSF11,rs9594782,letrozole
+TNFSF11,rs2277438,anastrozole
+TNFSF11,rs2277438,letrozole
+TNFSF11,rs9533166,anastrozole
+TNFSF11,rs9533166,letrozole
+TNFSF11,rs7984870,anastrozole
+TNFSF11,rs7984870,letrozole
+TNFSF11,rs9566990,anastrozole
+TNFSF11,rs9566990,letrozole
+ARVCF,rs174699,morphine
+ARVCF,rs165728,morphine
+ERCC6L2,rs689979,diuretics
+ERCC6L2,rs689979,hydrochlorothiazide
+ERCC6L2,rs689979,"Thiazides, plain"
+TCL1A,rs7158782,estradiol
+TCL1A,rs7158782,estradiol
+TCL1A,rs7158782,estradiol
+TCL1A,rs7158782,estradiol
+TCL1A,rs7159713,estradiol
+TCL1A,rs7159713,estradiol
+TCL1A,rs7159713,estradiol
+TCL1A,rs7159713,estradiol
+TCL1A,rs2369049,exemestane
+TCL1A,rs7158782,estradiol
+TCL1A,rs7159713,estradiol
+TCL1A,rs11849538,anastrozole
+TCL1A,rs7159713,anastrozole
+TCL1A,rs11849538,exemestane
+TRPV3,rs7217270,botulinum toxin type a
+TIRAP,rs8177374,ustekinumab
+TRAC,rs377360,clozapine
+PDLIM5,rs2433322,lithium
+PDLIM5,rs2433320,lithium
+PDLIM5,rs2452600,fluoxetine
+MOV10,rs12069113,atenolol
+MOV10,rs2932538,atenolol
+NEIL1,rs4462560,fluorouracil
+NEIL1,rs4462560,Platinum compounds
+NEIL1,rs4462560,radiotherapy
+NEIL1,rs7402844,fluorouracil
+NEIL1,rs7402844,Platinum compounds
+NEIL1,rs7402844,radiotherapy
+DNMT3A,rs2304429,warfarin
+FBXL17,rs4431329,hydrochlorothiazide
+FBXL17,rs7706429,hydrochlorothiazide
+ZNF804A,rs7597593,opioids
+ZNF804A,rs1344706,antipsychotics
+ZNF804A,rs12693402,lithium
+ZNF804A,rs62200793,lithium
+CYP3A4,Unknown Variant,nifedipine
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs6956344,tacrolimus
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs1851426,tacrolimus
+CYP3A4,rs2687116,tacrolimus
+CYP3A4,Unknown Variant,cyclosporine
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs4646437,tacrolimus
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs2242480,clopidogrel
+CYP3A4,rs4646437,tacrolimus
+CYP3A4,rs4646437,cyclosporine
+CYP3A4,rs4646437,cyclosporine
+CYP3A4,Unknown Variant,fentanyl
+CYP3A4,rs2740574,atazanavir
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,Unknown Variant,simvastatin
+CYP3A4,rs2740574,sirolimus
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,Unknown Variant,sirolimus
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs28371759,warfarin
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs2740574,amlodipine
+CYP3A4,rs2740574,amlodipine
+CYP3A4,rs2246709,amlodipine
+CYP3A4,rs4646437,galantamine
+CYP3A4,rs35599367,galantamine
+CYP3A4,rs2246709,amlodipine
+CYP3A4,rs2246709,amlodipine
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs2242480,sufentanil
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs35599367,rilpivirine
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,exemestane
+CYP3A4,Unknown Variant,antipsychotics
+CYP3A4,Unknown Variant,aripiprazole
+CYP3A4,Unknown Variant,haloperidol
+CYP3A4,Unknown Variant,pimozide
+CYP3A4,Unknown Variant,risperidone
+CYP3A4,rs2740574,carbamazepine
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs2242480,haloperidol
+CYP3A4,rs35599367,everolimus
+CYP3A4,rs2242480,gefitinib
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,rs2242480,fentanyl
+CYP3A4,rs2242480,clopidogrel
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,Unknown Variant,N-desmethyltamoxifen
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,rs2242480,pantoprazole
+CYP3A4,Unknown Variant,4-hydroxytamoxifen
+CYP3A4,rs2242480,fentanyl
+CYP3A4,rs2242480,clopidogrel
+CYP3A4,rs2242480,gefitinib
+CYP3A4,rs2242480,sufentanil
+CYP3A4,rs2242480,sufentanil
+CYP3A4,Unknown Variant,endoxifen
+CYP3A4,rs2242480,sufentanil
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,rs2242480,fentanyl
+CYP3A4,rs2242480,fentanyl
+CYP3A4,rs2242480,sufentanil
+CYP3A4,rs2242480,fentanyl
+CYP3A4,rs2740574,cyclosporine
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2740574,cyclosporine
+CYP3A4,Unknown Variant,fluorouracil
+CYP3A4,Unknown Variant,irinotecan
+CYP3A4,Unknown Variant,oxaliplatin
+CYP3A4,rs2740574,phenprocoumon
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,cyclosporine
+CYP3A4,Unknown Variant,cyclosporine
+CYP3A4,Unknown Variant,fentanyl
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,Unknown Variant,fentanyl
+CYP3A4,Unknown Variant,cyclosporine
+CYP3A4,rs2740574,cyclosporine
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2740574,cyclosporine
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2740574,vincristine
+CYP3A4,rs2740574,erlotinib
+CYP3A4,rs2740574,olanzapine
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2740574,acenocoumarol
+CYP3A4,rs2740574,phenprocoumon
+CYP3A4,rs2740574,phenprocoumon
+CYP3A4,rs2740574,buprenorphine
+CYP3A4,rs2740574,buprenorphine
+CYP3A4,rs2740574,risperidone
+CYP3A4,rs2740574,(S)-methadone
+CYP3A4,rs2740574,everolimus
+CYP3A4,rs2740574,fentanyl
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2740574,cyclosporine
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2242480,sufentanil
+CYP3A4,rs12721627,midazolam
+CYP3A4,rs2242480,teneligliptin
+CYP3A4,rs35599367,verapamil
+CYP3A4,Unknown Variant,vandetanib
+CYP3A4,Unknown Variant,amiodarone
+CYP3A4,rs3735451,methadone
+CYP3A4,Unknown Variant,brexpiprazole
+CYP3A4,Unknown Variant,brexpiprazole
+CYP3A4,Unknown Variant,sildenafil
+CYP3A4,Unknown Variant,brexpiprazole
+CYP3A4,Unknown Variant,testosterone
+CYP3A4,Unknown Variant,sildenafil
+CYP3A4,Unknown Variant,regorafenib
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,Unknown Variant,docetaxel
+CYP3A4,Unknown Variant,oxycodone
+CYP3A4,rs2242480,methadone
+CYP3A4,rs2242480,fentanyl
+CYP3A4,rs2740574,erythromycin
+CYP3A4,rs2740574,nifedipine
+CYP3A4,rs35599367,pazopanib
+CYP3A4,rs35599367,tenofovir alafenamide
+CYP3A4,rs2242480,lenvatinib
+CYP3A4,Unknown Variant,endoxifen
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs35599367,2-hydroxyatorvastatin
+CYP3A4,rs35599367,dextromethorphan
+CYP3A4,rs35599367,testosterone
+CYP3A4,rs35599367,midazolam
+CYP3A4,Unknown Variant,N-desmethyltamoxifen
+CYP3A4,rs35599367,atorvastatin
+CYP3A4,rs35599367,simvastatin
+CYP3A4,Unknown Variant,acalabrutinib
+CYP3A4,Unknown Variant,lidocaine
+CYP3A4,Unknown Variant,oxycodone
+CYP3A4,Unknown Variant,amiodarone
+CYP3A4,Unknown Variant,vandetanib
+CYP3A4,Unknown Variant,vandetanib
+CYP3A4,Unknown Variant,lidocaine
+CYP3A4,Unknown Variant,ticagrelor
+CYP3A4,Unknown Variant,testosterone
+CYP3A4,Unknown Variant,oxycodone
+CYP3A4,Unknown Variant,acalabrutinib
+CYP3A4,Unknown Variant,regorafenib
+CYP3A4,Unknown Variant,regorafenib
+CYP3A4,Unknown Variant,regorafenib
+CYP3A4,Unknown Variant,saxagliptin
+CYP3A4,Unknown Variant,saxagliptin
+CYP3A4,Unknown Variant,ibrutinib
+CYP3A4,Unknown Variant,ibrutinib
+CYP3A4,Unknown Variant,ibrutinib
+CYP3A4,Unknown Variant,ibrutinib
+CYP3A4,Unknown Variant,cabozantinib
+CYP3A4,Unknown Variant,cabozantinib
+CYP3A4,Unknown Variant,cabozantinib
+CYP3A4,Unknown Variant,macitentan
+CYP3A4,Unknown Variant,macitentan
+CYP3A4,Unknown Variant,macitentan
+CYP3A4,Unknown Variant,midazolam
+CYP3A4,Unknown Variant,midazolam
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,Unknown Variant,n-desmethylclozapine
+CYP3A4,rs3735451,hydroxychloroquine
+CYP3A4,Unknown Variant,docetaxel
+CYP3A4,Unknown Variant,vincristine
+CYP3A4,rs2740574,cyclophosphamide
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs35599367,alprazolam
+CYP3A4,rs35599367,alprazolam
+CYP3A4,Unknown Variant,alprazolam
+CYP3A4,Unknown Variant,alprazolam
+CYP3A4,rs35599367,alprazolam
+CYP3A4,Unknown Variant,docetaxel
+CYP3A4,Unknown Variant,paclitaxel
+CYP3A4,Unknown Variant,paclitaxel
+CYP3A4,Unknown Variant,paclitaxel
+CYP3A4,rs2242480,gefitinib
+CYP3A4,rs2242480,fentanyl
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,rs2242480,gefitinib
+CYP3A4,rs2242480,clopidogrel
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,rs2242480,fentanyl
+CYP3A4,rs28371759,AR-C124910XX
+CYP3A4,rs28371759,ticagrelor
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,rs2242480,carbamazepine
+CYP3A4,rs2242480,oxycodone
+CYP3A4,rs35599367,diazepam
+CYP3A4,rs35599367,diazepam
+CYP3A4,rs2740574,docetaxel
+CYP3A4,rs2740574,paclitaxel
+CYP3A4,rs4646437,voriconazole
+CYP3A4,Unknown Variant,alectinib
+CYP3A4,Unknown Variant,alectinib
+CYP3A4,rs35599367,n-desmethyltramadol
+CYP3A4,rs35599367,tramadol
+CYP3A4,rs4646440,methadone
+CYP3A4,rs2740574,cyclophosphamide
+CYP3A4,rs2740574,fluorouracil
+CYP3A4,rs2740574,methotrexate
+CYP3A4,rs4986910,clopidogrel
+CYP3A4,rs2242480,clopidogrel
+CYP3A4,rs4646437,cisplatin
+CYP3A4,rs4646437,doxorubicin
+CYP3A4,rs2740574,docetaxel
+CYP3A4,rs2740574,paclitaxel
+CYP3A4,Unknown Variant,4-beta-hydroxycholesterol
+CYP3A4,Unknown Variant,cyclosporine
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,sirolimus
+CYP3A4,Unknown Variant,fentanyl
+CYP3A4,rs2242480,fentanyl
+CYP3A4,rs35599367,vemurafenib
+CYP3A4,Unknown Variant,prasugrel
+CYP3A4,Unknown Variant,clopidogrel
+CYP3A4,rs35599367,cyclosporine
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs4646437,tacrolimus
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs35599367,efavirenz
+CYP3A4,Unknown Variant,everolimus
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,cyclosporine
+CYP3A4,rs4986910,nifedipine
+CYP3A4,rs4986913,nifedipine
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,efavirenz
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,rs4646437,tacrolimus
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs12721627,paclitaxel
+CYP3A4,rs2740574,buprenorphine
+CYP3A4,rs2740574,imatinib
+CYP3A4,rs2740574,buprenorphine
+CYP3A4,rs2242480,clopidogrel
+CYP3A4,Unknown Variant,simvastatin
+CYP3A4,Unknown Variant,sildenafil
+CYP3A4,Unknown Variant,tamoxifen
+CYP3A4,rs2740574,nelfinavir
+CYP3A4,rs12333983,tacrolimus
+CYP3A4,Unknown Variant,cyclosporine
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs2740574,efavirenz
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs2740574,nevirapine
+CYP3A4,rs4986910,ambrisentan
+CYP3A4,rs4986910,aripiprazole
+CYP3A4,rs4986910,atorvastatin
+CYP3A4,rs4986910,donepezil
+CYP3A4,rs4986910,olanzapine
+CYP3A4,rs35599367,acenocoumarol
+CYP3A4,rs35599367,phenprocoumon
+CYP3A4,Unknown Variant,midazolam
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,phenprocoumon
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs2740574,simvastatin
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs2740574,paclitaxel
+CYP3A4,Unknown Variant,fentanyl
+CYP3A4,Unknown Variant,fentanyl
+CYP3A4,Unknown Variant,voriconazole
+CYP3A4,rs2740574,simvastatin
+CYP3A4,rs2242480,fentanyl
+CYP3A4,rs4986910,fluvastatin
+CYP3A4,rs4986910,atorvastatin
+CYP3A4,rs2740574,cyclophosphamide
+CYP3A4,rs2740574,doxorubicin
+CYP3A4,rs2740574,docetaxel
+CYP3A4,rs2740574,paclitaxel
+CYP3A4,rs56324128,ticagrelor
+CYP3A4,rs2740574,lumefantrine
+CYP3A4,rs2740574,midazolam
+CYP3A4,rs2740574,lumefantrine
+CYP3A4,Unknown Variant,ticagrelor
+CYP3A4,rs2740574,atorvastatin
+CYP3A4,rs2740574,simvastatin
+CYP3A4,Unknown Variant,clopidogrel
+CYP3A4,Unknown Variant,prasugrel
+CYP3A4,Unknown Variant,endoxifen
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs35599367,hmg coa reductase inhibitors
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs2740574,indinavir
+CYP3A4,rs35599367,lopinavir
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs2242480,oxycodone
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,simvastatin
+CYP3A4,rs2242480,clopidogrel
+CYP3A4,Unknown Variant,fesoterodine
+CYP3A4,rs67666821,ambrisentan
+CYP3A4,rs67666821,aripiprazole
+CYP3A4,rs67666821,atorvastatin
+CYP3A4,rs67666821,donepezil
+CYP3A4,rs67666821,olanzapine
+CYP3A4,rs2740574,antineoplastic agents
+CYP3A4,rs35599367,ambrisentan
+CYP3A4,rs35599367,aripiprazole
+CYP3A4,rs35599367,atorvastatin
+CYP3A4,rs35599367,donepezil
+CYP3A4,rs35599367,olanzapine
+CYP3A4,Unknown Variant,fentanyl
+CYP3A4,Unknown Variant,imatinib
+CYP3A4,Unknown Variant,quetiapine
+CYP3A4,rs2740574,tamoxifen
+CYP3A4,rs2740574,etoposide
+CYP3A4,rs2740574,teniposide
+CYP3A4,rs4986910,warfarin
+CYP3A4,rs35599367,atorvastatin
+CYP3A4,rs35599367,lovastatin
+CYP3A4,rs35599367,simvastatin
+CYP3A4,Unknown Variant,cyclosporine
+CYP3A4,rs2740574,donepezil
+CYP3A4,rs4646437,donepezil
+CYP3A4,rs35599367,donepezil
+CYP3A4,rs2242480,clopidogrel
+CYP3A4,rs2242480,clopidogrel thiol metabolite H4
+CYP3A4,rs2740574,nevirapine
+CYP3A4,rs4986910,tacrolimus
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2740574,cyclosporine
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,Unknown Variant,lopinavir
+CYP3A4,rs35599367,fluticasone propionate
+CYP3A4,rs2740574,sirolimus
+CYP3A4,rs35599367,cyclosporine
+CYP3A4,rs4646437,risperidone
+CYP3A4,rs2740574,risperidone
+CYP3A4,rs28371759,gemcitabine
+CYP3A4,rs28371759,paclitaxel
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs2242480,ticagrelor
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs2242480,warfarin
+CYP3A4,rs35599367,midazolam
+CYP3A4,rs4646437,tacrolimus
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,rs2687116,carbamazepine
+CYP3A4,rs2687116,lamotrigine
+CYP3A4,rs2687116,phenytoin
+CYP3A4,rs2687116,primidone
+CYP3A4,rs2687116,valproic acid
+CYP3A4,rs2740574,carbamazepine
+CYP3A4,rs2740574,lamotrigine
+CYP3A4,rs2740574,phenytoin
+CYP3A4,rs2740574,primidone
+CYP3A4,rs2740574,valproic acid
+CYP3A4,rs2740574,tipifarnib
+CYP3A4,rs2740574,nevirapine
+CYP3A4,Unknown Variant,olanzapine
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs35599367,cyclosporine
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs35599367,methadone
+CYP3A4,Unknown Variant,cyclosporine
+CYP3A4,Unknown Variant,endoxifen
+CYP3A4,Unknown Variant,4-hydroxytamoxifen
+CYP3A4,Unknown Variant,tamoxifen
+CYP3A4,rs2740574,imatinib
+CYP3A4,rs2740574,efavirenz
+CYP3A4,rs28371759,efavirenz
+CYP3A4,rs2740574,docetaxel
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2740574,efavirenz
+CYP3A4,Unknown Variant,tamoxifen
+CYP3A4,rs2242480,oxycodone
+CYP3A4,rs2242480,oxycodone
+CYP3A4,rs2740574,clopidogrel
+CYP3A4,rs4646437,tacrolimus
+CYP3A4,rs2242480,clopidogrel
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,rs2740574,clopidogrel
+CYP3A4,Unknown Variant,fluorouracil
+CYP3A4,Unknown Variant,irinotecan
+CYP3A4,Unknown Variant,oxaliplatin
+CYP3A4,rs2242480,clopidogrel
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,rs4646437,tacrolimus
+CYP3A4,Unknown Variant,fentanyl
+CYP3A4,Unknown Variant,sirolimus
+CYP3A4,rs2242480,haloperidol
+CYP3A4,rs2242480,clopidogrel
+CYP3A4,rs2246709,clopidogrel
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,fentanyl
+CYP3A4,Unknown Variant,bevacizumab
+CYP3A4,Unknown Variant,capecitabine
+CYP3A4,Unknown Variant,cisplatin
+CYP3A4,Unknown Variant,docetaxel
+CYP3A4,Unknown Variant,epirubicin
+CYP3A4,Unknown Variant,oxaliplatin
+CYP3A4,Unknown Variant,trastuzumab
+CYP3A4,rs2242480,methadone
+CYP3A4,rs4646437,methadone
+CYP3A4,rs2246709,methadone
+CYP3A4,rs3735451,methadone
+CYP3A4,rs4646440,methadone
+CYP3A4,rs2242480,methadone
+CYP3A4,rs2246709,methadone
+CYP3A4,rs35599367,paclitaxel
+CYP3A4,rs2740574,cyclophosphamide
+CYP3A4,rs2740574,doxorubicin
+CYP3A4,rs2740574,fluorouracil
+CYP3A4,rs2740574,cyclophosphamide
+CYP3A4,rs2740574,doxorubicin
+CYP3A4,rs2740574,fluorouracil
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs4986914,cyclosporine
+CYP3A4,rs4986914,mycophenolate mofetil
+CYP3A4,rs2242480,oxycodone
+CYP3A4,rs2242480,simvastatin
+CYP3A4,rs2242480,simvastatin
+CYP3A4,rs2242480,atorvastatin
+CYP3A4,rs2242480,clopidogrel
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,rs4646440,carbamazepine
+CYP3A4,rs2242480,atorvastatin
+CYP3A4,rs35599367,erythromycin
+CYP3A4,Unknown Variant,nifedipine
+CYP3A4,rs2740574,efavirenz
+CYP3A4,Unknown Variant,cyclosporine
+CYP3A4,rs28371759,warfarin
+CYP3A4,rs2242480,atorvastatin
+CYP3A4,rs2242480,simvastatin
+CYP3A4,rs2242480,sufentanil
+CYP3A4,rs2740574,atorvastatin
+CYP3A4,Unknown Variant,simvastatin
+CYP3A4,rs2242480,simvastatin
+CYP3A4,rs2740574,amlodipine
+CYP3A4,rs2740574,amlodipine
+CYP3A4,rs2242480,oxycodone
+CYP3A4,rs2740574,citalopram
+CYP3A4,rs4646437,risperidone
+CYP3A4,rs2740574,efavirenz
+CYP3A4,rs2740574,lamivudine
+CYP3A4,rs2740574,zidovudine
+CYP3A4,rs2740574,cyclophosphamide
+CYP3A4,rs2740574,doxorubicin
+CYP3A4,rs2740574,epirubicin
+CYP3A4,rs2740574,fluorouracil
+CYP3A4,rs4646437,voriconazole
+CYP3A4,rs2242480,carbamazepine
+CYP3A4,rs2740574,lopinavir
+CYP3A4,rs4646437,sunitinib
+CYP3A4,rs4646437,cyclosporine
+CYP3A4,rs2242480,exemestane
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs2242480,fentanyl
+CYP3A4,Unknown Variant,voriconazole
+CYP3A4,rs2740574,bleomycin
+CYP3A4,rs2740574,cisplatin
+CYP3A4,rs2740574,etoposide
+CYP3A4,rs2740574,bleomycin
+CYP3A4,rs2740574,cisplatin
+CYP3A4,rs2740574,etoposide
+CYP3A4,rs2242480,opioids
+CYP3A4,rs35599367,cyclosporine
+CYP3A4,rs35599367,clopidogrel
+CYP3A4,rs35599367,everolimus
+CYP3A4,rs3735451,rivaroxaban
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs2242480,rivaroxaban
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs2246709,rivaroxaban
+CYP3A4,rs3735451,rivaroxaban
+CYP3A4,rs2246709,rivaroxaban
+CYP3A4,Unknown Variant,ibuprofen
+CYP3A4,Unknown Variant,docetaxel
+CYP3A4,Unknown Variant,paclitaxel
+CYP3A4,Unknown Variant,anastrozole
+CYP3A4,Unknown Variant,sirolimus
+CYP3A4,rs28371759,imatinib
+CYP3A4,rs35599367,abemaciclib
+CYP3A4,rs35599367,palbociclib
+CYP3A4,rs35599367,ribociclib
+CYP3A4,Unknown Variant,blonanserin
+CYP3A4,Unknown Variant,blonanserin
+CYP3A4,Unknown Variant,blonanserin
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs2242480,gefitinib
+CYP3A4,Unknown Variant,tramadol
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,midazolam
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,loperamide
+CYP3A4,rs2740574,opioids
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,Unknown Variant,ibuprofen
+CYP3A4,Unknown Variant,buprenorphine
+CYP3A4,Unknown Variant,methadone
+CYP3A4,rs2242480,sufentanil
+CYP3A4,Unknown Variant,tramadol
+CYP3A4,Unknown Variant,pantoprazole
+CYP3A4,rs2242480,fentanyl
+CYP3A4,Unknown Variant,quetiapine
+CYP3A4,Unknown Variant,atorvastatin
+CYP3A4,Unknown Variant,atorvastatin lactone
+CYP3A4,rs1203844,apremilast
+CYP3A4,rs35599367,apremilast
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2242480,imatinib
+CYP3A4,Unknown Variant,1-hydroxymidazolam
+CYP3A4,Unknown Variant,midazolam
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2242480,voriconazole
+CYP3A4,rs2740574,docetaxel
+CYP3A4,rs2246709,amlodipine
+CYP3A4,Unknown Variant,midazolam
+CYP3A4,rs4646437,tacrolimus
+CYP3A4,rs2242480,tacrolimus
+CYP3A4,rs35599367,tacrolimus
+CYP3A4,Unknown Variant,simvastatin
+CYP3A4,Unknown Variant,quetiapine
+CYP3A4,Unknown Variant,sunitinib
+CYP3A4,rs2242480,sufentanil
+CYP3A4,rs28371759,ethambutol
+CYP3A4,rs28371759,isoniazid / pyrazinamide / rifampin
+CYP3A4,rs35599367,apixaban
+CYP3A4,Unknown Variant,risperidone
+CYP3A4,rs2242480,perampanel
+CYP3A4,rs4986908,perampanel
+CYP3A4,Unknown Variant,tacrolimus
+CYP3A4,rs35599367,dexamethasone
+CYP3A4,rs4986907,tacrolimus
+CYP3A4,rs2740574,imatinib
+CYP3A4,Unknown Variant,simvastatin
+CYP3A4,Unknown Variant,risperidone
+CYP3A4,Unknown Variant,aripiprazole
+CYP3A4,Unknown Variant,pimozide
+CYP3A4,Unknown Variant,risperidone
+CYP3A4,rs2242480,risperidone
+CYP3A4,Unknown Variant,risperidone
+CYP3A4,rs2242480,risperidone
+CYP3A4,Unknown Variant,risperidone
+CYP3A4,Unknown Variant,risperidone
+CYP3A4,Unknown Variant,aripiprazole
+CYP3A4,Unknown Variant,clozapine
+CYP3A4,Unknown Variant,haloperidol
+CYP3A4,Unknown Variant,aripiprazole
+CYP3A4,Unknown Variant,haloperidol
+CYP3A4,Unknown Variant,pimozide
+CYP3A4,Unknown Variant,risperidone
+CYP3A4,Unknown Variant,lurasidone
+CYP3A4,Unknown Variant,lurasidone
+CYP3A4,Unknown Variant,lurasidone
+CYP3A4,Unknown Variant,quetiapine
+CYP3A4,Unknown Variant,quetiapine
+CYP3A4,Unknown Variant,risperidone
+CYP3A4,Unknown Variant,risperidone
+CYP3A4,Unknown Variant,fesoterodine
+CYP3A4,Unknown Variant,ticagrelor
+CYP3A4,Unknown Variant,ticagrelor
+CYP3A4,rs2740574,tacrolimus
+CYP3A4,rs2740574,atorvastatin
+CYP3A4,rs2740574,atorvastatin
+CYP3A4,rs2242480,fentanyl
+CYP3A4,rs35599367,simvastatin
+CYP3A4,Unknown Variant,methadone
+CYP3A4,Unknown Variant,methadone
+CYP3A4,Unknown Variant,alectinib
+CYP3A4,rs2740574,busulfan
+CYP3A4,rs2740574,cyclophosphamide
+CYP3A4,rs2740574,cyclosporine
+CYP3A4,rs2740574,methotrexate
+CYP3A4,rs35599367,erythromycin
+CYP3A4,Unknown Variant,dolutegravir
+CTBP2,rs945665113,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors
+CTBP2,rs376695472,Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors
+TMEFF2,rs3738883,risperidone
+UGGT2,rs9590353,hydrochlorothiazide
+HTR1D,rs676643,atorvastatin
+HTR1D,rs676643,pravastatin
+HTR1D,rs676643,simvastatin
+RAB7A,rs4548,vincristine
+DCTD,rs35932500,gemcitabine
+DCTD,rs12067645,antineoplastic agents
+DCTD,rs4742,gemcitabine
+DCTD,rs4742,ara-CTP
+DCTD,rs4742,gemcitabine
+DCTD,rs12507552,gemcitabine
+DCTD,rs4742,gemcitabine
+TSHZ2,rs2010156,allopurinol
+METTL3,rs1139130,Drugs For Treatment Of Tuberculosis
+METTL3,rs1139130,Drugs For Treatment Of Tuberculosis
+METTL3,rs1139130,carboplatin
+METTL3,rs1139130,cyclophosphamide
+METTL3,rs1139130,etoposide
+METTL3,rs1139130,lomustine
+METTL3,rs1139130,methotrexate
+METTL3,rs1139130,vincristine
+DPYD,rs145112791,fluorouracil
+DPYD,Unknown Variant,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs1801267,fluorouracil
+DPYD,rs61622928,fluorouracil
+DPYD,rs141044036,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,FOLFIRI
+DPYD,rs3918290,FOLFOX
+DPYD,rs137999090,fluorouracil
+DPYD,rs1801265,capecitabine
+DPYD,rs1801265,fluorouracil
+DPYD,rs112766203,fluorouracil
+DPYD,rs1801158,fluorouracil
+DPYD,rs188052243,fluorouracil
+DPYD,rs67376798,fluorouracil
+DPYD,rs1801158,capecitabine
+DPYD,rs1801158,fluorouracil
+DPYD,rs200687447,fluorouracil
+DPYD,rs143986398,fluorouracil
+DPYD,rs143154602,fluorouracil
+DPYD,rs59086055,fluorouracil
+DPYD,rs146356975,fluorouracil
+DPYD,rs183105782,fluorouracil
+DPYD,rs183385770,fluorouracil
+DPYD,rs55886062,FOLFOX
+DPYD,rs56038477,fluorouracil
+DPYD,rs67376798,fluorouracil
+DPYD,rs17376848,fluorouracil
+DPYD,rs56038477,fluorouracil
+DPYD,rs1801158,fluorouracil
+DPYD,rs2297595,fluorouracil
+DPYD,rs61622928,fluorouracil
+DPYD,rs12132152,capecitabine
+DPYD,rs12132152,capecitabine
+DPYD,rs76387818,capecitabine
+DPYD,rs12132152,capecitabine
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs76387818,capecitabine
+DPYD,rs12022243,capecitabine
+DPYD,rs12022243,capecitabine
+DPYD,rs59086055,fluorouracil
+DPYD,rs59086055,leucovorin
+DPYD,rs56038477,capecitabine
+DPYD,rs56038477,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801158,fluorouracil
+DPYD,rs1801160,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801159,tegafur
+DPYD,rs7548189,capecitabine
+DPYD,rs55886062,fluorouracil
+DPYD,rs55886062,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801265,tegafur
+DPYD,rs1801159,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs75017182,fluorouracil
+DPYD,rs1801265,fluorouracil
+DPYD,rs2786783,fluorouracil
+DPYD,rs2811178,fluorouracil
+DPYD,rs147545709,fluorouracil
+DPYD,rs145548112,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs1801159,fluorouracil
+DPYD,rs1801160,capecitabine
+DPYD,rs2297595,capecitabine
+DPYD,rs1801159,fluorouracil
+DPYD,rs67376798,fluorouracil
+DPYD,rs115232898,fluorouracil
+DPYD,rs1801158,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,tegafur
+DPYD,rs67376798,fluorouracil
+DPYD,rs1801159,cyclophosphamide
+DPYD,rs1801159,doxorubicin
+DPYD,rs1801159,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs78060119,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs56160474,capecitabine
+DPYD,rs56160474,fluorouracil
+DPYD,rs56160474,tegafur / gimeracil / oteracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801160,fluorouracil
+DPYD,rs67376798,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801159,capecitabine
+DPYD,rs1801265,capecitabine
+DPYD,rs1801158,capecitabine
+DPYD,rs1801158,fluorouracil
+DPYD,rs1801158,tegafur
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs56038477,capecitabine
+DPYD,rs67376798,capecitabine
+DPYD,rs3918290,capecitabine
+DPYD,rs45589337,fluorouracil
+DPYD,rs1801265,capecitabine
+DPYD,rs1801265,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801160,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs115232898,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs1801159,capecitabine
+DPYD,rs1801159,fluorouracil
+DPYD,rs1801159,tegafur / gimeracil / oteracil
+DPYD,rs1801159,fluorouracil
+DPYD,rs1801160,FOLFIRINOX
+DPYD,rs1801265,fluorouracil
+DPYD,rs72728438,fluorouracil
+DPYD,rs115632870,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs1801160,capecitabine
+DPYD,rs1801160,fluorouracil
+DPYD,rs1801160,tegafur / gimeracil / oteracil
+DPYD,rs2297595,capecitabine
+DPYD,rs2297595,fluorouracil
+DPYD,rs2297595,tegafur / gimeracil / oteracil
+DPYD,rs3918290,XELOX
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801265,Platinum compounds
+DPYD,rs1801265,Pyrimidine analogues
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs2297595,methotrexate
+DPYD,rs1801265,methotrexate
+DPYD,rs4970722,fluorouracil
+DPYD,rs67376798,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs1760217,antineoplastic agents
+DPYD,rs367619008,XELOX
+DPYD,rs200643089,capecitabine
+DPYD,rs76387818,capecitabine
+DPYD,rs944174134,capecitabine
+DPYD,rs2786783,capecitabine
+DPYD,rs3918290,FOLFIRI
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801159,FOLFIRI
+DPYD,rs1801159,FOLFOX
+DPYD,rs1801159,irinotecan
+DPYD,rs1801159,oxaliplatin
+DPYD,rs1801265,FOLFIRI
+DPYD,rs1801265,FOLFOX
+DPYD,rs1801265,irinotecan
+DPYD,rs1801265,oxaliplatin
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,Unknown Variant,irinotecan
+DPYD,rs3918290,FOLFIRI
+DPYD,rs3918290,FOLFOX
+DPYD,rs3918290,irinotecan
+DPYD,rs3918290,oxaliplatin
+DPYD,rs1801160,Pyrimidine analogues
+DPYD,rs12022243,capecitabine
+DPYD,rs150036960,fluorouracil
+DPYD,rs140602333,fluorouracil
+DPYD,rs143815742,fluorouracil
+DPYD,rs200064537,fluorouracil
+DPYD,rs142512579,fluorouracil
+DPYD,rs148994843,fluorouracil
+DPYD,rs55971861,fluorouracil
+DPYD,rs67376798,FEC100
+DPYD,rs67376798,capecitabine
+DPYD,Unknown Variant,carboplatin
+DPYD,Unknown Variant,cisplatin
+DPYD,rs114096998,fluorouracil
+DPYD,rs1801268,fluorouracil
+DPYD,rs72547601,fluorouracil
+DPYD,rs111858276,fluorouracil
+DPYD,rs2297595,fluorouracil
+DPYD,rs115232898,fluorouracil
+DPYD,rs1801266,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs140114515,fluorouracil
+DPYD,rs201035051,fluorouracil
+DPYD,rs1801265,fluorouracil
+DPYD,rs138391898,fluorouracil
+DPYD,rs199549923,fluorouracil
+DPYD,rs72549305,fluorouracil
+DPYD,rs201018345,fluorouracil
+DPYD,rs146529561,fluorouracil
+DPYD,rs199634007,fluorouracil
+DPYD,rs75017182,capecitabine
+DPYD,rs75017182,fluorouracil
+DPYD,rs1801159,fluorouracil
+DPYD,Unknown Variant,capecitabine
+DPYD,Unknown Variant,fluorouracil
+DPYD,rs1801265,fluorouracil
+DPYD,rs1801159,fluorouracil
+DPYD,rs75017182,fluorouracil
+DPYD,rs1801265,fluorouracil
+DPYD,rs200562975,fluorouracil
+DPYD,rs142619737,fluorouracil
+DPYD,rs138545885,fluorouracil
+DPYD,rs201615754,fluorouracil
+DPYD,rs202144771,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801265,fluorouracil
+DPYD,rs139459586,fluorouracil
+DPYD,rs72547602,fluorouracil
+DPYD,rs1801265,fluorouracil
+DPYD,rs1801265,fluorouracil
+DPYD,rs75017182,capecitabine
+DPYD,rs75017182,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs1801265,fluorouracil
+DPYD,rs1801265,leucovorin
+DPYD,rs80081766,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs141462178,fluorouracil
+DPYD,rs150385342,fluorouracil
+DPYD,rs17376848,fluorouracil
+DPYD,rs2297595,fluorouracil
+DPYD,rs56038477,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs147601618,fluorouracil
+DPYD,rs72549306,fluorouracil
+DPYD,rs190951787,fluorouracil
+DPYD,rs1801265,fluorouracil
+DPYD,rs147601618,fluorouracil
+DPYD,rs145529148,fluorouracil
+DPYD,rs1801265,capecitabine
+DPYD,rs1801265,fluorouracil
+DPYD,rs1801159,capecitabine
+DPYD,rs72549310,fluorouracil
+DPYD,rs139834141,fluorouracil
+DPYD,rs148799944,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801265,fluorouracil
+DPYD,rs56293913,fluorouracil
+DPYD,rs67376798,fluorouracil
+DPYD,rs72549309,fluorouracil
+DPYD,rs72549303,fluorouracil
+DPYD,rs78060119,fluorouracil
+DPYD,rs1801159,fluorouracil
+DPYD,rs1801158,fluorouracil
+DPYD,rs1801265,fluorouracil
+DPYD,rs1801160,fluorouracil
+DPYD,rs75017182,fluorouracil
+DPYD,rs75017182,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,Unknown Variant,fluorouracil
+DPYD,rs1801160,capecitabine
+DPYD,rs143879757,fluorouracil
+DPYD,rs72549306,fluorouracil
+DPYD,rs748620513,fluorouracil
+DPYD,rs1801265,capecitabine
+DPYD,rs1801265,fluorouracil
+DPYD,rs56005131,fluorouracil
+DPYD,rs148994843,fluorouracil
+DPYD,rs1335150891,fluorouracil
+DPYD,rs1184321568,fluorouracil
+DPYD,rs2297595,capecitabine
+DPYD,rs2297595,fluorouracil
+DPYD,rs72549307,capecitabine
+DPYD,rs72549307,fluorouracil
+DPYD,rs45589337,capecitabine
+DPYD,rs45589337,fluorouracil
+DPYD,rs1801158,capecitabine
+DPYD,rs1801158,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801265,fluorouracil
+DPYD,rs1801159,fluorouracil
+DPYD,rs1801159,leucovorin
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs7548189,capecitabine
+DPYD,rs45589337,fluorouracil
+DPYD,rs17116806,fluorouracil
+DPYD,rs17376848,fluorouracil
+DPYD,rs59086055,fluorouracil
+DPYD,rs61757362,fluorouracil
+DPYD,rs72549308,fluorouracil
+DPYD,rs72549304,fluorouracil
+DPYD,rs72549307,fluorouracil
+DPYD,rs138616379,fluorouracil
+DPYD,rs188052243,fluorouracil
+DPYD,rs190577302,fluorouracil
+DPYD,rs186169810,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801159,fluorouracil
+DPYD,rs1801159,fluorouracil
+DPYD,rs1801159,fluorouracil
+DPYD,rs1801159,capecitabine
+DPYD,rs1801159,fluorouracil
+DPYD,rs17376848,capecitabine
+DPYD,rs17376848,fluorouracil
+DPYD,rs1801160,capecitabine
+DPYD,rs1801160,fluorouracil
+DPYD,Unknown Variant,fluorouracil
+DPYD,rs45589337,fluorouracil
+DPYD,rs1801159,fluorouracil
+DPYD,rs55886062,fluorouracil
+DPYD,rs55886062,capecitabine
+DPYD,rs55886062,fluorouracil
+DPYD,rs67376798,fluorouracil
+DPYD,rs1801265,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,tegafur
+DPYD,rs67376798,tegafur
+DPYD,rs3918290,fluorouracil
+DPYD,rs67376798,fluorouracil
+DPYD,rs67376798,leucovorin
+DPYD,Unknown Variant,capecitabine
+DPYD,Unknown Variant,FOLFOX
+DPYD,Unknown Variant,fluorouracil
+DPYD,Unknown Variant,irinotecan
+DPYD,Unknown Variant,leucovorin
+DPYD,Unknown Variant,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs1801159,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,FOLFIRI
+DPYD,rs3918290,FOLFOX
+DPYD,rs3918290,irinotecan
+DPYD,rs3918290,oxaliplatin
+DPYD,rs1801159,FOLFIRI
+DPYD,rs1801159,FOLFOX
+DPYD,rs1801159,irinotecan
+DPYD,rs1801159,oxaliplatin
+DPYD,rs1801265,FOLFIRI
+DPYD,rs1801265,FOLFOX
+DPYD,rs1801265,irinotecan
+DPYD,rs1801265,oxaliplatin
+DPYD,rs3918290,fluorouracil
+DPYD,Unknown Variant,fluorouracil
+DPYD,rs1801265,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs56160474,capecitabine
+DPYD,rs56160474,fluorouracil
+DPYD,rs56160474,tegafur / gimeracil / oteracil
+DPYD,rs1801160,capecitabine
+DPYD,rs1801160,fluorouracil
+DPYD,rs1801160,tegafur / gimeracil / oteracil
+DPYD,rs2297595,capecitabine
+DPYD,rs2297595,fluorouracil
+DPYD,rs2297595,tegafur / gimeracil / oteracil
+DPYD,rs1801159,capecitabine
+DPYD,rs1801159,fluorouracil
+DPYD,rs1801159,tegafur / gimeracil / oteracil
+DPYD,rs1801158,capecitabine
+DPYD,rs1801158,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs75017182,capecitabine
+DPYD,rs75017182,fluorouracil
+DPYD,rs2297595,capecitabine
+DPYD,rs2297595,fluorouracil
+DPYD,rs2297595,capecitabine
+DPYD,rs2297595,fluorouracil
+DPYD,rs2297595,capecitabine
+DPYD,rs2297595,fluorouracil
+DPYD,rs67376798,fluorouracil
+DPYD,rs55886062,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs55886062,capecitabine
+DPYD,rs55886062,fluorouracil
+DPYD,rs1801159,capecitabine
+DPYD,rs1801159,fluorouracil
+DPYD,rs1801160,capecitabine
+DPYD,rs1801160,fluorouracil
+DPYD,rs1801158,capecitabine
+DPYD,rs1801158,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs17376848,capecitabine
+DPYD,rs17376848,fluorouracil
+DPYD,rs2297595,capecitabine
+DPYD,rs2297595,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,cisplatin
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs1801158,cisplatin
+DPYD,rs1801158,fluorouracil
+DPYD,rs2297595,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801160,fluorouracil
+DPYD,rs67376798,fluorouracil
+DPYD,rs1801160,fluorouracil
+DPYD,rs55886062,capecitabine
+DPYD,rs55886062,fluorouracil
+DPYD,rs56038477,capecitabine
+DPYD,rs56038477,fluorouracil
+DPYD,rs12132152,FOLFOX
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs115232898,FOLFOX
+DPYD,rs1801159,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs56038477,capecitabine
+DPYD,rs56038477,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,Unknown Variant,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs56038477,capecitabine
+DPYD,rs56038477,fluorouracil
+DPYD,Unknown Variant,fluorouracil
+DPYD,rs1801160,fluorouracil
+DPYD,Unknown Variant,capecitabine
+DPYD,rs1801160,capecitabine
+DPYD,rs1801160,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs2297595,capecitabine
+DPYD,rs2297595,fluorouracil
+DPYD,Unknown Variant,fluorouracil
+DPYD,rs75017182,capecitabine
+DPYD,rs75017182,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs67376798,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs55886062,capecitabine
+DPYD,rs55886062,fluorouracil
+DPYD,rs56038477,capecitabine
+DPYD,rs56038477,fluorouracil
+DPYD,rs1801160,capecitabine
+DPYD,rs1801160,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs55886062,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs75848562,capecitabine
+DPYD,rs61786598,capecitabine
+DPYD,rs1801160,capecitabine
+DPYD,rs1801160,fluorouracil
+DPYD,rs1801158,capecitabine
+DPYD,rs1801158,fluorouracil
+DPYD,rs1801159,capecitabine
+DPYD,rs1801159,fluorouracil
+DPYD,rs56293913,capecitabine
+DPYD,rs2297595,capecitabine
+DPYD,rs1801158,capecitabine
+DPYD,rs56038477,capecitabine
+DPYD,rs56293913,capecitabine
+DPYD,rs1801159,capecitabine
+DPYD,rs1801160,capecitabine
+DPYD,rs3918290,capecitabine
+DPYD,rs56160474,capecitabine
+DPYD,rs67376798,capecitabine
+DPYD,rs17470762,capecitabine
+DPYD,rs291593,capecitabine
+DPYD,rs67376798,capecitabine
+DPYD,rs41285690,capecitabine
+DPYD,rs2297595,fluorouracil
+DPYD,rs1801158,fluorouracil
+DPYD,rs1801265,fluorouracil
+DPYD,rs17376848,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918289,fluorouracil
+DPYD,rs55886062,fluorouracil
+DPYD,rs1801267,fluorouracil
+DPYD,rs56276561,capecitabine
+DPYD,rs61787828,capecitabine
+DPYD,rs55684412,capecitabine
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs1801265,capecitabine
+DPYD,rs1801265,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs2297595,capecitabine
+DPYD,rs1801158,fluorouracil
+DPYD,rs1801160,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801265,fluorouracil
+DPYD,rs78060119,fluorouracil
+DPYD,rs78060119,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801160,fluorouracil
+DPYD,rs78060119,fluorouracil
+DPYD,rs1801265,fluorouracil
+DPYD,rs55886062,tegafur
+DPYD,rs17376848,capecitabine
+DPYD,rs17376848,fluorouracil
+DPYD,rs1801159,capecitabine
+DPYD,rs1801159,fluorouracil
+DPYD,rs1801160,capecitabine
+DPYD,rs1801160,fluorouracil
+DPYD,rs2297595,capecitabine
+DPYD,rs2297595,fluorouracil
+DPYD,rs55886062,capecitabine
+DPYD,rs55886062,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs376073289,capecitabine
+DPYD,rs1801159,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs56038477,bevacizumab
+DPYD,rs56038477,capecitabine
+DPYD,rs56038477,cisplatin
+DPYD,rs56038477,docetaxel
+DPYD,rs56038477,epirubicin
+DPYD,rs56038477,oxaliplatin
+DPYD,rs56038477,trastuzumab
+DPYD,rs1801158,bevacizumab
+DPYD,rs1801158,capecitabine
+DPYD,rs1801158,cisplatin
+DPYD,rs1801158,docetaxel
+DPYD,rs1801158,epirubicin
+DPYD,rs1801158,oxaliplatin
+DPYD,rs1801158,trastuzumab
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs67376798,tegafur
+DPYD,rs56038477,capecitabine
+DPYD,rs56038477,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801158,capecitabine
+DPYD,rs1801158,fluorouracil
+DPYD,rs55886062,capecitabine
+DPYD,rs55886062,fluorouracil
+DPYD,rs56038477,capecitabine
+DPYD,rs56038477,fluorouracil
+DPYD,rs56038477,tegafur
+DPYD,rs1801160,capecitabine
+DPYD,rs1801265,capecitabine
+DPYD,rs56038477,capecitabine
+DPYD,rs1801158,capecitabine
+DPYD,rs1801159,capecitabine
+DPYD,rs56038477,capecitabine
+DPYD,rs1801159,fluorouracil
+DPYD,rs1801159,fluorouracil
+DPYD,rs45589337,capecitabine
+DPYD,rs2297595,capecitabine
+DPYD,rs1801265,capecitabine
+DPYD,rs777425216,capecitabine
+DPYD,rs67376798,capecitabine
+DPYD,rs1801160,capecitabine
+DPYD,rs55886062,capecitabine
+DPYD,rs1801159,capecitabine
+DPYD,rs1801158,capecitabine
+DPYD,rs17376848,fluorouracil
+DPYD,rs2297595,capecitabine
+DPYD,rs17376848,capecitabine
+DPYD,rs1801265,fluorouracil
+DPYD,rs1801265,capecitabine
+DPYD,rs1801159,capecitabine
+DPYD,rs1801265,capecitabine
+DPYD,rs17376848,capecitabine
+DPYD,rs56038477,capecitabine
+DPYD,rs67376798,XELOX
+DPYD,Unknown Variant,capecitabine
+DPYD,rs56293913,capecitabine
+DPYD,rs56293913,fluorouracil
+DPYD,rs2811178,capecitabine
+DPYD,rs2811178,fluorouracil
+DPYD,rs56293913,capecitabine
+DPYD,rs2811178,capecitabine
+DPYD,rs67376798,capecitabine
+DPYD,rs56293913,fluorouracil
+DPYD,Unknown Variant,fluorouracil
+DPYD,Unknown Variant,fluorouracil
+DPYD,rs55886062,capecitabine
+DPYD,rs55886062,fluorouracil
+DPYD,Unknown Variant,fluorouracil
+DPYD,rs67376798,fluorouracil
+DPYD,rs2297595,fluorouracil
+DPYD,rs2297595,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs3918290,capecitabine
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs56276561,capecitabine
+DPYD,rs56276561,fluorouracil
+DPYD,rs2297595,capecitabine
+DPYD,rs2297595,fluorouracil
+DPYD,rs55886062,capecitabine
+DPYD,rs55886062,fluorouracil
+DPYD,rs6668296,capecitabine
+DPYD,rs6668296,fluorouracil
+DPYD,rs115349832,capecitabine
+DPYD,rs115349832,fluorouracil
+DPYD,rs17376848,capecitabine
+DPYD,rs17376848,fluorouracil
+DPYD,rs17376848,capecitabine
+DPYD,rs17376848,irinotecan
+DPYD,rs17376848,oxaliplatin
+DPYD,rs2297595,capecitabine
+DPYD,rs2297595,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs1801266,capecitabine
+DPYD,rs1801266,fluorouracil
+DPYD,rs2297595,capecitabine
+DPYD,rs56038477,fluorouracil
+DPYD,rs75017182,capecitabine
+DPYD,rs75017182,irinotecan
+DPYD,rs75017182,oxaliplatin
+DPYD,rs1801265,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs367619008,fluorouracil
+DPYD,rs1801158,fluorouracil
+DPYD,rs55886062,fluorouracil
+DPYD,rs115232898,fluorouracil
+DPYD,rs76387818,capecitabine
+DPYD,rs72975710,fluorouracil
+DPYD,rs144395748,fluorouracil
+DPYD,rs2297595,fluorouracil
+DPYD,rs2297595,capecitabine
+DPYD,rs2297595,fluorouracil
+DPYD,rs2297595,capecitabine
+DPYD,rs2297595,fluorouracil
+DPYD,rs1801158,capecitabine
+DPYD,rs1801158,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs75017182,capecitabine
+DPYD,rs75017182,fluorouracil
+DPYD,rs150437414,fluorouracil
+DPYD,Unknown Variant,capecitabine
+DPYD,Unknown Variant,fluorouracil
+DPYD,rs60511679,fluorouracil
+DPYD,rs56038477,capecitabine
+DPYD,rs56038477,fluorouracil
+DPYD,rs2297595,capecitabine
+DPYD,rs2297595,fluorouracil
+DPYD,rs75267292,capecitabine
+DPYD,rs12119882,capecitabine
+DPYD,rs291592,capecitabine
+DPYD,rs61786599,capecitabine
+DPYD,rs1801265,capecitabine
+DPYD,rs2297595,capecitabine
+DPYD,rs2297595,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801160,capecitabine
+DPYD,rs1801160,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs7548189,capecitabine
+DPYD,rs55674432,fluorouracil
+DPYD,rs17376848,fluorouracil
+DPYD,rs17376848,capecitabine
+DPYD,rs45589337,capecitabine
+DPYD,rs45589337,fluorouracil
+DPYD,rs55886062,capecitabine
+DPYD,rs55886062,capecitabine
+DPYD,rs55886062,fluorouracil
+DPYD,rs55886062,tegafur
+DPYD,rs60139309,fluorouracil
+DPYD,rs75017182,capecitabine
+DPYD,rs75017182,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs67376798,bevacizumab
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,cisplatin
+DPYD,rs67376798,docetaxel
+DPYD,rs67376798,epirubicin
+DPYD,rs67376798,oxaliplatin
+DPYD,rs67376798,trastuzumab
+DPYD,rs145773863,fluorouracil
+DPYD,rs1801159,fluorouracil
+DPYD,rs1801159,capecitabine
+DPYD,rs1801159,fluorouracil
+DPYD,rs1801160,fluorouracil
+DPYD,rs1801160,fluorouracil
+DPYD,rs1801265,capecitabine
+DPYD,rs1801265,fluorouracil
+DPYD,rs1801265,capecitabine
+DPYD,rs1801265,fluorouracil
+DPYD,Unknown Variant,capecitabine
+DPYD,Unknown Variant,fluorouracil
+DPYD,Unknown Variant,capecitabine
+DPYD,Unknown Variant,fluorouracil
+DPYD,rs376073289,fluorouracil
+DPYD,rs140039091,fluorouracil
+DPYD,rs372307932,fluorouracil
+DPYD,rs369103276,fluorouracil
+DPYD,rs755692084,fluorouracil
+DPYD,rs187713395,fluorouracil
+DPYD,rs201268750,fluorouracil
+DPYD,rs367619008,fluorouracil
+DPYD,rs570122671,fluorouracil
+DPYD,rs758649719,fluorouracil
+DPYD,rs199777072,fluorouracil
+DPYD,rs575763449,fluorouracil
+DPYD,rs532341730,fluorouracil
+DPYD,rs759249769,fluorouracil
+DPYD,rs781184141,fluorouracil
+DPYD,rs377143350,fluorouracil
+DPYD,rs376128878,fluorouracil
+DPYD,rs528430685,fluorouracil
+DPYD,rs199646142,fluorouracil
+DPYD,rs368152149,fluorouracil
+DPYD,rs370615432,fluorouracil
+DPYD,rs377169736,fluorouracil
+DPYD,rs201785202,fluorouracil
+DPYD,rs200693895,fluorouracil
+DPYD,rs201433243,fluorouracil
+DPYD,rs376273539,fluorouracil
+DPYD,rs375990187,fluorouracil
+DPYD,rs200296941,fluorouracil
+DPYD,rs374827081,fluorouracil
+DPYD,rs200709381,fluorouracil
+DPYD,rs774579695,fluorouracil
+DPYD,rs372909322,fluorouracil
+DPYD,rs573299212,fluorouracil
+DPYD,rs370569731,fluorouracil
+DPYD,rs372058915,fluorouracil
+DPYD,rs368970772,fluorouracil
+DPYD,rs144935781,fluorouracil
+DPYD,rs151074666,fluorouracil
+DPYD,rs371792178,fluorouracil
+DPYD,rs375436137,fluorouracil
+DPYD,rs200687447,fluorouracil
+DPYD,rs779728902,fluorouracil
+DPYD,rs368327291,fluorouracil
+DPYD,rs114096998,fluorouracil
+DPYD,rs529019871,fluorouracil
+DPYD,rs370707404,fluorouracil
+DPYD,rs371313778,fluorouracil
+DPYD,rs202212118,fluorouracil
+DPYD,rs141439344,fluorouracil
+DPYD,rs137878450,fluorouracil
+DPYD,rs141726921,fluorouracil
+DPYD,rs143879757,fluorouracil
+DPYD,rs201648613,fluorouracil
+DPYD,rs368519011,fluorouracil
+DPYD,rs568367673,fluorouracil
+DPYD,rs527580106,fluorouracil
+DPYD,rs538336580,fluorouracil
+DPYD,rs55886062,fluorouracil
+DPYD,rs528152707,fluorouracil
+DPYD,rs140989814,fluorouracil
+DPYD,rs371258350,fluorouracil
+DPYD,rs368146607,fluorouracil
+DPYD,rs536577604,fluorouracil
+DPYD,rs374527058,fluorouracil
+DPYD,rs575853463,fluorouracil
+DPYD,rs569661196,fluorouracil
+DPYD,rs374825099,fluorouracil
+DPYD,rs558354142,fluorouracil
+DPYD,rs548783838,fluorouracil
+DPYD,rs538703919,fluorouracil
+DPYD,rs376073289,fluorouracil
+DPYD,rs755416212,capecitabine
+DPYD,Unknown Variant,capecitabine
+DPYD,Unknown Variant,fluorouracil
+DPYD,Unknown Variant,fluorouracil
+DPYD,rs1801265,FOLFIRI
+DPYD,rs1801265,FOLFOX
+DPYD,rs1801265,XELOX
+DPYD,rs2297595,tenofovir
+DPYD,rs1042482,irinotecan
+DPYD,rs1801159,tenofovir
+DPYD,rs4294451,fluorouracil
+DPYD,rs146170505,capecitabine
+DPYD,rs72549309,capecitabine
+DPYD,rs1801159,fluorouracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801265,capecitabine
+DPYD,rs17376848,capecitabine
+DPYD,rs17376848,fluorouracil
+DPYD,rs1801159,capecitabine
+DPYD,rs1801158,capecitabine
+DPYD,rs17376848,fluorouracil
+DPYD,Unknown Variant,capecitabine
+DPYD,rs67376798,capecitabine
+DPYD,rs67376798,fluorouracil
+DPYD,rs67376798,tegafur
+DPYD,Unknown Variant,uracil
+DPYD,Unknown Variant,uracil
+DPYD,Unknown Variant,uracil
+DPYD,Unknown Variant,uracil
+DPYD,rs3918290,fluorouracil
+DPYD,rs1801158,capecitabine
+DPYD,rs1801158,fluorouracil
+DPYD,rs754125729,capecitabine
+DPYD,rs754125729,fluorouracil
+DPYD,rs3918290,capecitabine
+DPYD,rs3918290,fluorouracil
+DPYD,rs3918290,tegafur
+DPYD,Unknown Variant,fluorouracil
+DPYD,Unknown Variant,irinotecan
+DPYD,Unknown Variant,capecitabine
+DPYD,Unknown Variant,fluorouracil
+DPYD,Unknown Variant,FOLFIRI
+DPYD,Unknown Variant,FOLFIRINOX
+DPYD,Unknown Variant,FOLFOX
+DPYD,Unknown Variant,capecitabine
+DPYD,Unknown Variant,fluorouracil
+DPYD,Unknown Variant,FOLFOX
+DPYD,Unknown Variant,capecitabine
+DPYD,rs755416212,fluorouracil
+DPYD,Unknown Variant,fluorouracil
+DPYD,Unknown Variant,FOLFIRI
+DPYD,Unknown Variant,FOLFOX
+DPYD,Unknown Variant,fluorouracil
+DPYD,Unknown Variant,FOLFIRI
+DPYD,Unknown Variant,FOLFOX
+DPYD,rs1801160,fluorouracil
+DPYD,rs67376798,fluorouracil
+DPYD,Unknown Variant,capecitabine
+DPYD,rs4294451,fluorouracil
+DPYD,rs4294451,fluorouracil
+DPYD,rs67376798,fluorouracil
+DPYD,rs3918290,fluorouracil
